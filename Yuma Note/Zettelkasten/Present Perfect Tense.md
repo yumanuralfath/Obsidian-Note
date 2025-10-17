@@ -10,7 +10,7 @@ Menunjukkan **tindakan yang sudah terjadi tetapi masih ada hubungannya dengan ma
     → Program komputer baru **telah menyediakan** berbagai aplikasi yang berguna.  
     (Artinya: tindakan menyediakan itu sudah terjadi, tapi hasilnya masih bisa dirasakan sekarang.)
 **Kapan digunakan:**
-- Saat menekankan **hasil atau dampak dari sebuah tindakan** yang sudah selesai tapi masih relevan sekarang.tags:: [[Daily Notes]]
+- Saat menekankan **hasil atau dampak dari sebuah tindakan** yang sudah selesai tapi masih tags:: [[Daily Notes]]
 
 ---
 ### 📅 Daily Questions
