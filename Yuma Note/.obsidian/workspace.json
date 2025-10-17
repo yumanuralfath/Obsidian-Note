@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "3759b0b073284554",
+        "id": "cc29910253612e47",
         "type": "tabs",
         "children": [
           {
-            "id": "64ea63706509e083",
+            "id": "4c04a84b188c70d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Literature/Longman - Preparation Course For TOEFL Test.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Longman - Preparation Course For TOEFL Test"
             }
           }
         ]
@@ -33,7 +43,7 @@
       {
         "id": "7064e8e8994ac80a",
         "type": "tabs",
-        "dimension": 73.61477572559367,
+        "dimension": 67.74869109947645,
         "children": [
           {
             "id": "b378e45f063dd61e",
@@ -49,12 +59,27 @@
             }
           },
           {
+            "id": "cd8a8265ff6b1bf9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
             "id": "f75a0caca4b27830",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,25 +103,25 @@
         ]
       },
       {
-        "id": "d2010fbbdb054746",
+        "id": "a65d3677a8d7633f",
         "type": "tabs",
-        "dimension": 26.385224274406333,
+        "dimension": 32.25130890052356,
         "children": [
           {
-            "id": "fec7ab36b3bed5e7",
+            "id": "983df268e524e5d7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "calendar",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 214.5
   },
   "right": {
     "id": "327b68fff47bb138",
@@ -112,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literature/Longman - Preparation Course For TOEFL Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlink"
+              "title": "Backlinks for Longman - Preparation Course For TOEFL Test"
             }
           },
           {
@@ -130,26 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Literature/Longman - Preparation Course For TOEFL Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Tautan Keluar"
-            }
-          },
-          {
-            "id": "cd8a8265ff6b1bf9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Outgoing links from Longman - Preparation Course For TOEFL Test"
             }
           },
           {
@@ -178,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -194,22 +206,42 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "b378e45f063dd61e",
+  "active": "4c04a84b188c70d8",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled.md",
+    "Templates/Book Template.md",
+    "Templates/Random Template.md",
     "Templates/Note Template.md",
+    "Templates/Daily Template.md",
+    "Literature/Longman - Preparation Course For TOEFL Test.md",
+    "Daily/2025/10-October/2025-10-17-Friday.md",
+    "Daily/2025/10-October",
+    "Daily/2025",
+    "Timestamps/<% tp.date.now(\"YYYY\", 1) %>/<% tp.date.now(\"MM-MMMM\", 1) %>/<% tp.date.now(\"YYYY-MM-DD-dddd\", 1) %>.md",
+    "Zettelkasten/+Daily Notes.md",
+    "Daily/2025/10-October/2025-10-16-Thursday.md",
+    "Timestamps/<% tp.date.now(\"YYYY\", 1) %>/<% tp.date.now(\"MM-MMMM\", 1) %>",
+    "Timestamps/<% tp.date.now(\"YYYY\", 1) %>",
+    "Timestamps",
+    "FIles/Pasted image 20251017194015.png",
+    "Daily/2025-10-17.md",
+    "Templates/Daily Note Template.md",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/RAndom.md",
+    "Zettelkasten/s.md",
+    "Zettelkasten/dsda.md",
+    "Literature/Longman.md",
+    "Daily",
+    "Zettelkasten/Untitled 1.md",
+    "Zettelkasten/Untitled.base",
+    "FIles",
+    "Literature",
     "Reference Notes/TOEFL - LONGMAN BOOK.md",
     "F",
-    "Reference Notes",
-    "Templates",
-    "FIles",
-    "Zettelkasten",
     "TOEFL/Grammar (longman book)/SKILL 1.md",
-    "TOEFL/Grammar (longman book)",
-    "TOEFL",
     "3_Permanent/Apples Vision Statement.md",
     "1_Fleeting/About - 1_Fleeting Notes.md",
     "OKRs 2023.md",
@@ -219,8 +251,6 @@
     "Home.md",
     "Visuals/luhmann_vs_digital_2025-03-06.png",
     "Visuals/banner_books.jpg",
-    "2025-10-17.md",
-    "Untitled.md",
-    "Welcome.md"
+    "2025-10-17.md"
   ]
 }
