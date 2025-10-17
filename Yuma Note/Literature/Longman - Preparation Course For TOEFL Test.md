@@ -13,10 +13,11 @@ tags:
 ![[Pasted image 20251017194015.png]]
 
 ## 🔍 Ringkasan
--  
+-  [[grammar]]
+	- [[Be Sure The Sentence Has A Subject And A verb]]
 
 ## 💡 Konsep Penting
-- 
+-  
 
 ## 🗒️ Kutipan
 > 

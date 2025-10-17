@@ -6,11 +6,11 @@ tags:
 
 # 🧩 <% tp.file.title %>
 
-## 💡 Ide Utama
-Tuliskan ide inti dalam 1–2 kalimat.
+## 💪 Exercise With Example
+- 
 
-## 🗒️ Note Example
-Tuliskan detail, argumen, atau penjabaran dari ide di atas.
+## 📚 Penjelasan
+-  
 
 ## 🔗 Sumber
 - [[ ]]
