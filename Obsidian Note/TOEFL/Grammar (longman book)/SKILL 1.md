@@ -1,0 +1,1 @@
+- A *sentence* in English must have at least one *subject* and one *verb*
