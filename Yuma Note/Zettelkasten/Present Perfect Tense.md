@@ -23,20 +23,6 @@ Menunjukkan **tindakan yang sudah terjadi tetapi masih ada hubungannya dengan ma
 ##### 🚀 One+ thing I plan to accomplish today is...
 - [ ] 
 
-##### 👎 One thing I'm struggling with today is...
-- 
-
----
-# 📝 Notes
-- 
-
----
-### Notes created today
-```dataview
-List FROM "" WHERE file.cday = date("2025-10-17") SORT file.ctime asc
-```
-
-### Notes last touched today
-```dataview
-List FROM "" WHERE file.mday = date("2025-10-17") SORT file.mtime asc
-```
+##### 👎 One thing I'm stru---
+#---
+#

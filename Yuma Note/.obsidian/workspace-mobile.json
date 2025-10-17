@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Present Perfect Tense.md",
-                "mode": "source",
+                "file": "Zettelkasten/Exercise Skill 1.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Present Perfect Tense"
+              "title": "Exercise Skill 1"
             }
           }
         ]
@@ -174,8 +174,8 @@
   },
   "active": "81696eac8f45264b",
   "lastOpenFiles": [
-    "Zettelkasten/Exercise Skill 1.md",
     "Zettelkasten/Present Perfect Tense.md",
+    "Zettelkasten/Exercise Skill 1.md",
     "Templates/Book Template.md",
     "Templates/Daily Template.md",
     "Templates/Random Template.md"
