@@ -1,6 +1,6 @@
 # 📚 My Obsidian Note 
 
-Selamat datang di repository catatan pribadi saya! Ini adalah koleksi catatan yang saya buat menggunakan [Obsidian](https://obsidian.md/), sebuah aplikasi pencatatan yang powerful dengan sistem linking berbasis markdown.
+Ini adalah koleksi catatan yang saya buat menggunakan [Obsidian](https://obsidian.md/), sebuah aplikasi pencatatan yang powerful dengan sistem linking berbasis markdown.
 
 ## 🎯 Tentang Repository Ini
 
@@ -58,7 +58,3 @@ Catatan-catatan ini bersifat pribadi dan dibagikan untuk keperluan pembelajaran.
 Ini adalah catatan pribadi, tapi saya terbuka untuk diskusi! Jika Anda menemukan kesalahan atau ingin berdiskusi tentang topik tertentu, silakan buat issue atau hubungi saya.
 
 ---
-
-⭐ Jika repository ini berguna untuk Anda, jangan lupa berikan star!
-
-**Last Updated:** [Tanggal]
