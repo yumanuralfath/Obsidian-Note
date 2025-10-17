@@ -11,10 +11,24 @@
             "id": "81696eac8f45264b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Present Perfect Tense.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Present Perfect Tense"
             }
           }
         ]
@@ -154,9 +168,14 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "random-note:Open random note": false
     }
   },
   "active": "81696eac8f45264b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Templates/Book Template.md",
+    "Templates/Daily Template.md",
+    "Templates/Random Template.md"
+  ]
 }
