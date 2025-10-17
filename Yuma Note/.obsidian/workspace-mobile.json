@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Zettelkasten/Present Perfect Tense.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -174,8 +174,9 @@
   },
   "active": "81696eac8f45264b",
   "lastOpenFiles": [
-    "Templates/Book Template.md",
+    "Zettelkasten/Exercise Skill 1.md",
     "Zettelkasten/Present Perfect Tense.md",
+    "Templates/Book Template.md",
     "Templates/Daily Template.md",
     "Templates/Random Template.md"
   ]
