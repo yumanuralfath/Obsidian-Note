@@ -4,10 +4,5 @@ tags:
   - random
 ---
 
-# 🌀 <% tp.file.title %>
 
-## 🧠 Pikiran Acak
-Tuliskan ide, pertanyaan, atau hal yang ingin diingat.
-
-## 📎 Catatan Tambahan
-- 
+⏰ **Waktu dibuat:** <% tp.date.now("HH:mm") %>

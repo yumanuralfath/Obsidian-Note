@@ -14,4 +14,8 @@ tags:
 - 
 
 ## 🗒️ Kutipan
-> 
+- 
+
+
+
+⏰ **Waktu dibuat:** <% tp.date.now("HH:mm") %>

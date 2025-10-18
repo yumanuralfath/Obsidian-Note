@@ -14,3 +14,5 @@ tags:
 
 ## 🔗 Sumber
 - [[ ]]
+
+⏰ **Waktu dibuat:** <% tp.date.now("HH:mm") %>

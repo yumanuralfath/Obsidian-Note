@@ -1,8 +1,9 @@
 ---
-created: 2025-10-17 22:40
+created: 2025-10-18 20:47
 tags:
   - grammar
 ---
+
 **Rumus:**  
 👉 _Subject + has/have + past participle (V3)_
 **Makna:**  

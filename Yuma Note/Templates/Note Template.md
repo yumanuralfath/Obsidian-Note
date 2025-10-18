@@ -14,3 +14,5 @@ Tuliskan detail, argumen, atau penjabaran dari ide di atas.
 
 ## 🔗 Sumber
 - [[ ]]
+
+⏰ **Waktu dibuat:** <% tp.date.now("HH:mm") %>
