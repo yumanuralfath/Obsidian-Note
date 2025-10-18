@@ -2,7 +2,7 @@
 title: <% tp.file.title %>
 author:
 year:
-tags: literature
+tags:
 ---
 
 # 📘 <% tp.file.title %>

@@ -1,7 +1,8 @@
 ---
 created: <% tp.file.creation_date() %>
+tags:
+  - Daily
 ---
-tags:: [[Daily Notes]]
 
 ---
 ### 📅 Daily Questions

@@ -3,8 +3,6 @@ title: Longman - Preparation Course For TOEFL Test
 author: Deborah Phillips
 year: "1996"
 tags:
-  - literature
-  - toefl
   - grammar
 ---
 

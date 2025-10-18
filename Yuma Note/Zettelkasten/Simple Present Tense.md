@@ -1,3 +1,8 @@
+---
+tags:
+  - grammar
+---
+
 **Rumus:**  
 👉 _Subject + Verb(s/es) + Object_
 **Makna:**  

@@ -2,31 +2,15 @@
 title: Home
 ---
 
-# 🧠 Welcome to Yuma's Digital Garden
+# Yuma Nur Alfath's Digital Garden  
+السلام عليكم ورحمة الله وبركاته
 
-Selamat datang di catatan digital saya! Tempat di mana saya menyimpan pembelajaran, ide, dan catatan sehari-hari.
+Hi, Welcome to my [Digital Garden](https://quartz.jzhao.xyz/philosophy), where I I document my journey, thoughts, and the projects I'm tinkering with. Feel free to take a look and see what I've been up to..
 
-## 📚 Koleksi Note
+I’m just a curious person who loves learning about how the world works. My background is in chemistry, but my interests often lead me into exploring science, technology, and any new ideas that spark my curiosity. I don’t see myself as an expert — I just enjoy learning, experimenting, and finding connections between different fields.
 
-### Grammar & TOEFL
+Got an idea for a subject I should investigate? Reach out thought the social links in the website footer or my [website](https://www.yumana.my.id) .
 
-- [[grammar|Grammar Notes]]
-- [[Zettelkasten/Simple-Present-Tense|Simple Present Tense]]
-- [[Zettelkasten/Present-Perfect-Tense|Present Perfect Tense]]
-- [[Literature/Longman - Preparation Course For TOEFL Test|TOEFL Preparation]]
-
-### Daily Notes
-
-- [[Daily/2025/10-October/2025-10-17-Friday|17 Oktober 2025]]
-
-## 🚀 Navigasi
-
-Gunakan fitur berikut untuk eksplorasi:
-
-- 🔍 **Search** - Cari catatan dengan cepat
-- 📊 **Graph View** - Lihat koneksi antar notes
-- 🏷️ **Tags** - Browse berdasarkan topik
+وَالسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ 🙏
 
 ---
-
-_Last updated: 2025-10-18_
