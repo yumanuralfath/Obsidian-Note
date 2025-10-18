@@ -1,8 +1,8 @@
 ---
 title: Home
 ---
-
 # Yuma Nur Alfath's Digital Garden  
+![[Pasted image 20251018201123.png]]
 السلام عليكم ورحمة الله وبركاته
 
 Hi, Welcome to my [Digital Garden](https://quartz.jzhao.xyz/philosophy), where I I document my journey, thoughts, and the projects I'm tinkering with. Feel free to take a look and see what I've been up to..

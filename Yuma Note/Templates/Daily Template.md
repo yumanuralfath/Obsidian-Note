@@ -1,34 +1,41 @@
 ---
-created: <% tp.file.creation_date() %>
+created: <% tp.date.now("YYYY-MM-DD") %>
+day: <% tp.date.now("dddd") %>
 tags:
   - Daily
 ---
 
----
-### 📅 Daily Questions
-##### 🌜 Last night, after work, I...
+# 🌅 <% tp.date.now("dddd, DD MMMM YYYY") %>
+
+## 🧭 Agenda Hari Ini
+- [ ] Prioritas 1
+- [ ] Prioritas 2
+- [ ] Prioritas 3
+
+## 🧠 Fokus / Tujuan
+> Apa fokus utamaku hari ini?
+
 - 
 
-##### 🙌 One thing I'm excited about right now is...
+## 🪞 Refleksi Singkat
+> Catat hal-hal penting yang terjadi hari ini, perasaanmu, atau pelajaran yang kamu ambil.
+
 - 
 
-##### 🚀 One+ thing I plan to accomplish today is...
-- [ ] 
-
-##### 👎 One thing I'm struggling with today is...
+## ✅ Progress & Catatan
+**Pekerjaan / Belajar**
 - 
 
----
-# 📝 Notes
-- <% tp.file.cursor() %>
+**Kesehatan / Kebiasaan**
+- 
+
+## 📚 Catatan / Ide / Insight
+- 
+
+## 🌙 Penutup Hari
+- Apa yang paling aku syukuri hari ini?
+- Apa yang bisa aku perbaiki besok?
 
 ---
-### Notes created today
-```dataview
-List FROM "" WHERE file.cday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.ctime asc
-```
 
-### Notes last touched today
-```dataview
-List FROM "" WHERE file.mday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.mtime asc
-```
+⏰ **Waktu dibuat:** <% tp.date.now("HH:mm") %>

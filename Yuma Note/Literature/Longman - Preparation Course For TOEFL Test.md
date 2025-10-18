@@ -15,7 +15,11 @@ tags:
 	- [[Be Sure The Sentence Has A Subject And A verb]]
 
 ## 💡 Konsep Penting
--  
+-  [[Simple Present Tense]]
+- [[Present Perfect Tense]]
+- [[frase nomina]]
+- [[Verb]]
+- [[Subject]]
 
-## 🗒️ Kutipan
-> 
+## 💪Exercise
+- [[Exercise Skill 1]]
