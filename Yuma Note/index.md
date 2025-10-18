@@ -10,7 +10,7 @@ Selamat datang di catatan digital saya! Tempat di mana saya menyimpan pembelajar
 
 ### Grammar & TOEFL
 
-- [[Zettelkasten/grammar|Grammar Notes]]
+- [[grammar|Grammar Notes]]
 - [[Zettelkasten/Simple-Present-Tense|Simple Present Tense]]
 - [[Zettelkasten/Present-Perfect-Tense|Present Perfect Tense]]
 - [[Literature/Longman - Preparation Course For TOEFL Test|TOEFL Preparation]]
