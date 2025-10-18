@@ -1,7 +1,6 @@
 ---
 created: 2025-10-18 20:48
 tags:
-  - random
 ---
 
  🌀 KucingKu
