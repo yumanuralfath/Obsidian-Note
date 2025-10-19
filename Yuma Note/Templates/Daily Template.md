@@ -1,41 +1,52 @@
 ---
 created: <% tp.date.now("YYYY-MM-DD") %>
 day: <% tp.date.now("dddd") %>
-tags:
-  - Daily
+weather: <%* tR += await tp.user.weather(tp) %>
+mood: <% tp.system.suggester(["😊 Senang", "😌 Tenang", "😐 Biasa", "😓 Lelah"], ["happy", "calm", "neutral", "tired"]) %>
+tags: [Daily]
 ---
 
-# 🌅 <% tp.date.now("dddd, DD MMMM YYYY") %>
+# <% tp.date.now("dddd, DD MMM YYYY") %>
 
-## 🧭 Agenda Hari Ini
-- [ ] Prioritas 1
-- [ ] Prioritas 2
-- [ ] Prioritas 3
+<%* 
+const detailedWeather = await tp.user.weatherDetailed(tp);
+if (detailedWeather) {
+    tR += `> [!info]- ${detailedWeather.icon} **Cuaca: ${detailedWeather.condition}**\n`;
+    tR += `City 🏙️: **${detailedWeather.city}**\n`;
+    tR += `> \n`;
+    tR += `> **🌡️ Suhu Udara**\n`;
+    tR += `> - Saat ini: **${detailedWeather.temp}** (terasa ${detailedWeather.feelsLike})\n`;
+    tR += `> - Range: ${detailedWeather.tempRange}\n`;
+    tR += `> \n`;
+    tR += `> **🌤️ Kondisi Atmosfer**\n`;
+    tR += `> - 💧 Kelembaban: ${detailedWeather.humidity}\n`;
+    tR += `> - 🌬️ Angin: ${detailedWeather.wind}\n`;
+    tR += `> - ☁️ Awan: ${detailedWeather.clouds}\n`;
+    tR += `> - 👁️ Jarak Pandang: ${detailedWeather.visibility}\n`;
+    tR += `> - 🔽 Tekanan: ${detailedWeather.pressure}\n`;
+    tR += `> \n`;
+    tR += `> **🌅 Matahari**\n`;
+    tR += `> - Terbit: ${detailedWeather.sunrise} | Terbenam: ${detailedWeather.sunset}\n\n`;
+}
+%>
 
-## 🧠 Fokus / Tujuan
-> Apa fokus utamaku hari ini?
+## ⚡ Prioritas
+- [ ] <% tp.file.cursor() %>
+- [ ] 
+- [ ] 
 
+## 🎯 Fokus Hari Ini
+> 
+
+## 📝 Catatan
+**Yang Dilakukan:**
 - 
 
-## 🪞 Refleksi Singkat
-> Catat hal-hal penting yang terjadi hari ini, perasaanmu, atau pelajaran yang kamu ambil.
-
+**Learning:**
 - 
 
-## ✅ Progress & Catatan
-**Pekerjaan / Belajar**
+**Gratitude:**
 - 
-
-**Kesehatan / Kebiasaan**
-- 
-
-## 📚 Catatan / Ide / Insight
-- 
-
-## 🌙 Penutup Hari
-- Apa yang paling aku syukuri hari ini?
-- Apa yang bisa aku perbaiki besok?
 
 ---
-
-⏰ **Waktu dibuat:** <% tp.date.now("HH:mm") %>
+*Dibuat: <% tp.date.now("HH:mm") %> | Week <% tp.date.now("ww") %>*

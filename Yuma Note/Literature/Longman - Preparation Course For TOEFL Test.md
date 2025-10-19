@@ -23,3 +23,4 @@ tags:
 
 ## 💪Exercise
 - [[Exercise Skill 1]]
+- [[Exercise Skill 2]]
