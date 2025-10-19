@@ -14,3 +14,6 @@ tags:
 - **[[Subject]]**: orang, tempat, benda, atau ide yang melakukan sesuatu atau menjadi fokus kalimat.
 - **[[Verb]]**: tindakan atau keadaan dari subject.
 - Kalimat tanpa salah satu dari keduanya dianggap **incomplete sentence (fragment)**.
+
+## 🔗 Source
+[[Longman - TOEFL Test]]
