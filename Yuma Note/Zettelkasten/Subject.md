@@ -4,9 +4,6 @@ title: Subject
 tags:
   - grammar
 ---
-
-# 🧩 Subject
-
 ## 💡 Ide Utama
 -  Subject adalah orang, tempat, benda, atau ide yang melakukan suatu tindakan atau menjadi pusat perhatian dalam kalimat.
 
@@ -14,7 +11,7 @@ tags:
 - Subject menjawab pertanyaan "**Who**?" (siapa) atau "**What?**" (apa) yang melakukan tindakan.
 - Dalam kalimat bahasa Inggris, subject biasanya muncul sebelum verb.
 - Subject dapat berupa:
-	- Noun (kata benda) → The dog barks.
+	- [[noun]] (kata benda) → The dog barks.
 	- Pronoun (kata ganti) → She is smart.
 	- Gerund (verb + -ing) → Running is fun.
 	- Infinitive (to + verb) → To learn is important.
