@@ -12,7 +12,7 @@ tags: [Daily]
 const detailedWeather = await tp.user.weatherDetailed(tp);
 if (detailedWeather) {
     tR += `> [!info]- ${detailedWeather.icon} **Cuaca: ${detailedWeather.condition}**\n`;
-    tR += `City 🏙️: **${detailedWeather.city}**\n`;
+    tR += `**${detailedWeather.city}**\n`;
     tR += `> \n`;
     tR += `> **🌡️ Suhu Udara**\n`;
     tR += `> - Saat ini: **${detailedWeather.temp}** (terasa ${detailedWeather.feelsLike})\n`;
@@ -48,5 +48,7 @@ if (detailedWeather) {
 **Gratitude:**
 - 
 
+## 🗓️ Tomorrow Plans 
+- 
 ---
 *Dibuat: <% tp.date.now("HH:mm") %> | Week <% tp.date.now("ww") %>*
