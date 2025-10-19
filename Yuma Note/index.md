@@ -14,7 +14,7 @@ Got an idea for a subject I should investigate? Reach out thought the social lin
 
 ## Tags 
 Tags Worth Exploring
-#Daily  #grammar
+- #Daily  #grammar
 
 وَالسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ 🙏
 
