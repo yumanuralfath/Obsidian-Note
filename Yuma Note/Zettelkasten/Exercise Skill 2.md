@@ -16,5 +16,12 @@ subject =  <mark style="background: #BBFABBA6;">.</mark>  Verb = <mark style="ba
 - ==In the past== <mark style="background: #BBFABBA6;">a career</mark> ==in politics== <mark style="background: #ADCCFFA6;">was not considered </mark>acceptable in some circles.✅
 	- a career merupakan sebuah subject dan dijelaskan oleh *in the past* dan *in politics*
 
-- <mark style="background: #BBFABBA6;">Shopping in the downtown area of the city </mark><mark style="background: #BBFABBA6;">it </mark><mark style="background: #ADCCFFA6;">has improved </mark>a lot in recent years. ❌
+- <mark style="background: #BBFABBA6;">Shopping </mark> ==in the downtown area of the city== <mark style="background: #BBFABBA6;">it </mark><mark style="background: #ADCCFFA6;">has improved </mark>a lot in recent years. ❌
 	- salah karena ada double subject *shopping* merupakan gerund yang bisa sebagai subject dan ada *it* yang juga subject hapus salah satu
+
+- ==At the building site== <mark style="background: #BBFABBA6;">the carpenters</mark> with the most experience <mark style="background: #ADCCFFA6;">were given </mark>the most intricate work. ✅
+
+- ==For the fever and headache== <mark style="background: #ADCCFFA6;">took</mark> two aspirin tablets ❌. 
+	- Salah kurang subject
+
+- <mark style="background: #BBFABBA6;">The report </mark>with complete documentation <mark style="background: #ADCCFFA6;">was delivered</mark> ==at the conference== ✅

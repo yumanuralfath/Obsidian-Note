@@ -6,8 +6,7 @@ tags:
   - grammar
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
-
-![[Pasted image 20251017194015.png]]
+![[Pasted image 20251019175559.png]]
 
 ## 🔍 Ringkasan
 ### Skill 2
@@ -27,7 +26,14 @@ and an object at the same time. Because a subject is needed in this sentence, an
 ![[Pasted image 20251019094527.png]]
 
 ### Skill 3
-- 
+[[Be Careful of Appositives]] 
+
+![[Pasted image 20251019175219.png]]
+
+![[Pasted image 20251019175255.png]]
+
+
+
 
 
 
@@ -38,18 +44,19 @@ and an object at the same time. Because a subject is needed in this sentence, an
 
 
 ### 📘 Progress
-1 / 58
-Progress: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2%
+2 / 58
+Progress: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3%
 -  [[grammar]]
 	- Skill 1  [[Be Sure The Sentence Has A Subject And A verb]]
 	- Skill 2 [[Be careful of object of preposition]]
-
+	- Skill 3 [[Be Careful of Appositives]]
 ## 💡 Konsep Penting
 -  [[Simple Present Tense]]
 - [[Present Perfect Tense]]
 - [[frase nomina]]
 - [[Verb]]
 - [[Subject]]
+- [[preposition]]
 
 ## 💪Exercise
 - [[Exercise Skill 1]]
