@@ -4,6 +4,8 @@ author: Deborah Phillips
 year: "1996"
 tags:
   - grammar
+created: 2025-10-18T18:24
+updated: 2025-10-20T08:45
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
@@ -81,3 +83,6 @@ The following chart outlines what you should remember about present participles:
 ## 💪Exercise
 - [[Exercise Skill 1]]
 - [[Exercise Skill 2]]
+- [[Be Careful of Appositives#Exercise]]
+
+⌛Created 2025-10-18 18:24

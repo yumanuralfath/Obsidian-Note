@@ -3,6 +3,7 @@ created: 2025-10-18
 day: Saturday
 tags:
   - Daily
+updated: 2025-10-20T05:23
 ---
 
 # 🌅 Saturday, 18 October 2025
@@ -30,7 +31,7 @@ tags:
 
 ## 📚 Catatan / Ide / Insight
  - untuk sekarang sudah jelas kalimat dalam bahasa inggris harus ada subject dan verb minimal satu
- - DIgital Garden sudah selesai setup tinggal isinya saja hehe 😆
+ - Digital Garden sudah selesai setup tinggal isinya saja hehe 😆
 
 ## 🌙 Penutup Hari
 - Apa yang paling aku syukuri hari ini?

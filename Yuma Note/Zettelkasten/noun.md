@@ -3,6 +3,7 @@ created: 2025-10-19 10:52
 title: noun
 tags:
   - grammar
+updated: 2025-10-19T11:16
 ---
 sederhana *noun* atau kata benda merupakan sebuah kata yang merujuk ke sesuatu baik itu orang, lokasi, benda atau ide.
 

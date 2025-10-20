@@ -1,5 +1,7 @@
 ---
 title: Home
+created: 2025-10-19T05:51
+updated: 2025-10-20T08:49
 ---
 # Yuma Nur Alfath's Digital Garden  
 ![[Pasted image 20251018201123.png]]
@@ -17,5 +19,7 @@ Tags Worth Exploring
 - #Daily  #grammar
 
 وَالسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ 🙏
+
+⌛ Created 19/10/2025 05.51 AM
 
 ---

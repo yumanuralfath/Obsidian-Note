@@ -3,6 +3,7 @@ created: 2025-10-19 12:45
 title: Be Careful of Object of preposition
 tags:
   - grammar
+updated: 2025-10-19T19:22
 ---
 ## 📝 Review
 Suatu [[preposition]] yang diikuti oleh [[noun]], pronoun(kata ganti), gerund, noun clause yang bisa menjadi [[Subject]] disebut dengan object of preposition.

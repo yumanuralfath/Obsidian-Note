@@ -1,6 +1,8 @@
 ---
 tags:
   - grammar
+created: 2025-10-18T18:24
+updated: 2025-10-20T06:12
 ---
 
 **Rumus:**  

@@ -3,6 +3,7 @@ created: 2025-10-17 20:10
 title: Subject
 tags:
   - grammar
+updated: 2025-10-19T11:23
 ---
 ## 💡 Ide Utama
 -  Subject adalah orang, tempat, benda, atau ide yang melakukan suatu tindakan atau menjadi pusat perhatian dalam kalimat.

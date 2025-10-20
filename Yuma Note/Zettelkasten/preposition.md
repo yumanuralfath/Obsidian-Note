@@ -3,6 +3,7 @@ created: 2025-10-19 09:53
 title: preposition
 tags:
   - grammar
+updated: 2025-10-19T10:55
 ---
 *preposition* (preposisi) dalam bahasa inggris merupakan sebuah kata yang menunjukkan hubungan antara kata benda ([[noun]]) dengan lain atau bisa di bilang preposisi menunjukkan *when*, *where* dan *how* suatu [[noun]]
 

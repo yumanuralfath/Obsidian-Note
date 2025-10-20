@@ -5,30 +5,56 @@ weather: <%* tR += await tp.user.weather(tp) %>
 mood: <% tp.system.suggester(["😊 Senang", "😌 Tenang", "😐 Biasa", "😓 Lelah"], ["happy", "calm", "neutral", "tired"]) %>
 tags: [Daily]
 ---
+<%*
+const w = await tp.user.weatherDetailed(tp);
 
-# <% tp.date.now("dddd, DD MMM YYYY") %>
+if (w) {
+tR += `
+<details style="
+  border: 1px solid var(--text-muted);
+  border-radius: 10px;
+  padding: 8px 12px;
+  margin: 12px 0;
+  backdrop-filter: blur(6px);
+  background-color: transparent;
+  transition: all 0.3s ease;
+">
+  <summary style="
+    font-size: 1.05em;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    list-style: none;
+    padding: 4px 0;
+  ">
+    ${w.icon} Cuaca ${w.city} — ${w.condition}
+  </summary>
 
-<%* 
-const detailedWeather = await tp.user.weatherDetailed(tp);
-if (detailedWeather) {
-    tR += `> [!info]- ${detailedWeather.icon} **Cuaca: ${detailedWeather.condition}**\n`;
-    tR += `**${detailedWeather.city}**\n`;
-    tR += `> \n`;
-    tR += `> **🌡️ Suhu Udara**\n`;
-    tR += `> - Saat ini: **${detailedWeather.temp}** (terasa ${detailedWeather.feelsLike})\n`;
-    tR += `> - Range: ${detailedWeather.tempRange}\n`;
-    tR += `> \n`;
-    tR += `> **🌤️ Kondisi Atmosfer**\n`;
-    tR += `> - 💧 Kelembaban: ${detailedWeather.humidity}\n`;
-    tR += `> - 🌬️ Angin: ${detailedWeather.wind}\n`;
-    tR += `> - ☁️ Awan: ${detailedWeather.clouds}\n`;
-    tR += `> - 👁️ Jarak Pandang: ${detailedWeather.visibility}\n`;
-    tR += `> - 🔽 Tekanan: ${detailedWeather.pressure}\n`;
-    tR += `> \n`;
-    tR += `> **🌅 Matahari**\n`;
-    tR += `> - Terbit: ${detailedWeather.sunrise} | Terbenam: ${detailedWeather.sunset}\n\n`;
+  <div style="margin-top: 8px; padding-left: 6px; line-height: 1.7; font-size: 0.95em;">
+
+  <p><b>🌡️ Suhu Udara</b><br>
+  • Saat ini: <b>${w.temp}</b> (terasa ${w.feelsLike})<br>
+  • Range: ${w.tempRange}</p>
+
+  <p><b>🌤️ Kondisi Atmosfer</b><br>
+  • 💧 Kelembaban: ${w.humidity}<br>
+  • 🌬️ Angin: ${w.wind}<br>
+  • ☁️ Awan: ${w.clouds}<br>
+  • 👁️ Jarak Pandang: ${w.visibility}<br>
+  • 🔽 Tekanan: ${w.pressure}</p>
+
+  <p><b>🌅 Matahari</b><br>
+  • Terbit: ${w.sunrise} | Terbenam: ${w.sunset}</p>
+
+  </div>
+</details>
+`;
 }
 %>
+
+
 
 ## ⚡ Prioritas
 - [ ] <% tp.file.cursor() %>

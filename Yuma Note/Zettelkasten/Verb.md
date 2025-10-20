@@ -3,6 +3,7 @@ created: 2025-10-17 20:19
 title: Verb
 tags:
   - grammar
+updated: 2025-10-17T20:30
 ---
 
 # 🧩 Verb
