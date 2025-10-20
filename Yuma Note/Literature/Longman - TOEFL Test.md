@@ -6,7 +6,7 @@ tags:
   - grammar
   - "#Book"
 created: 2025-10-18T18:24
-updated: 2025-10-20T11:13
+updated: 2025-10-20T13:58
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
@@ -87,6 +87,21 @@ The poem **written** (Adj) by Paul appeared in the magazine.
 - In the first sentence **purchased** is an **adjective** rather than a verb because it is not accompanied by a form of be or have (and there is a verb, was, later in the sentence). 
 - In the second sentence **written** is **an adjective** rather than a verb because it is not accompanied by a form of be or have (and there is a verb, appeared, later in the sentence).
 
+### Skill 6
+[[Use Coordinate Connectors Correctly]]
+
+When you have two clauses in an English sentences, you must connect the two sentences correctly. One way to connect two clauses is to use [AND, BUT, OR, SO, or YET](https://preparationtoefl.blogspot.com/2011/09/use-coordinate-connector-correctly.html) between the clauses. 
+
+_Look at the following sentences_:
+- Tom is singing, **and** Paul is dancing.
+- Tom is tall, **but** Paul is short.
+- Tom must write the letters, **or** Paul will do it.
+- Tom told a joke, **so** Paul laughed
+- Tom is tired, **yet** he is not going to sleep.
+
+In each of these sentences, there are two clauses that are correctly joined with a coordinate conjunction **AND, BUT, OR, SO** or **YET**, and a comma (,).
+
+
 
 
 ### 📘 Progress
@@ -97,11 +112,14 @@ The poem **written** (Adj) by Paul appeared in the magazine.
 	- Skill 3 [[Be Careful of Appositives]]
 	- Skill 4 [[Be Careful of Present Participle]]
 	- Skill 5 [[Be Careful of Past Participles]]
+	- [[Sentence With Multiple Clauses]]
+	- Skill 6 [[Use Coordinate Connectors Correctly]]
 ## 💡 Konsep Penting
 - [[Simple Present Tense]]
 - [[Present Perfect Tense]]
 - [[frase nomina]]
 - [[Verb]]
+- [[noun]]
 - [[Subject]]
 - [[preposition]]
 - [[Appositive]]
@@ -114,5 +132,7 @@ The poem **written** (Adj) by Paul appeared in the magazine.
 - [[Be Careful of Appositives#Exercise]]
 - [[Exercise Skill 4]]
 - [[Exercise Skill 5]]
+- [[Exercise 1-5]]
+- 
 
 ⌛Created 2025-10-18 18:24

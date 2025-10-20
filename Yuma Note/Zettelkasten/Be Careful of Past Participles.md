@@ -3,11 +3,11 @@ title: Be Careful of Past Participles
 tags:
   - grammar
 created: 2025-10-20T10:09
-updated: 2025-10-20T11:10
+updated: 2025-10-20T13:23
 ---
 ## 💡 Ide Utama
 - Hati-hati dalam membedakan [[Past Participles]] dengan verb di kalimat. 
-- *past participle* menjadi verb jika digabungkan oleh (*have, has, had and to be(am, is, are, were and was)*)
+- *past participle* menjadi verb jika digabungkan oleh (***have, has, had and to be (am, is, are, were and was**)*)
 - jika tidak ada maka *past participle* tersebut menjadi adjective.
 
 

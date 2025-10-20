@@ -1,7 +1,7 @@
 ---
 title: Home
 created: 2025-10-19T05:51
-updated: 2025-10-20T08:49
+updated: 2025-10-20T14:12
 ---
 # Yuma Nur Alfath's Digital Garden  
 ![[Pasted image 20251018201123.png]]
@@ -16,7 +16,9 @@ Got an idea for a subject I should investigate? Reach out thought the social lin
 
 ## Tags 
 Tags Worth Exploring
-- #Daily  #grammar
+- #Daily  #grammar #Book 
+
+
 
 وَالسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ 🙏
 
