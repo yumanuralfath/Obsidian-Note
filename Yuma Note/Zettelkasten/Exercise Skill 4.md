@@ -3,7 +3,7 @@ title: Exercise Skill 4
 tags:
   - grammar
 created: 2025-10-20T09:14
-updated: 2025-10-20T09:44
+updated: 2025-10-20T09:51
 ---
 ## 💪 Exercise With Example
 [[Subject]] =  <mark style="background: #BBFABBA6;">.</mark>  [[Verb]] = <mark style="background: #ADCCFFA6;">.</mark> adj= ==.==  
@@ -24,4 +24,4 @@ updated: 2025-10-20T09:44
 - [[Be Careful of Present Participle]]
 - [[Longman - TOEFL Test]]
 
-⌛ ***Created Monday, 20 October 2025 - 09:14
+⌛ *Created Monday, 20 October 2025 - 09:14*

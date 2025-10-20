@@ -4,4 +4,4 @@ tags:
 ---
 
 
-⌛ ***Created <% tp.date.now("dddd, D MMMM YYYY - HH:mm") %>
+⌛ *Created <% tp.date.now("dddd, D MMMM YYYY - HH:mm") %>*

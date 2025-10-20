@@ -11,4 +11,4 @@ Tuliskan detail, argumen, atau penjabaran dari ide di atas.
 ## 🔗 Sumber
 - [[ ]]
 
-⌛ ***Created <% tp.date.now("dddd, D MMMM YYYY - HH:mm") %>
+⌛ *Created <% tp.date.now("dddd, D MMMM YYYY - HH:mm") %>*

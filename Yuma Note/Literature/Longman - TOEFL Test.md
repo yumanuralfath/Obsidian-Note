@@ -5,7 +5,7 @@ year: "1996"
 tags:
   - grammar
 created: 2025-10-18T18:24
-updated: 2025-10-20T08:45
+updated: 2025-10-20T10:06
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
@@ -63,6 +63,29 @@ The following chart outlines what you should remember about present participles:
 ![[Pasted image 20251019195600.png]]
 
 ### Skill 5
+[[Be Careful of Past Participles]]
+
+[[Past Participles]] <b>verb III</b> of a verb, such and was) as <b>studied</b>, <b>taught</b>, <b>cooked</b> and many others. Past participles can cause confusion in structure questions on the TOEFL test because a past participle can be either <b>an adjective</b> or <b>a part of a verb</b>.
+
+<div style="text-align: justify;"><b>1. As a part of a verb.</b></div>
+Past participle functions as a part of a verb if it is accompanied by have, has, had and to be (am, is, are, were and was). _Example:_
+<div style="text-align: center;">The family has <b>purchased</b> a television.</div><div style="text-align: center;">&nbsp; VERB</div>
+
+
+<div style="text-align: center;">The poem was <b>written</b> by Paul.</div><div style="text-align: center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VERB</div>
+
+1. In the first sentence the past participle **purchased** is **part of the verb** because it is accompanied by has.
+2. In the second sentence the past participle **written** is **part of the verb** because it is accompanied by was.
+
+**2. As an [[Adjective]]**
+Past participle functions as an adjective if it is not accompanied by have, has, had and to be. Example:
+
+The television **purchased** (Adj) yesterday was expensive.
+The poem **written** (Adj) by Paul appeared in the magazine.
+
+- In the first sentence **purchased** is an **adjective** rather than a verb because it is not accompanied by a form of be or have (and there is a verb, was, later in the sentence). 
+- In the second sentence **written** is **an adjective** rather than a verb because it is not accompanied by a form of be or have (and there is a verb, appeared, later in the sentence).
+
 
 
 ### 📘 Progress
