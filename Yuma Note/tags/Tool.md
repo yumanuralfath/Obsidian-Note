@@ -1,4 +1,4 @@
 ---
 title: Tool
-description: Berisi tips, trik
+description: Berisi tips, trik dan berbagai bentuk method
 ---
