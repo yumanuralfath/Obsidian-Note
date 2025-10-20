@@ -1,10 +1,10 @@
 ---
 title: Home
 created: 2025-10-19T05:51
-updated: 2025-10-20T14:12
+updated: 2025-10-20T17:05
 ---
 # Yuma Nur Alfath's Digital Garden  
-![[Pasted image 20251018201123.png]]
+![[Hero.webp]]
 
 السلام عليكم ورحمة الله وبركاته
 
@@ -16,7 +16,7 @@ Got an idea for a subject I should investigate? Reach out thought the social lin
 
 ## Tags 
 Tags Worth Exploring
-- #Daily  #grammar #Book 
+- #Daily  #grammar #Book #Tool 
 
 
 
