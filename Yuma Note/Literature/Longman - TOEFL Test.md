@@ -6,7 +6,7 @@ tags:
   - grammar
   - "#Book"
 created: 2025-10-18T18:24
-updated: 2025-10-20T10:41
+updated: 2025-10-20T11:13
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
@@ -98,7 +98,7 @@ The poem **written** (Adj) by Paul appeared in the magazine.
 	- Skill 4 [[Be Careful of Present Participle]]
 	- Skill 5 [[Be Careful of Past Participles]]
 ## 💡 Konsep Penting
--  [[Simple Present Tense]]
+- [[Simple Present Tense]]
 - [[Present Perfect Tense]]
 - [[frase nomina]]
 - [[Verb]]
@@ -106,11 +106,13 @@ The poem **written** (Adj) by Paul appeared in the magazine.
 - [[preposition]]
 - [[Appositive]]
 - [[Adjective]]
+- [[Past Participles]]
 
 ## 💪Exercise
 - [[Exercise Skill 1]]
 - [[Exercise Skill 2]]
 - [[Be Careful of Appositives#Exercise]]
 - [[Exercise Skill 4]]
+- [[Exercise Skill 5]]
 
 ⌛Created 2025-10-18 18:24
