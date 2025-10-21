@@ -6,7 +6,7 @@ tags:
   - grammar
   - "#Book"
 created: 2025-10-18T18:24
-updated: 2025-10-21T06:28
+updated: 2025-10-21T07:34
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
@@ -237,6 +237,7 @@ In the example above, there two VERBS, _**was**_ and _**made**_. Each of those v
 - [[preposition]]
 - [[Appositive]]
 - [[Adjective]]
+- [[Adverb]]
 - [[Past Participles]]
 
 ## 💪Exercise
@@ -250,5 +251,7 @@ In the example above, there two VERBS, _**was**_ and _**made**_. Each of those v
 - [[Exercise Skill 7]]
 - [[Exercise Skill 8]]
 - [[Exercise Skill 6 - 8]]
+- [[Exercise Skill 9]]
+
 
 ⌛Created 2025-10-18 18:24
