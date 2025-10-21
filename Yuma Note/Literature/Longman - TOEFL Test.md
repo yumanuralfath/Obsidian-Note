@@ -6,7 +6,7 @@ tags:
   - grammar
   - "#Book"
 created: 2025-10-18T18:24
-updated: 2025-10-21T07:34
+updated: 2025-10-21T08:58
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
@@ -191,9 +191,9 @@ In this example, there are two verbs (was and caused) and each verb needs SUBJEC
 So, the complete sentence is THAT HE WAS LATE CAUSED MANY PROBLEMS
 
 ### Skill 10 
-[[Use Noun Clause Connector/Subject Correctly]]
+[[Use Noun Clause Connector or Subject Correctly]]
 
-In skill 9, noun clause connectors were used to introduce noun subject clauses or noun object clauses.
+In skill 9, [[Noun Clause]] connectors were used to introduce noun subject clauses or noun object clauses.
 
 In this 10, a noun clause connector is not only a connector; a noun clause connector cam also be the subject of the clause at the same time.
 
@@ -239,6 +239,7 @@ In the example above, there two VERBS, _**was**_ and _**made**_. Each of those v
 - [[Adjective]]
 - [[Adverb]]
 - [[Past Participles]]
+- [[Noun Clause]]
 
 ## 💪Exercise
 - [[Exercise Skill 1]]
@@ -252,6 +253,7 @@ In the example above, there two VERBS, _**was**_ and _**made**_. Each of those v
 - [[Exercise Skill 8]]
 - [[Exercise Skill 6 - 8]]
 - [[Exercise Skill 9]]
+- [[Exercise Skill 10]]
 
 
 ⌛Created 2025-10-18 18:24
