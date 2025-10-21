@@ -6,7 +6,7 @@ tags:
   - grammar
   - "#Book"
 created: 2025-10-18T18:24
-updated: 2025-10-21T08:58
+updated: 2025-10-21T14:25
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
@@ -24,7 +24,7 @@ updated: 2025-10-21T08:58
 	- Skill 7 [[Use Adverb Time and Cause Connectors Correctly]]
 	- Skill 8 [[Use Other Adverb Connectors Correctly]]
 	- Skill 9 [[Use noun clause connector correctly]]
-	- Skill 10 [[Use Noun Clause Connector/Subject Correctly]]
+	- Skill 10 [[Use Noun Clause Connector or Subject Correctly]]
 
 ## 🔍 Ringkasan
 ### Skill 2
