@@ -5,8 +5,6 @@ tags:
 ## 💪 Exercise With Example
 - 
 
-## 📚 Penjelasan
--  
 
 ## 🔗 Sumber
 - [[ ]]
