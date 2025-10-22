@@ -6,7 +6,7 @@ created: 2025-10-22T10:24
 updated: 2025-10-22T10:24
 ---
 ## 💡 Ide Utama
-- 
+-  
 
 
 
@@ -16,5 +16,6 @@ updated: 2025-10-22T10:24
 
 ## 🔗 Sumber
 - [[Longman - TOEFL Test#Skill 13]]
+- [[Sentence With Reduce Clauses]]
 
 ⌛ *Created Wednesday, 22 October 2025 - 10:24*

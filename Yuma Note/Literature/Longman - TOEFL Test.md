@@ -6,7 +6,7 @@ tags:
   - grammar
   - "#Book"
 created: 2025-10-18T18:24
-updated: 2025-10-22T10:26
+updated: 2025-10-22T10:47
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
@@ -237,8 +237,63 @@ In the example above, there two VERBS, _**was**_ and _**made**_. Each of those v
 
 ### Skill 13 
 [[Use Reduced Adjective Clause Correctly]]
-![[Pasted image 20251022102529.png]]
-![[Pasted image 20251022102601.png]]
+Adjective clauses can appear in a reduced form. In the reduced form, the adjective clause connector and the be-verb that directly follow it are omitted. 
+
+The woman who is waving to us is the tour guide.  
+=> The woman waving to us is the tour guide.  (omit “who is”)  
+  
+The letter which was written last week arrived today. (omit “which was”)  
+=> The letter written last week arrived today. (omit “which was”)  
+  
+The pitcher on the table is full of iced tea. (omit “that is”)  
+=> The pitcher that is on the table is full of iced tea. (omit “that is”)  
+
+Each of these sentences may be used in the complete form or in the reduced form. In the reduced form the connector “who, which, or that” is omitted along with the be-verb “is” or “was”. 
+If there is no be-verb in the adjective clause, it is still possible to have a reduced form. 
+When there is no be-verb in the adjective clause, the connector is omitted and the verb is 
+changed into the -ing form. 
+
+- I don 't understand the article which appears in today's paper. 
+
+=> I don 't understand the article appearing in today's paper. (omit “which”, then change the verb into the -ing form)
+
+In this example there is no be-verb in the adjective clause which appears in today's paper, so the connector “which” is omitted and the main verb “appears” is changed to the -ing form “appearing”. 
+
+It should be noted that not all adjective clauses can appear in a reduced form. An adjective clause can appear in a reduced form only if the adjective clause connector is followed directly by a verb. In other words, an adjective clause can only be reduced if the connector is also a subject. 
+
+The woman that I just met is the tour guide. (does not reduce)  
+The letter which You sent me arrived yesterday.  (does not reduce)  
+
+In these two examples the adjective clauses cannot be reduced because the adjective clause connectors “that and which” are not directly followed by verbs; “that” is directly followed by the subject “I”, and “which” is directly followed by the subject “you”. 
+
+A final point to note is that some adjective clauses are set off from the rest of the sentence with commas, and these adjective clauses can also be reduced. In addition, when an adjective clause is set off with commas, the reduced adjective clause can appear at the front of the sentence. 
+
+The White House, which is located in Washington, is the home of the president.  
+The White House, located in Washington, is the home of the president.  
+Located in Washington, the White House is the home of the president.  
+  
+The president, who is now Preparing to give a speech, is meeting with his advisors.  
+The president, now preparing to give a speech, is meeting with his advisors.  
+Now preparing to give a speech, the president is meeting with his advisors.  
+
+In these two examples, the adjective clauses are set off from the rest of the sentence with commas, so each sentence can be structured in three different ways: (1) with the complete clause, (2) with the reduced clause following the noun that it describes, and (3) with the reduced clause at the beginning of the sentence.
+
+Example:    
+_____ on several different television programs, the witness gave conflicting accounts of what had happened.  
+(A) He appeared  
+(B) Who appeared  
+(C) Appearing  
+(D) Appears  
+  
+
+In this example, answer (A) is incorrect because there are two clauses, “He appeared… and the witness gave...”, and there is no connector to join them. Answer (B) is incorrect because an adjective clause such as “who appeared…” cannot appear at the beginning of a sentence (unless it is in a reduced form). Answer (C) is the correct answer because it is the reduced form of the clause “who appeared”, and this reduced form can appear at the front of the sentence. Answer (D) is not the reduced form of a verb; it is merely a verb in the present tense; a verb such as “appears” needs a subject and a connector to be correct.
+
+### Skill 14 
+[[Use Reduced Adverb Clauses Correctly]]
+
+
+
+
 
 ## 💡 Konsep Penting
 - [[Simple Present Tense]]
