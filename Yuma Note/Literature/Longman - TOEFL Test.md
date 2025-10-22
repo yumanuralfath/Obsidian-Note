@@ -6,7 +6,7 @@ tags:
   - grammar
   - "#Book"
 created: 2025-10-18T18:24
-updated: 2025-10-22T06:05
+updated: 2025-10-22T08:25
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
@@ -222,12 +222,9 @@ In the example above, there two VERBS, _**was**_ and _**made**_. Each of those v
 ### Skill 11
 [[Use Adjective Clause Connectors Correctly]]
 
-
-
-
-
-
-
+![[Pasted image 20251022082422.png]]
+![[Pasted image 20251022082444.png]]
+![[Pasted image 20251022082507.png]]
 
 ## 💡 Konsep Penting
 - [[Simple Present Tense]]
@@ -256,6 +253,6 @@ In the example above, there two VERBS, _**was**_ and _**made**_. Each of those v
 - [[Exercise Skill 6 - 8]]
 - [[Exercise Skill 9]]
 - [[Exercise Skill 10]]
-
+- [[Exercise Skill 11]]
 
 ⌛Created 2025-10-18 18:24

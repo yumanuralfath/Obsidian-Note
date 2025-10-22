@@ -2,8 +2,9 @@
 title: Exercise Skill 4
 tags:
   - grammar
+  - Exercise
 created: 2025-10-20T09:14
-updated: 2025-10-20T09:51
+updated: 2025-10-22T08:01
 ---
 ## 💪 Exercise With Example
 [[Subject]] =  <mark style="background: #BBFABBA6;">.</mark>  [[Verb]] = <mark style="background: #ADCCFFA6;">.</mark> adj= ==.==  

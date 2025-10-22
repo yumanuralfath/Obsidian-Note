@@ -2,8 +2,9 @@
 title: Exercise Skill 7
 tags:
   - grammar
+  - Exercise
 created: 2025-10-21T05:12
-updated: 2025-10-21T05:31
+updated: 2025-10-22T08:02
 ---
 ## 💪 Exercise With Example
 <mark style="background: #FFF3A3A6;">Verb</mark> <mark style="background: #BBFABBA6;">Subject</mark> ==Connectors==

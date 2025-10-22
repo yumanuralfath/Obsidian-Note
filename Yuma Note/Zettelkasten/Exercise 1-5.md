@@ -2,8 +2,9 @@
 title: Exercise 1-5
 tags:
   - grammar
+  - Exercise
 created: 2025-10-20T12:41
-updated: 2025-10-20T13:37
+updated: 2025-10-22T08:01
 ---
 ## 💪 Exercise 
 [[Subject]] =  <mark style="background: #BBFABBA6;">.</mark>  [[Verb]] = <mark style="background: #ADCCFFA6;">.</mark>  

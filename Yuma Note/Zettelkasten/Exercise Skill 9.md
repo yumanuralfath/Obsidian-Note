@@ -2,11 +2,12 @@
 title: Exercise Skill 9
 tags:
   - grammar
+  - Exercise
 created: 2025-10-21T07:34
-updated: 2025-10-21T08:54
+updated: 2025-10-22T07:58
 ---
 ## 💪 Exercise With Example
-<mark style="background: #FFF3A3A6;">Verb</mark> <mark style="background: #BBFABBA6;">Subject</mark> ==Connectors
+<mark style="background: #FFF3A3A6;">Verb</mark> <mark style="background: #BBFABBA6;">Subject</mark> Connectors
 - <mark style="background: #BBFABBA6;">The schedule</mark> <mark style="background: #FFF3A3A6;">indicated</mark> ==if== <mark style="background: #BBFABBA6;">the teams</mark> <mark style="background: #FFF3A3A6;">would be playing</mark> in the final game.✅
 - <mark style="background: #BBFABBA6;">He</mark> <mark style="background: #FFF3A3A6;">refused</mark> to enter a plea <mark style="background: #FFF3A3A6;">could not be determined</mark> by the lawyer.❌
 	- ini banyak masalahnya gak ada connector dan gak ada subject 
