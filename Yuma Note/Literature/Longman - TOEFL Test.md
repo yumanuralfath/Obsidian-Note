@@ -6,13 +6,13 @@ tags:
   - grammar
   - "#Book"
 created: 2025-10-18T18:24
-updated: 2025-10-21T14:25
+updated: 2025-10-22T06:05
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
 
 ### 📘 Progress
-6 / 58
+11 / 58
 -  [[grammar]]
 	- Skill 1  [[Be Sure The Sentence Has A Subject And A verb]]
 	- Skill 2 [[Be careful of object of preposition]]
@@ -25,7 +25,7 @@ updated: 2025-10-21T14:25
 	- Skill 8 [[Use Other Adverb Connectors Correctly]]
 	- Skill 9 [[Use noun clause connector correctly]]
 	- Skill 10 [[Use Noun Clause Connector or Subject Correctly]]
-
+	- Skill 11 [[Use Adjective Clause Connectors Correctly]]
 ## 🔍 Ringkasan
 ### Skill 2
 [[Be careful of object of preposition]]
@@ -219,6 +219,8 @@ D. When
   
 In the example above, there two VERBS, _**was**_ and _**made**_. Each of those verbs needs a _**Subject**_ . Best Answer is _**C (What)**_. _**What**_ is the subject of verb _**was**_ and the verb _**made**_. What also serves as the connector that connect the two clauses together.
 
+### Skill 11
+[[Use Adjective Clause Connectors Correctly]]
 
 
 
