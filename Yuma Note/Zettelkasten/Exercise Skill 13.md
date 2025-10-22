@@ -2,7 +2,7 @@
 title: Exercise Skill 13
 tags:
 created: 2025-10-22T17:01
-updated: 2025-10-22T17:24
+updated: 2025-10-22T19:15
 ---
 ## 💪 Exercise With Example
 <u>adjective clause</u>
@@ -14,7 +14,9 @@ updated: 2025-10-22T17:24
 	- Terjadi kesalahan mencampurkan complete dan reduce form, cara paling simpel dengan mencoret *who*
 - The suspect can be seen in the photographs ~~were~~<u> just released by the police</u>. ❌
 	-  seharusnya tidak usah ada *were*
-- The food <u>placing on the picnic table</u> attracted a large number of flies.
+- The food <u>placing on the picnic table</u> attracted a large number of flies.❌
+	- seharusnya *placed* karena bentuknya passive, *makanan di letakkan*
+	
 ## 🔗 Sumber
 - [[Longman - TOEFL Test#Skill 13]]
 - [[Use Reduced Adjective Clause Correctly]]

@@ -6,7 +6,7 @@ tags:
   - grammar
   - "#Book"
 created: 2025-10-18T18:24
-updated: 2025-10-22T10:47
+updated: 2025-10-22T19:44
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
@@ -29,6 +29,8 @@ updated: 2025-10-22T10:47
 	- Skill 12 [[Use Adjective Clause Connector Or Subject Correctly]]
 	- [[Sentence With Reduce Clauses]]
 	- Skill 13 [[Use Reduced Adjective Clause Correctly]]
+	- Skill 14 [[Use Reduced Adverb Clauses Correctly]]
+
 ## 🔍 Ringkasan
 ### Skill 2
 [[Be careful of object of preposition]]
@@ -291,6 +293,46 @@ In this example, answer (A) is incorrect because there are two clauses, “He ap
 ### Skill 14 
 [[Use Reduced Adverb Clauses Correctly]]
 
+Tentu. Skill 14 ini mirip dengan Skill 13, tujuannya sama-sama mempersingkat kalimat. Bedanya, ini untuk _adverb clause_ (klausa keterangan waktu, alasan, kontras, dll).
+Berikut adalah poin-poin sederhananya berdasarkan materi buku Anda.
+### Poin 1: Syarat Utama (Wajib!)
+Anda **hanya** bisa menyingkat (reduce) _adverb clause_ jika **Subjek** di klausa itu **SAMA** dengan **Subjek** di kalimat utama.
+- Contoh: `When **you** are ready, **you** can begin your speech.`
+    - Subjeknya sama-sama `you`, jadi ini BISA disingkat.
+    
+### Poin 2: Konektornya TETAP ADA
+Ini perbedaan besar dari Skill 13. Konektor seperti `Although`, `When`, `While`, `If`, `After`, `Before` **TIDAK DIHAPUS**.
+
+### Poin 3: Aturan Singkat #1 (Jika ada 'be-verb')
+Jika di dalam klausa ada `be-verb` (seperti `is`, `are`, `was`, `were`):
+- **Cara:** Buang Subjek + Buang `be-verb` nya.
+    - **Contoh:**
+    - Lengkap: `Although **he is** rather unwell, the speaker will take part...`    
+    - Singkat: `Although rather unwell, the speaker will take part...`
+- **Contoh:**
+    - Lengkap: `When **you are** ready, you can begin your speech.`
+    - Singkat: `When ready, you can begin your speech.`
+### Poin 4: Aturan Singkat #2 (Jika TIDAK ada 'be-verb')
+Jika di dalam klausa adanya kata kerja biasa (seperti `feels`, `give`, `studies`):
+- **Cara:** Buang Subjek + Ubah kata kerjanya ke bentuk **-ING**.
+- **Contoh:**
+    - Lengkap: `Although **he feels** rather sick, the speaker will take part...`
+    - Singkat: `Although **feeling** rather sick, the speaker will take part...`
+- **Contoh:**
+    - Lengkap: `When **you give** your speech, you should speak loudly...`
+    - Singkat: `When **giving** your speech, you should speak loudly...`
+### Poin 5: Aturan Khusus (Pasif & Pengecualian)
+Ini adalah jebakan utamanya.
+1. **Jika Pasif:** Kalimat pasif (seperti `it is submitted`) mengikuti **Aturan #1** (buang subjek + buang 'be-verb').
+    - Lengkap: `Once **it is** submitted, your thesis will be reviewed.`
+    - Singkat: `Once **submitted**, your thesis will be reviewed.`
+    - Contoh soal di buku Anda (`When ____, you are free to leave`) juga pasif: `When **(you are) finished**...`
+        
+2. **Pengecualian:** Beberapa konektor (seperti `once`, `if`, `until`) **hanya** bisa disingkat jika kalimatnya pasif (seperti `Once submitted...`). Mereka **tidak bisa** disingkat jika kalimatnya aktif.
+    - `Once **you submit**...` (Aktif) -> **TIDAK BISA** disingkat menjadi `Once submitting...` ❌
+    - `Once **it is** submitted...` (Pasif) -> **BISA** disingkat menjadi `Once submitted...` ✔️
+
+### Skill 15
 
 
 
@@ -327,5 +369,6 @@ In this example, answer (A) is incorrect because there are two clauses, “He ap
 - [[Exercise Skill 12]]
 - [[Exercise Skill 9 - 12]]
 - [[Exercise Skill 13]]
+- [[Exercise Skill 14]]
 
 ⌛Created 2025-10-18 18:24
