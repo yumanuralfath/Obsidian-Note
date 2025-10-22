@@ -3,7 +3,7 @@ title: Use Noun Clause Connector or Subject Correctly
 tags:
   - grammar
 created: 2025-10-21T09:00
-updated: 2025-10-21T11:22
+updated: 2025-10-22T10:17
 ---
 ## 💡 Ide Utama
 - Berbeda dengan skill 9 [[Use noun clause connector correctly]] dimana [[Noun Clause]] connectors berfungsi sebagai pengenal / yang memulai suatu *noun subject clause* atau *noun object clause* sehingga masih , intinya connector nya **rangkap jabatan** selain sebagai **connector** juga bekerja sebagai **subject** 
@@ -27,5 +27,6 @@ updated: 2025-10-21T11:22
 ## 🔗 Sumber
 -  [[Longman - TOEFL Test#Skill 10]]
 -  [[Exercise Skill 10]]
+- [[Sentence With Multiple Clauses]]
 
 ⌛ *Created Tuesday, 21 October 2025 - 09:00*

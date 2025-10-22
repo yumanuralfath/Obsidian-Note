@@ -6,7 +6,7 @@ tags:
   - grammar
   - "#Book"
 created: 2025-10-18T18:24
-updated: 2025-10-22T08:25
+updated: 2025-10-22T10:26
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
@@ -26,6 +26,9 @@ updated: 2025-10-22T08:25
 	- Skill 9 [[Use noun clause connector correctly]]
 	- Skill 10 [[Use Noun Clause Connector or Subject Correctly]]
 	- Skill 11 [[Use Adjective Clause Connectors Correctly]]
+	- Skill 12 [[Use Adjective Clause Connector Or Subject Correctly]]
+	- [[Sentence With Reduce Clauses]]
+	- Skill 13 [[Use Reduced Adjective Clause Correctly]]
 ## 🔍 Ringkasan
 ### Skill 2
 [[Be careful of object of preposition]]
@@ -226,6 +229,17 @@ In the example above, there two VERBS, _**was**_ and _**made**_. Each of those v
 ![[Pasted image 20251022082444.png]]
 ![[Pasted image 20251022082507.png]]
 
+### Skill 12 
+[[Use Adjective Clause Connector Or Subject Correctly]]
+![[Pasted image 20251022093322.png]]
+![[Pasted image 20251022093425.png]]
+![[Pasted image 20251022093438.png]]
+
+### Skill 13 
+[[Use Reduced Adjective Clause Correctly]]
+![[Pasted image 20251022102529.png]]
+![[Pasted image 20251022102601.png]]
+
 ## 💡 Konsep Penting
 - [[Simple Present Tense]]
 - [[Present Perfect Tense]]
@@ -239,6 +253,7 @@ In the example above, there two VERBS, _**was**_ and _**made**_. Each of those v
 - [[Adverb]]
 - [[Past Participles]]
 - [[Noun Clause]]
+- [[Sentence With Reduce Clauses]]
 
 ## 💪Exercise
 - [[Exercise Skill 1]]
@@ -254,5 +269,8 @@ In the example above, there two VERBS, _**was**_ and _**made**_. Each of those v
 - [[Exercise Skill 9]]
 - [[Exercise Skill 10]]
 - [[Exercise Skill 11]]
+- [[Exercise Skill 12]]
+- [[Exercise Skill 9 - 12]]
+- [[Exercise Skill 13]]
 
 ⌛Created 2025-10-18 18:24

@@ -3,7 +3,7 @@ title: Use Adverb Time and Cause Connectors Correctly
 tags:
   - grammar
 created: 2025-10-21T04:55
-updated: 2025-10-21T07:25
+updated: 2025-10-22T10:16
 ---
 ## 💡 Ide Utama
 Gunakan *adverb time* dan *kata penghubung* dengan benar dalam kalimat, dimana *adverb of times* merupakan kata keterangan waktu yang bisa menjawab pertanyaan *when?* dan *kata penghubung sebab* adalah kata hubung yang menjelaskan sebab akibat. 
@@ -24,5 +24,6 @@ contoh cause:
 
 ## 🔗 Sumber
 - [[Longman - TOEFL Test#Skill 7]]
+- [[Sentence With Multiple Clauses]]
 
 ⌛ *Created Tuesday, 21 October 2025 - 04:57*

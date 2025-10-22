@@ -2,7 +2,7 @@
 title: Use Other Adverb Connectors Correctly
 tags:
 created: 2025-10-21T05:34
-updated: 2025-10-21T05:46
+updated: 2025-10-22T10:16
 ---
 ## 💡 Ide Utama
 - sama seperti skill 7 [[Use Adverb Time and Cause Connectors Correctly]] namun disini menjelaskan *adverb connectors* lainnya beda dengan skill 7 yang fokus adverb *sebab akibat* dan *waktu*. Di skill 8 merupakan penghubung lainnya.
@@ -19,5 +19,6 @@ updated: 2025-10-21T05:46
 
 ## 🔗 Sumber
 - [[Longman - TOEFL Test#Skill 8]]
+- [[Sentence With Multiple Clauses]]
 
 ⌛ *Created Tuesday, 21 October 2025 - 05:34*

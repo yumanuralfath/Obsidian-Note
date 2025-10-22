@@ -3,7 +3,7 @@ title: Use noun clause connector correctly
 tags:
   - grammar
 created: 2025-10-21T07:20
-updated: 2025-10-21T08:49
+updated: 2025-10-22T10:17
 ---
 ## 💡 Ide Utama
 -  <mark style="background: #FF5582A6;">Pastikan setiap *noun clause* (anak kalimat) memiliki *connector*, *subject*, *Verb* yang lengkap</mark>
@@ -43,5 +43,5 @@ updated: 2025-10-21T08:49
 
 ## 🔗 Sumber
 - [[Longman - TOEFL Test#Skill 9]]
-
+- [[Sentence With Multiple Clauses]]
 ⌛ *Created Tuesday, 21 October 2025 - 07:20*
