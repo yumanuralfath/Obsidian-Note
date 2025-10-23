@@ -3,7 +3,7 @@ title: Use Reduced Adverb Clauses Correctly
 tags:
   - grammar
 created: 2025-10-22T10:47
-updated: 2025-10-23T06:02
+updated: 2025-10-23T08:33
 ---
 ## 💡 Ide Utama
 - Bisa disingkat jika *subject* di klausa **sama** dengan *subject* di kalimat utama  
@@ -39,9 +39,9 @@ Kata-kata ini tidak logis kalau subject atau verb-nya dihapus karena akan membin
 | **since (meaning “because”)** | Kalau berarti “karena”, tidak bisa direduksi            | ❌ Since **raining**, we stayed home.                              |
 - rangkuman
 
-|Bisa direduksi aktif|Bisa direduksi pasif saja|Tidak bisa direduksi|
-|---|---|---|
-|after, before, while, when, since|once, until, when (kadang), if|because, so that, even though, since (“karena”)|
+| Bisa direduksi aktif              | Bisa direduksi pasif saja      | Tidak bisa direduksi                            |
+| --------------------------------- | ------------------------------ | ----------------------------------------------- |
+| after, before, while, when, since | once, until, when (kadang), if | because, so that, even though, since (“karena”) |
 
 
 
