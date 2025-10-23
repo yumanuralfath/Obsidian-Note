@@ -3,17 +3,20 @@ title: Exercise Skill 14
 tags:
   - Exercise
 created: 2025-10-23T06:02
-updated: 2025-10-23T08:37
+updated: 2025-10-24T05:08
 ---
 ## 💪 Exercise With Example
 - The ointment can be applied ==where== <u>needed.</u> ✅ 
 	- where it is needed
-- Tom began to look for a job ==after== <u>completing</u> his master's degree in engineering.
+- Tom began to look for a job ==after== <u>completing</u> his master's degree in engineering.❌
 	- after he completed
 - ==Although== not <u>selecting</u> for the team, he attends all of the games as a fan.❌
-	- 
-- When purchased at this store, the buyer gets a guarantee on all items.
-- The medicine is not effective unless taken as directed.
+	- pasif V3 harusnya *selected*
+- ==When== <u>purchased</u> at this store, the buyer gets a guarantee on all items.❌
+	- salah secara logika karena *subject* tidak sama masa buyer yang di purchase
+- The medicine is not effective ==unless== <u>taken</u> as directed.✅
+- You should negotiate a lot ==before== <u>buy</u> a new car.❌
+	- seharusnya *buying* karena preposisi *before* 
 
 
 ## 🔗 Sumber

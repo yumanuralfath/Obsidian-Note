@@ -11,12 +11,12 @@ const w = await tp.user.weatherDetailed(tp);
 if (w) {
 tR += `
 <details style="
-  border: 1px solid var(--text-muted);
+  border: 1px solid #777;
   border-radius: 10px;
   padding: 8px 12px;
   margin: 12px 0;
   backdrop-filter: blur(6px);
-  background-color: transparent;
+  background-color: color-mix(in srgb, var(--background-primary) 90%, transparent);
   transition: all 0.3s ease;
 ">
   <summary style="
@@ -53,9 +53,6 @@ tR += `
 `;
 }
 %>
-
-
-
 ## ⚡ Prioritas
 - [ ] <% tp.file.cursor() %>
 - [ ] 
