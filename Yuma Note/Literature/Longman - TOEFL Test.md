@@ -6,13 +6,13 @@ tags:
   - grammar
   - "#Book"
 created: 2025-10-18T18:24
-updated: 2025-10-22T19:44
+updated: 2025-10-24T08:53
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
 
 ### 📘 Progress
-11 / 58
+15 / 58
 -  [[grammar]]
 	- Skill 1  [[Be Sure The Sentence Has A Subject And A verb]]
 	- Skill 2 [[Be careful of object of preposition]]
@@ -30,6 +30,49 @@ updated: 2025-10-22T19:44
 	- [[Sentence With Reduce Clauses]]
 	- Skill 13 [[Use Reduced Adjective Clause Correctly]]
 	- Skill 14 [[Use Reduced Adverb Clauses Correctly]]
+	- Skill 15 [[Invert The Subject and Verb with Question words]]
+	- Skill 16 [[Invert The Subject and Verb with Place Expression]]
+	- Skill 17 [[Invert The Subject and Verb with Negatives]]
+
+## 💪Exercise
+- [[Exercise Skill 1]]
+- [[Exercise Skill 2]]
+- [[Be Careful of Appositives#Exercise]]
+- [[Exercise Skill 4]]
+- [[Exercise Skill 5]]
+- [[Exercise 1-5]]
+- [[Exercise Skill 6]] 
+- [[Exercise Skill 7]]
+- [[Exercise Skill 8]]
+- [[Exercise Skill 6 - 8]]
+- [[Exercise Skill 9]]
+- [[Exercise Skill 10]]
+- [[Exercise Skill 11]]
+- [[Exercise Skill 12]]
+- [[Exercise Skill 9 - 12]]
+- [[Exercise Skill 13]]
+- [[Exercise Skill 14]]
+- [[Exercise 15]]
+- [[Exercise 16]]
+- [[Exercise 17]]
+
+
+## 💡 Konsep Penting
+- [[Simple Present Tense]]
+- [[Present Perfect Tense]]
+- [[frase nomina]]
+- [[Verb]]
+- [[noun]]
+- [[Subject]]
+- [[preposition]]
+- [[Appositive]]
+- [[Adjective]]
+- [[Adverb]]
+- [[Past Participles]]
+- [[Noun Clause]]
+- [[Sentence With Reduce Clauses]]
+
+
 
 ## 🔍 Ringkasan
 ### Skill 2
@@ -333,42 +376,6 @@ Ini adalah jebakan utamanya.
     - `Once **it is** submitted...` (Pasif) -> **BISA** disingkat menjadi `Once submitted...` ✔️
 
 ### Skill 15
-
-
-
-
-## 💡 Konsep Penting
-- [[Simple Present Tense]]
-- [[Present Perfect Tense]]
-- [[frase nomina]]
-- [[Verb]]
-- [[noun]]
-- [[Subject]]
-- [[preposition]]
-- [[Appositive]]
-- [[Adjective]]
-- [[Adverb]]
-- [[Past Participles]]
-- [[Noun Clause]]
-- [[Sentence With Reduce Clauses]]
-
-## 💪Exercise
-- [[Exercise Skill 1]]
-- [[Exercise Skill 2]]
-- [[Be Careful of Appositives#Exercise]]
-- [[Exercise Skill 4]]
-- [[Exercise Skill 5]]
-- [[Exercise 1-5]]
-- [[Exercise Skill 6]] 
-- [[Exercise Skill 7]]
-- [[Exercise Skill 8]]
-- [[Exercise Skill 6 - 8]]
-- [[Exercise Skill 9]]
-- [[Exercise Skill 10]]
-- [[Exercise Skill 11]]
-- [[Exercise Skill 12]]
-- [[Exercise Skill 9 - 12]]
-- [[Exercise Skill 13]]
-- [[Exercise Skill 14]]
+[[Invert The Subject and Verb with Question words]]
 
 ⌛Created 2025-10-18 18:24
