@@ -6,7 +6,7 @@ tags:
   - grammar
   - "#Book"
 created: 2025-10-18T18:24
-updated: 2025-10-24T08:53
+updated: 2025-10-24T09:52
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
@@ -33,6 +33,8 @@ updated: 2025-10-24T08:53
 	- Skill 15 [[Invert The Subject and Verb with Question words]]
 	- Skill 16 [[Invert The Subject and Verb with Place Expression]]
 	- Skill 17 [[Invert The Subject and Verb with Negatives]]
+	- Skill 18 [[Invert The Subject and Verb with Conditionals]]
+	- Skill 19 [[Invert The Subject and Verb with Comparisons]] 
 
 ## 💪Exercise
 - [[Exercise Skill 1]]
@@ -55,6 +57,8 @@ updated: 2025-10-24T08:53
 - [[Exercise 15]]
 - [[Exercise 16]]
 - [[Exercise 17]]
+- [[Exercise 18]]
+- [[Exercise 19]]
 
 
 ## 💡 Konsep Penting

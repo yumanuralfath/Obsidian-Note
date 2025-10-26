@@ -3,7 +3,7 @@ title: Invert The Subject and Verb with Negatives
 tags:
   - grammar
 created: 2025-10-24T08:53
-updated: 2025-10-24T08:53
+updated: 2025-10-24T09:34
 ---
 ### 1. Inti Sederhananya (Konsep Utama)
 
@@ -110,5 +110,9 @@ Jawaban yang polanya Subjek (S) + Kata Kerja (V) pasti SALAH.
 Gimana? Dengan 3 langkah itu, kamu bisa menjawab soal tipe ini dengan cepat! Kamu sudah menguasai dua "jebakan" TOEFL yang paling umum. Keren banget!
 
 Apakah penjelasan ini cukup sederhana dan membantumu? Semangat terus, ya! Kamu pasti bisa! 💪
+
+📝exercise
+[[Exercise 17]]
+
 
 ⌛ *Created Friday, 24 October 2025 - 08:53*
