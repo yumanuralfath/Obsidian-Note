@@ -2,14 +2,14 @@
 title: <% tp.file.title %>
 tags:
 ---
-## 💡 Ide Utama
+## 📝  What ?
 - 
 
-
-
-## 🗒️ Note Example
+## 🧐 Why ?
 - 
 
+## 👍 How ?
+- 
 
 ## 🔗 Sumber
 - [[ ]]
