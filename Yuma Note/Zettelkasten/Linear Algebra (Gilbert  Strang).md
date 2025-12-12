@@ -2,8 +2,9 @@
 title: Linear Algebra (Gilbert  Strang)
 tags:
   - Science
+  - Book
 created: 2025-12-11T09:44
-updated: 2025-12-11T09:44
+updated: 2025-12-12T08:17
 ---
 ![](https://res.cloudinary.com/dx8dogwhc/image/upload/v1765421199/image_lbt19r.jpg)
 
@@ -12,7 +13,7 @@ updated: 2025-12-11T09:44
 
 Ini adalah materi inti yang disebutkan alumni ("Menyelesaikan SPL" dan "Menghitung Nilai Eigen").
 
-- **Bab 1: Matrices and Gaussian Elimination**
+- **Bab 1: [[Matrices and Gaussian Elimination]]**
     
     - **Fokus:** **1.3 An Example of Gaussian Elimination**.
         
