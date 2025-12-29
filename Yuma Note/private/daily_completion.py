@@ -1,7 +1,9 @@
 import re
 from pathlib import Path
+from datetime import date
 
-DAILY_ROOT = Path("../Daily")
+BASE_DIR = Path(__file__).resolve().parent
+DAILY_ROOT = BASE_DIR.parent / "Daily"
 
 TASK_PATTERN = re.compile(r"- \[( |x)\]")
 DAILY_BLOCK_RE = re.compile(
@@ -18,6 +20,12 @@ def count_tasks(text: str):
     total = len(TASK_PATTERN.findall(text))
     done = len(re.findall(r"- \[x\]", text))
     return done, total
+
+
+def is_today_file(md_file: Path) -> bool:
+    today = date.today()
+    expected_prefix = today.strftime("%d.%m.%y")
+    return md_file.stem.startswith(expected_prefix)
 
 
 # ==========================
@@ -100,12 +108,14 @@ for month_key, (done, total, files) in monthly_summary.items():
     )
 
     for md_file in files:
+        if not is_today_file(md_file):
+            continue
+
         original_text = md_file.read_text(encoding="utf-8")
 
         text = MONTHLY_BLOCK_RE.sub("", original_text).rstrip()
         new_text = text + "\n\n" + monthly_block + "\n"
 
-        # 🔒 WRITE HANYA JIKA BERUBAH
         if new_text != original_text:
             md_file.write_text(new_text, encoding="utf-8")
 

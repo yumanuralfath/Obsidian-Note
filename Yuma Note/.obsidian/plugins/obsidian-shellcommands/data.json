@@ -26,11 +26,11 @@
     {
       "id": "1rfeuv8py4",
       "platform_specific_commands": {
-        "default": "python"
+        "default": "python private/daily_completion.py"
       },
       "shells": {},
       "alias": "completion",
-      "icon": null,
+      "icon": "lucide-anchor",
       "confirm_execution": false,
       "ignore_error_codes": [],
       "input_contents": {
@@ -38,7 +38,7 @@
       },
       "output_handlers": {
         "stdout": {
-          "handler": "ignore",
+          "handler": "notification",
           "convert_ansi_code": true
         },
         "stderr": {
@@ -54,7 +54,7 @@
       "output_handling_mode": "buffered",
       "execution_notification_mode": null,
       "events": {
-        "on-quit": {
+        "on-layout-ready": {
           "enabled": true
         }
       },
@@ -66,17 +66,7 @@
   ],
   "prompts": [],
   "builtin_variables": {},
-  "custom_variables": [
-    {
-      "id": "bo7h6185tr",
-      "name": "script_folder",
-      "description": "script folder absolute path",
-      "default_value": {
-        "type": "value",
-        "value": ""
-      }
-    }
-  ],
+  "custom_variables": [],
   "custom_variables_notify_changes_via": {
     "obsidian_uri": true,
     "output_assignment": true

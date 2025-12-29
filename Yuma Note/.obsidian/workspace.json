@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bcb37cf45b80d753",
+        "id": "087f8751d1e87eec",
         "type": "tabs",
         "children": [
           {
-            "id": "48c2f993f248b5c1",
+            "id": "2a9744f36ea710b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -227,11 +227,12 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "48c2f993f248b5c1",
+  "active": "2a9744f36ea710b6",
   "lastOpenFiles": [
     "Daily/2025/December/28.12.25.362.md",
     "Daily/2025/December/29.12.25.363.md",
     "Daily/2025/December/26.12.25.360.md",
+    "private/daily_completion.py~",
     "Daily/2025/October/18th - Obsidian  + Quartz.md",
     "Daily/2025/October/19th - Repeated.md",
     "Daily/2025/December/Dec 12, 2025.md",
@@ -245,7 +246,6 @@
     "Daily/2025/October/Oct 28, 2025.md",
     "Daily/2025/October/Oct 26, 2025.md",
     "Daily/2025/October/Oct 20, 2025.md",
-    "private/daily_completion.py~",
     "Daily/2025/December/Dec 10, 2025.md",
     "Daily/2025/December/Dec 9, 2025.md",
     "private/daily_completion.py",
