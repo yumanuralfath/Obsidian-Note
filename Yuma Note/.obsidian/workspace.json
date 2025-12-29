@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fa6da8c52fbd7848",
+        "id": "4f5877078f4e498f",
         "type": "tabs",
         "children": [
           {
-            "id": "0519a22381679560",
+            "id": "9152586c7754f915",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Yuma Note/Daily/2025/October/18th - Obsidian  + Quartz.md",
+                "bFile": "Yuma Note/Daily/2025/October/18th - Obsidian  + Quartz.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 18th - Obsidian  + Quartz"
             }
           }
         ]
@@ -213,7 +217,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "ea23744a273c4d10",
+  "active": "9152586c7754f915",
   "lastOpenFiles": [
     "Daily/2025/October/18th - Obsidian  + Quartz.md",
     "Daily/2025/October/19th - Repeated.md",
