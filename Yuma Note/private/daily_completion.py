@@ -4,17 +4,17 @@ from pathlib import Path
 DAILY_ROOT = Path("../Daily")
 
 TASK_PATTERN = re.compile(r"- \[( |x)\]")
-
 DAILY_BLOCK_RE = re.compile(
-    r"<!-- DAILY_COMPLETION_START -->(.*?)<!-- DAILY_COMPLETION_END -->", re.S
+    r"\n?<!-- DAILY_COMPLETION_START -->.*?<!-- DAILY_COMPLETION_END -->\n?",
+    re.S,
 )
-
 MONTHLY_BLOCK_RE = re.compile(
-    r"<!-- MONTHLY_COMPLETION_START -->(.*?)<!-- MONTHLY_COMPLETION_END -->", re.S
+    r"\n?<!-- MONTHLY_COMPLETION_START -->.*?<!-- MONTHLY_COMPLETION_END -->\n?",
+    re.S,
 )
 
 
-def count_tasks(text):
+def count_tasks(text: str):
     total = len(TASK_PATTERN.findall(text))
     done = len(re.findall(r"- \[x\]", text))
     return done, total
@@ -37,25 +37,27 @@ for year_dir in DAILY_ROOT.iterdir():
         monthly_summary.setdefault(key, [0, 0, []])
 
         for md_file in month_dir.glob("*.md"):
-            text = md_file.read_text(encoding="utf-8")
+            original_text = md_file.read_text(encoding="utf-8")
 
-            done, total = count_tasks(text)
+            done, total = count_tasks(original_text)
             if total == 0:
                 continue
 
             percent = round(done / total * 100, 1)
+
             monthly_summary[key][0] += done
             monthly_summary[key][1] += total
             monthly_summary[key][2].append(md_file)
 
-            daily_block = f"""
-<!-- DAILY_COMPLETION_START -->
-### ✅ Daily Completion
-**{percent}%** ({done}/{total})
-<!-- DAILY_COMPLETION_END -->
-""".strip()
+            daily_block = (
+                "<!-- DAILY_COMPLETION_START -->\n"
+                "### ✅ Daily Completion\n"
+                f"**{percent}%** ({done}/{total})\n"
+                "<!-- DAILY_COMPLETION_END -->"
+            )
 
-            text = DAILY_BLOCK_RE.sub("", text).rstrip()
+            # Hapus block lama
+            text = DAILY_BLOCK_RE.sub("", original_text).rstrip()
 
             lines = text.splitlines()
             output = []
@@ -72,7 +74,11 @@ for year_dir in DAILY_ROOT.iterdir():
                 output.append("")
                 output.append(daily_block)
 
-            md_file.write_text("\n".join(output), encoding="utf-8")
+            new_text = "\n".join(output).rstrip() + "\n"
+
+            # 🔒 WRITE HANYA JIKA BERUBAH
+            if new_text != original_text:
+                md_file.write_text(new_text, encoding="utf-8")
 
 
 # ==========================
@@ -86,17 +92,22 @@ for month_key, (done, total, files) in monthly_summary.items():
     bars = int(percent // 10)
     bar = "█" * bars + "░" * (10 - bars)
 
-    monthly_block = f"""
-<!-- MONTHLY_COMPLETION_START -->
-### 📊 Monthly Completion ({month_key})
-{bar} **{percent}%**
-<!-- MONTHLY_COMPLETION_END -->
-""".strip()
+    monthly_block = (
+        "<!-- MONTHLY_COMPLETION_START -->\n"
+        f"### 📊 Monthly Completion ({month_key})\n"
+        f"{bar} **{percent}%**\n"
+        "<!-- MONTHLY_COMPLETION_END -->"
+    )
 
     for md_file in files:
-        text = md_file.read_text(encoding="utf-8")
-        text = MONTHLY_BLOCK_RE.sub("", text).rstrip()
-        text += "\n\n" + monthly_block
-        md_file.write_text(text, encoding="utf-8")
+        original_text = md_file.read_text(encoding="utf-8")
 
-print("✅ Daily & Monthly completion updated (folder-based)")
+        text = MONTHLY_BLOCK_RE.sub("", original_text).rstrip()
+        new_text = text + "\n\n" + monthly_block + "\n"
+
+        # 🔒 WRITE HANYA JIKA BERUBAH
+        if new_text != original_text:
+            md_file.write_text(new_text, encoding="utf-8")
+
+
+print("✅ Daily & Monthly completion updated (idempotent)")
