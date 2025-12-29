@@ -26,7 +26,7 @@
     {
       "id": "1rfeuv8py4",
       "platform_specific_commands": {
-        "default": "python private/daily_completion.py"
+        "default": "python"
       },
       "shells": {},
       "alias": "completion",
@@ -66,7 +66,17 @@
   ],
   "prompts": [],
   "builtin_variables": {},
-  "custom_variables": [],
+  "custom_variables": [
+    {
+      "id": "bo7h6185tr",
+      "name": "script_folder",
+      "description": "script folder absolute path",
+      "default_value": {
+        "type": "value",
+        "value": ""
+      }
+    }
+  ],
   "custom_variables_notify_changes_via": {
     "obsidian_uri": true,
     "output_assignment": true
