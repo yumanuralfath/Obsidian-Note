@@ -5,13 +5,13 @@ weather: <%* tR += await tp.user.weather(tp) %>
 tags:
   - Daily
 ---
-## ⚡ Priority
+# ⚡ Priority
 - [ ] <% tp.file.cursor() %>
 - [ ] 
 - [ ] 
 
 
-## 📝 Note
+# 📝 Note
 
 
 

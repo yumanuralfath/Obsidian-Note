@@ -9,5 +9,6 @@
   "obsidian-wakatime",
   "obs-text-wrapper",
   "obsidian-cloudinary-uploader",
-  "vimium"
+  "vimium",
+  "obsidian-shellcommands"
 ]
