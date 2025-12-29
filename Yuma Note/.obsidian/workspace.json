@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a439db04796e46aa",
+        "id": "9971d8b21cfe84ae",
         "type": "tabs",
         "children": [
           {
-            "id": "68cc3af5fdec9580",
+            "id": "64076e6ad2fa6421",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Yuma Note/Daily/2025/December/27.12.25.361.md",
-                "bFile": "Yuma Note/Daily/2025/December/27.12.25.361.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 27.12.25.361"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -217,15 +213,15 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "68cc3af5fdec9580",
+  "active": "64076e6ad2fa6421",
   "lastOpenFiles": [
+    "Daily/2025/December/26.12.25.360.md",
     "Daily/2025/December/29.12.25.363.md",
     "Daily/2025/October/18th - Obsidian  + Quartz.md",
     "Daily/2025/October/19th - Repeated.md",
     "Daily/2025/December/Dec 12, 2025.md",
     "Daily/2025/October/Oct 21, 2025.md",
     "Daily/2025/December/Dec 11, 2025.md",
-    "Daily/2025/December/26.12.25.360.md",
     "Daily/2025/December/27.12.25.361.md",
     "Daily/2025/December/28.12.25.362.md",
     "Templates/Daily Template.md",
