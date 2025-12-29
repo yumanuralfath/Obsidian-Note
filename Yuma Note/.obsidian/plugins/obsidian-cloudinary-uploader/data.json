@@ -1,0 +1,20 @@
+{
+  "cloudName": "dx8dogwhc",
+  "uploadPreset": "Obsidian",
+  "folder": "",
+  "f_auto": false,
+  "transformParams": "",
+  "dropUpload": false,
+  "clipboardUpload": true,
+  "imageUpload": true,
+  "audioUpload": false,
+  "videoUpload": false,
+  "rawUpload": false,
+  "imageSubfolder": "",
+  "audioSubfolder": "",
+  "videoSubfolder": "",
+  "rawSubfolder": "",
+  "preserveBackupFilePath": false,
+  "backupFolder": "",
+  "ignoreWarnings": false
+}
