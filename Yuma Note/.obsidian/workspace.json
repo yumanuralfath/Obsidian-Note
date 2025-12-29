@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "59d30259e4812dfc",
+        "id": "57f31c953b4dc08d",
         "type": "tabs",
         "children": [
           {
-            "id": "969764efd1a30982",
+            "id": "de877147237a1a1b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Yuma Note/Daily/2025/December/27.12.25.361.md",
-                "bFile": "Yuma Note/Daily/2025/December/27.12.25.361.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 27.12.25.361"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -217,7 +213,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "969764efd1a30982",
+  "active": "de877147237a1a1b",
   "lastOpenFiles": [
     "Daily/2025/December/29.12.25.363.md",
     "Daily/2025/December/Dec 12, 2025.md",
