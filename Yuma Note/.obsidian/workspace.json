@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "57f31c953b4dc08d",
+        "id": "2b23f38b0306c6e6",
         "type": "tabs",
         "children": [
           {
-            "id": "de877147237a1a1b",
+            "id": "b88ee1c0ecff25de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025/October/18th - Obsidian  + Quartz.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "18th - Obsidian  + Quartz"
             }
           }
         ]
@@ -213,8 +227,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "de877147237a1a1b",
+  "active": "b88ee1c0ecff25de",
   "lastOpenFiles": [
+    "Daily/2025/October/19th - Repeated.md",
+    "Daily/2025/October/18th - Obsidian  + Quartz.md",
     "Daily/2025/December/29.12.25.363.md",
     "Daily/2025/December/Dec 12, 2025.md",
     "Daily/2025/October/Oct 21, 2025.md",
@@ -228,8 +244,6 @@
     "FIles/Pasted image 20251019175219.png",
     "Daily/2025/October/Oct 28, 2025.md",
     "Daily/2025/October/Oct 26, 2025.md",
-    "Daily/2025/October/18th - Obsidian  + Quartz.md",
-    "Daily/2025/October/19th - Repeated.md",
     "Daily/2025/October/Oct 20, 2025.md",
     "private/daily_completion.py~",
     "Daily/2025/December/Dec 10, 2025.md",
