@@ -319,6 +319,8 @@ terpanas
 terbakar
 terlambat
 tahun
+telat
+terlewat
 Longman
 Literature
 LB
@@ -520,6 +522,7 @@ Live
 Latih
 LOA
 Lut
+LLM
 TOEFL
 Test
 Tom
@@ -1218,6 +1221,7 @@ Diferensial
 Drill
 Dengarkan
 Dilanjutkan
+DAILY
 Phillips
 Preparation
 Past
@@ -2531,6 +2535,8 @@ Computational
 Cermin
 Colab
 Counter
+COMPLETION
+Completion
 For
 FF
 February
@@ -3105,6 +3111,8 @@ Sayangnya
 Sci
 Strike
 Studio
+SIANG
+START
 An
 After
 Answers
@@ -4041,6 +4049,7 @@ paywall
 pengunggah
 produktivitas
 produktifitas
+penjelasannya
 noun
 notice
 no
@@ -4787,6 +4796,7 @@ sejenak
 sekitar
 sembari
 sebelumnya
+sahur
 by
 behind
 boat
@@ -5096,6 +5106,8 @@ bermain
 berdampak
 budaya
 bijak
+berjudul
+bersantai
 form
 for
 first
@@ -5776,6 +5788,8 @@ engine
 enterprise
 ekstrem
 episode
+entah
+efektif
 will
 with
 when
@@ -6162,6 +6176,8 @@ Error
 Explanation
 Explain
 Eigenvalue
+Engine
+END
 questions
 quite
 qr
@@ -6697,6 +6713,13 @@ mampu
 membakar
 membuktikan
 mulai
+massive
+makan
+menanya
+membaca
+mandi
+malam
+mencatatnya
 In
 It
 If
@@ -7194,6 +7217,8 @@ likely
 launcher
 leluasa
 las
+lusa
+lebat
 verb
 various
 vociferously
@@ -7671,6 +7696,7 @@ GDScript
 Google
 Gurun
 Gandum
+Godot
 does
 div
 dalam
@@ -7954,6 +7980,7 @@ dokumenter
 ditinggalkan
 dianggap
 develop
+diselingi
 VERB
 Verb
 Valentine
@@ -9072,6 +9099,7 @@ koin
 kripto
 konon
 kasino
+keenakan
 Note
 November
 Nur
@@ -9470,6 +9498,8 @@ Mulai
 Meski
 McAllen
 Mole
+MONTHLY
+Monthly
 October
 Object
 On
