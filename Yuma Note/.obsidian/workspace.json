@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "bf83c413da79d0f4",
+        "id": "0f7f78ad3803e8c3",
         "type": "tabs",
         "children": [
           {
-            "id": "95a2c2cd73329504",
+            "id": "9fc981d75c584ac2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Yuma Note/Daily/2025/December/26.12.25.360.md",
-                "bFile": "Yuma Note/Daily/2025/December/26.12.25.360.md",
-                "aRef": ""
+                "file": "Daily/2025/December/29.12.25.363.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: 26.12.25.360"
+              "icon": "lucide-file",
+              "title": "29.12.25.363"
             }
           }
         ]
@@ -217,7 +227,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "95a2c2cd73329504",
+  "active": "9fc981d75c584ac2",
   "lastOpenFiles": [
     "Daily/2025/December/29.12.25.363.md",
     "Daily/2025/October/18th - Obsidian  + Quartz.md",

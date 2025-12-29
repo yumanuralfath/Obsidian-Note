@@ -46,5 +46,13 @@
       ],
       "key": "F"
     }
+  ],
+  "obsidian-git:commit-smart": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }
