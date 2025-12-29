@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7590a1b4b5fcee43",
+        "id": "59d30259e4812dfc",
         "type": "tabs",
         "children": [
           {
-            "id": "6db555b2c99748ab",
+            "id": "969764efd1a30982",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Daily/2025/December/29.12.25.363.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "Yuma Note/Daily/2025/December/27.12.25.361.md",
+                "bFile": "Yuma Note/Daily/2025/December/27.12.25.361.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "29.12.25.363"
+              "icon": "diff",
+              "title": "Diff: 27.12.25.361"
             }
           }
         ]
@@ -227,7 +217,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "6db555b2c99748ab",
+  "active": "969764efd1a30982",
   "lastOpenFiles": [
     "Daily/2025/December/29.12.25.363.md",
     "Daily/2025/December/Dec 12, 2025.md",

@@ -26,7 +26,7 @@
     {
       "id": "1rfeuv8py4",
       "platform_specific_commands": {
-        "default": "python3 private/daily_completion.py"
+        "default": "python private/daily_completion.py"
       },
       "shells": {},
       "alias": "completion",
