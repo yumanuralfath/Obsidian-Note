@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025/December/29.12.25.363.md",
+                "file": "Daily/2025/December/30.12.25.364.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "29.12.25.363"
+              "title": "30.12.25.364"
             }
           }
         ]
@@ -229,8 +229,9 @@
   },
   "active": "2a9744f36ea710b6",
   "lastOpenFiles": [
-    "Daily/2025/December/28.12.25.362.md",
     "Daily/2025/December/29.12.25.363.md",
+    "Daily/2025/December/30.12.25.364.md",
+    "Daily/2025/December/28.12.25.362.md",
     "Daily/2025/December/26.12.25.360.md",
     "private/daily_completion.py~",
     "Daily/2025/October/18th - Obsidian  + Quartz.md",
