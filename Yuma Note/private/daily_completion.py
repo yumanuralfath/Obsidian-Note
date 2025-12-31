@@ -1,9 +1,11 @@
 import re
 from pathlib import Path
+
 from datetime import date
 
 BASE_DIR = Path(__file__).resolve().parent
 DAILY_ROOT = BASE_DIR.parent / "Daily"
+TAGS_ROOT = BASE_DIR.parent / "tags"
 
 TASK_PATTERN = re.compile(r"- \[( |x)\]")
 DAILY_BLOCK_RE = re.compile(
@@ -15,11 +17,23 @@ MONTHLY_BLOCK_RE = re.compile(
     re.S,
 )
 
+TAGS_BLOCK_RE = re.compile(
+    r"(## Tags\s+Tags Worth Exploring\s+- .*?)(\n\n|$)",
+    re.S,
+)
+
 
 def count_tasks(text: str):
     total = len(TASK_PATTERN.findall(text))
     done = len(re.findall(r"- \[x\]", text))
     return done, total
+
+
+def get_tag_names(tags_root: Path) -> list[str]:
+    tags = []
+    for tag_file in tags_root.glob("*.md"):
+        tags.append(tag_file.stem)
+    return sorted(tags)
 
 
 def is_today_file(md_file: Path) -> bool:
@@ -120,4 +134,41 @@ for month_key, (done, total, files) in monthly_summary.items():
             md_file.write_text(new_text, encoding="utf-8")
 
 
-print("✅ Daily & Monthly completion updated (idempotent)")
+# ==========================
+# TAGS INDEX UPDATE
+# ==========================
+index_file = BASE_DIR.parent / "index.md"
+
+if index_file.exists():
+    original_text = index_file.read_text(encoding="utf-8")
+
+    # Tags dari folder
+    folder_tags = get_tag_names(TAGS_ROOT)
+    folder_tags_set = {f"#{t}" for t in folder_tags}
+
+    match = TAGS_BLOCK_RE.search(original_text)
+
+    if match:
+        block = match.group(1)
+
+        # Ambil tags yang sudah ada
+        existing_tags = set(re.findall(r"#\w+", block))
+
+        # Gabungkan (skip yang sudah ada)
+        all_tags = sorted(existing_tags | folder_tags_set, key=str.lower)
+
+        new_block = "## Tags \nTags Worth Exploring\n- " + " ".join(all_tags)
+
+        new_text = TAGS_BLOCK_RE.sub(new_block + "\n\n", original_text)
+
+    else:
+        # Jika section Tags belum ada sama sekali
+        tag_line = "- " + " ".join(f"#{t}" for t in folder_tags)
+        new_block = f"\n## Tags \nTags Worth Exploring\n{tag_line}\n\n"
+        new_text = original_text.rstrip() + new_block
+
+    if new_text != original_text:
+        index_file.write_text(new_text, encoding="utf-8")
+
+print("✅ Daily & Monthly completion updated")
+print("✅ Tags Update")
