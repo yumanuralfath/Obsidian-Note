@@ -4969,6 +4969,7 @@ stv
 sEDKK
 spr
 str
+sharing
 by
 behind
 boat
@@ -5295,6 +5296,7 @@ bsHj
 bfa
 bdlz
 berintensitas
+bersama
 form
 for
 first

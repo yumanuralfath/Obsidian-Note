@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025/December/30.12.25.364.md",
+                "file": "Daily/2025/December/31.12.25.365.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "30.12.25.364"
+              "title": "31.12.25.365"
             }
           }
         ]
@@ -229,8 +229,9 @@
   },
   "active": "2a9744f36ea710b6",
   "lastOpenFiles": [
-    "Daily/2025/December/29.12.25.363.md",
     "Daily/2025/December/30.12.25.364.md",
+    "Daily/2025/December/31.12.25.365.md",
+    "Daily/2025/December/29.12.25.363.md",
     "Daily/2025/December/28.12.25.362.md",
     "Daily/2025/December/26.12.25.360.md",
     "private/daily_completion.py~",
@@ -260,7 +261,6 @@
     "Zettelkasten/dd.md",
     "Zettelkasten/Jadwal 20 Hari.md",
     "FIles/IMG_20251226_201815_196.jpg",
-    "Zettelkasten/Be Careful of Present Participle.md",
     "FIles/Screenshot_20251226-195439.jpg",
     "Daily/2025/December/362 ",
     "FIles/Hero.webp",
