@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Untitled 1.md",
+                "file": "Zettelkasten/Outline Computational Chemistry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "0bc05fa037a06578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "Outline Computational Chemistry"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,12 +251,13 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "0bc05fa037a06578",
+  "active": "2a9744f36ea710b6",
   "lastOpenFiles": [
-    "private/daily_completion.py~",
-    "Zettelkasten/Untitled 1.md",
+    "Zettelkasten/Outline Computational Chemistry.md",
     "Daily/2025/December/31.12.25.365.md",
+    "index.md",
     "tags/Chemistry.md",
+    "private/daily_completion.py~",
     "Daily/2025/December/29.12.25.363.md",
     "Daily/2025/December/30.12.25.364.md",
     "Daily/2025/December/28.12.25.362.md",

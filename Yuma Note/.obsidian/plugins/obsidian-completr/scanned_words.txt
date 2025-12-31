@@ -328,6 +328,7 @@ tvvDE
 tpv
 tws
 tme
+terhadap
 Longman
 Literature
 LB
@@ -532,6 +533,7 @@ Lut
 LLM
 LiiY
 LFV
+Learn
 TOEFL
 Test
 Tom
@@ -1030,6 +1032,8 @@ aIqAeE
 adb
 aHx
 aQI
+analitis
+angle
 Deborah
 Do
 Disini
@@ -1830,6 +1834,7 @@ guw
 gSc
 gaA
 gJJ
+geometry
 Book
 Because
 Be
@@ -2276,6 +2281,8 @@ camO
 cKK
 cbn
 connection
+cabang
+chemical
 updated
 utama
 utamanya
@@ -3242,6 +3249,7 @@ Sgc
 SPT
 SYE
 SEU
+Secara
 An
 After
 Answers
@@ -3658,6 +3666,7 @@ oamg
 oKs
 oGAI
 oÖ
+obat
 is
 in
 it
@@ -3868,6 +3877,9 @@ ihU
 ibjq
 ipy
 imizX
+ilmu
+investigasi
+ikatan
 pronoun
 preposition
 prepositional
@@ -4207,6 +4219,8 @@ prr
 pzzz
 pCc
 pertambahan
+perhitungan
+prediksi
 noun
 notice
 no
@@ -4403,6 +4417,7 @@ nIq
 nMu
 nGW
 nJV
+nucleophilic
 read
 recognize
 rather
@@ -4601,6 +4616,9 @@ rEe
 rV
 role
 real
+reaksinya
+reactivity
+reaktivitasnya
 such
 so
 sentence
@@ -4977,6 +4995,10 @@ sharing
 sebentar
 symphony
 strings
+sebagian
+spektrum
+substrate
+sisi
 by
 behind
 boat
@@ -5305,6 +5327,9 @@ bdlz
 berintensitas
 bersama
 basis
+bahas
+berhubungan
+berkonsentrasi
 form
 for
 first
@@ -5546,6 +5571,7 @@ fKs
 fVo
 fRyYIYi
 fWgg
+fisika
 his
 he
 has
@@ -6008,6 +6034,9 @@ ev
 edHDl
 eR
 ege
+elektron
+electophilic
+enzim
 will
 with
 when
@@ -6960,6 +6989,14 @@ mdd
 muo
 muUU
 magic
+menyebutnya
+molecular
+modelling
+masalah
+molekul
+membantu
+memprediksi
+menempel
 In
 It
 If
@@ -7477,6 +7514,7 @@ lRsS
 lGg
 lcg
 lfz
+laju
 verb
 various
 vociferously
@@ -8259,6 +8297,7 @@ dKK
 ddg
 duuu
 describing
+dihedral
 VERB
 Verb
 Valentine
@@ -9430,6 +9469,7 @@ kkUeYwwW
 kKSEYi
 kBmMUPh
 keluarga
+komputer
 Note
 November
 Nur
@@ -9603,6 +9643,7 @@ Npx
 NSK
 NOKIy
 NAIEHH
+NMR
 Monday
 Museum
 My
@@ -9841,6 +9882,9 @@ Mdf
 Mkk
 MKNV
 Membuat
+Masalah
+Molecular
+Memprediksi
 October
 Object
 On
@@ -9992,6 +10036,7 @@ OQYEYE
 OXgimohdv
 OHX
 OIzj
+Outline
 With
 Waktu
 We
