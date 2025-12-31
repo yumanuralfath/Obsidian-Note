@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025/December/31.12.25.365.md",
+                "file": "Daily/2025/October/19th - Repeated.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "31.12.25.365"
+              "title": "19th - Repeated"
             }
           },
           {
@@ -204,12 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Daily/2025/October/19th - Repeated.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 19th - Repeated"
             }
           }
         ],
@@ -253,28 +254,28 @@
   },
   "active": "2a9744f36ea710b6",
   "lastOpenFiles": [
+    "Daily/2025/October/18th - Obsidian  + Quartz.md",
     "Daily/2025/December/31.12.25.365.md",
+    "Daily/2025/October/Oct 20, 2025.md",
+    "Daily/2025/October/19th - Repeated.md",
+    "Daily/2025/October/Oct 26, 2025.md",
+    "Daily/2025/October/Oct 28, 2025.md",
     "Zettelkasten/Outline Computational Chemistry.md",
+    "Daily/2025/December/26.12.25.360.md",
+    "Daily/2025/December/27.12.25.361.md",
+    "Daily/2025/December/28.12.25.362.md",
+    "Daily/2025/December/29.12.25.363.md",
+    "Daily/2025/December/30.12.25.364.md",
     "index.md",
     "tags/Chemistry.md",
     "private/daily_completion.py~",
-    "Daily/2025/December/29.12.25.363.md",
-    "Daily/2025/December/30.12.25.364.md",
-    "Daily/2025/December/28.12.25.362.md",
-    "Daily/2025/December/26.12.25.360.md",
-    "Daily/2025/October/18th - Obsidian  + Quartz.md",
-    "Daily/2025/October/19th - Repeated.md",
     "Daily/2025/December/Dec 12, 2025.md",
     "Daily/2025/October/Oct 21, 2025.md",
     "Daily/2025/December/Dec 11, 2025.md",
-    "Daily/2025/December/27.12.25.361.md",
     "Templates/Daily Template.md",
     "FIles/Pasted image 20251019194600.png",
     "FIles/Pasted image 20251019175255.png",
     "FIles/Pasted image 20251019175219.png",
-    "Daily/2025/October/Oct 28, 2025.md",
-    "Daily/2025/October/Oct 26, 2025.md",
-    "Daily/2025/October/Oct 20, 2025.md",
     "Daily/2025/December/Dec 10, 2025.md",
     "Daily/2025/December/Dec 9, 2025.md",
     "private/daily_completion.py",

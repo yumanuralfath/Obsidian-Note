@@ -329,6 +329,8 @@ tpv
 tws
 tme
 terhadap
+teman
+terkecil
 Longman
 Literature
 LB
@@ -749,6 +751,8 @@ TZZ
 TTL
 TRJ
 Tadb
+Two
+Tahun
 author
 after
 as
@@ -1261,6 +1265,7 @@ DEDGEX
 Drv
 DeD
 Dmu
+Devil
 Phillips
 Preparation
 Past
@@ -2030,6 +2035,7 @@ Bqt
 BAQ
 Bkk
 BGO
+BAB
 created
 clause
 comes
@@ -2283,6 +2289,9 @@ cbn
 connection
 cabang
 chemical
+computational
+calculation
+coba
 updated
 utama
 utamanya
@@ -2651,6 +2660,7 @@ CIQA
 CGRD
 CNa
 CGN
+Cartel
 For
 FF
 February
@@ -3465,6 +3475,8 @@ AAAAAAAym
 Axt
 AsKk
 ASK
+Army
+Alat
 object
 of
 or
@@ -3667,6 +3679,7 @@ oKs
 oGAI
 oÖ
 obat
+optimization
 is
 in
 it
@@ -3880,6 +3893,7 @@ imizX
 ilmu
 investigasi
 ikatan
+initio
 pronoun
 preposition
 prepositional
@@ -4221,6 +4235,9 @@ pCc
 pertambahan
 perhitungan
 prediksi
+pengukuran
+pribadi
+polar
 noun
 notice
 no
@@ -4418,6 +4435,7 @@ nMu
 nGW
 nJV
 nucleophilic
+november
 read
 recognize
 rather
@@ -4619,6 +4637,10 @@ real
 reaksinya
 reactivity
 reaktivitasnya
+ringan
+relatif
+resource
+resolusi
 such
 so
 sentence
@@ -4999,6 +5021,9 @@ sebagian
 spektrum
 substrate
 sisi
+schrodinger
+seberapa
+sepupu
 by
 behind
 boat
@@ -5330,6 +5355,8 @@ basis
 bahas
 berhubungan
 berkonsentrasi
+bertambah
+bulan
 form
 for
 first
@@ -5572,6 +5599,7 @@ fVo
 fRyYIYi
 fWgg
 fisika
+fundamental
 his
 he
 has
@@ -6037,6 +6065,9 @@ ege
 elektron
 electophilic
 enzim
+energi
+equation
+energy
 will
 with
 when
@@ -6249,6 +6280,7 @@ wh
 wqWg
 wty
 wQk
+wavefunction
 Exams
 Example
 Exercise
@@ -6997,6 +7029,17 @@ molekul
 membantu
 memprediksi
 menempel
+mempelajari
+memperdalam
+mengajak
+mabar
+mekanik
+mengatakan
+membutuhkan
+mumpuni
+merenungkan
+melelahkan
+menikah
 In
 It
 If
@@ -7515,6 +7558,9 @@ lGg
 lcg
 lfz
 laju
+latin
+lambat
+lanjut
 verb
 various
 vociferously
@@ -8298,6 +8344,10 @@ ddg
 duuu
 describing
 dihedral
+dilihat
+dibahas
+diantaranya
+dicari
 VERB
 Verb
 Valentine
@@ -9470,6 +9520,9 @@ kKSEYi
 kBmMUPh
 keluarga
 komputer
+kalkulasi
+kemana
+kampung
 Note
 November
 Nur
@@ -10349,6 +10402,7 @@ Jadwal
 Jelaskan
 Jam
 JoO
+Jujur
 Zk
 ZC
 Zim
