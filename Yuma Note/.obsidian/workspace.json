@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "6613c0cb0c98cca3",
+            "id": "bd32136b0938ba68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/January/01.01.26.1.md",
+                "file": "Zettelkasten/Outline Computational Chemistry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01.01.26.1"
+              "title": "Outline Computational Chemistry"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,13 +252,13 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "6613c0cb0c98cca3",
+  "active": "30ea18efaa4b5bea",
   "lastOpenFiles": [
     "Zettelkasten/Outline Computational Chemistry.md",
+    "Daily/2026/January/01.01.26.1.md",
     "Zettelkasten/Parameterization.md",
     "Zettelkasten/Theoretical Data VS Experimental Data.md",
     "Zettelkasten/Ab initio calculation.md",
-    "Daily/2026/January/01.01.26.1.md",
     "Zettelkasten/Jadwal 20 Hari.md",
     "Zettelkasten/Untitled.md",
     "Templates/Daily Template.md",
