@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "Outline Computational Chemistry"
             }
-          },
-          {
-            "id": "66cde53b8ea3f5ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Ab initio calculation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ab initio calculation"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,13 +253,15 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "66cde53b8ea3f5ee",
+  "active": "6613c0cb0c98cca3",
   "lastOpenFiles": [
-    "Zettelkasten/Ab initio calculation.md",
-    "Zettelkasten/Outline Computational Chemistry.md",
     "Zettelkasten/Parameterization.md",
-    "Zettelkasten/Untitled.md",
+    "Zettelkasten/Outline Computational Chemistry.md",
+    "Zettelkasten/Theoretical Data VS Experimental Data.md",
+    "Zettelkasten/Ab initio calculation.md",
     "Daily/2026/January/01.01.26.1.md",
+    "Zettelkasten/Jadwal 20 Hari.md",
+    "Zettelkasten/Untitled.md",
     "Templates/Daily Template.md",
     "Daily/2025/December/31.12.25.365.md",
     "Daily/2026/January",
@@ -310,8 +288,6 @@
     "Daily/2025/December/Dec 10, 2025.md",
     "Daily/2025/December/Dec 9, 2025.md",
     "private/daily_completion.py",
-    "private/Stoic.md",
-    "private/memory.md",
     "FIles/IMG_20251226_201815_196.jpg",
     "FIles/Screenshot_20251226-195439.jpg",
     "Daily/2025/December/362 ",

@@ -331,6 +331,7 @@ tme
 terhadap
 teman
 terkecil
+tergolong
 Longman
 Literature
 LB
@@ -754,6 +755,7 @@ TRJ
 Tadb
 Two
 Tahun
+Theoretical
 author
 after
 as
@@ -1041,6 +1043,7 @@ analitis
 angle
 akhiri
 ayat
+asumsi
 Deborah
 Do
 Disini
@@ -1514,6 +1517,8 @@ Produksi
 Plan
 Public
 Perhitungan
+Parameterization
+Parameterisasi
 year
 you
 yesterday
@@ -1847,6 +1852,7 @@ gSc
 gaA
 gJJ
 geometry
+geometri
 Book
 Because
 Be
@@ -2301,6 +2307,7 @@ calculation
 coba
 completion
 coding
+celaka
 updated
 utama
 utamanya
@@ -3016,6 +3023,7 @@ RYA
 Resolusi
 Resolution
 Rutin
+Rasulullah
 Skill
 Sumber
 Source
@@ -3273,6 +3281,7 @@ SYE
 SEU
 Secara
 Selamat
+Siapa
 An
 After
 Answers
@@ -3910,6 +3919,7 @@ investigasi
 ikatan
 initio
 ideal
+introspeksi
 pronoun
 preposition
 prepositional
@@ -4259,6 +4269,7 @@ puasa
 perkembangan
 pengetahuan
 proyek
+positif
 noun
 notice
 no
@@ -4663,6 +4674,7 @@ relatif
 resource
 resolusi
 rutin
+reaktivitas
 such
 so
 sentence
@@ -5053,6 +5065,7 @@ smartphone
 setidak
 sehari
 semi
+setahun
 by
 behind
 boat
@@ -5392,6 +5405,9 @@ berkurang
 berguna
 berlama
 berlatih
+bersabda
+beruntung
+berbeda
 form
 for
 first
@@ -6108,6 +6124,9 @@ equation
 energy
 emosi
 empiris
+electron
+eksperimen
+elektronik
 will
 with
 when
@@ -6323,6 +6342,7 @@ wQk
 wavefunction
 wkwkwk
 wacana
+wavelength
 Exams
 Example
 Exercise
@@ -6510,6 +6530,7 @@ EUC
 EHH
 Edi
 EYYm
+Experimental
 questions
 quite
 qr
@@ -7087,6 +7108,11 @@ meningkat
 minggu
 mencapai
 mekanika
+murni
+menghilangkan
+menghancurkan
+merugi
+memasukkan
 In
 It
 If
@@ -7307,6 +7333,7 @@ IDATJ
 ILN
 IZmkUeySS
 Istiqomah
+Initio
 look
 later
 lot
@@ -7611,6 +7638,7 @@ lambat
 lanjut
 lembar
 luar
+lanjutkan
 verb
 various
 vociferously
@@ -8400,6 +8428,11 @@ dibahas
 diantaranya
 dicari
 diharapkan
+dilanjutkan
+dibawah
+dilaknat
+daya
+datanya
 VERB
 Verb
 Valentine
@@ -8788,6 +8821,7 @@ Hdr
 HJZ
 HOVS
 HdrSC
+Hakim
 justify
 jika
 jadi
@@ -8974,6 +9008,7 @@ jJ
 jsG
 jkkiomq
 jurnal
+journaling
 Konsep
 Koleksi
 KKj
@@ -9584,6 +9619,10 @@ kesadaran
 karya
 kali
 kuatum
+kuantum
+kantuk
+ketiduran
+keseluruhan
 Note
 November
 Nur
