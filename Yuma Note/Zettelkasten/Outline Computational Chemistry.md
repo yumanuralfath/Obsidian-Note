@@ -4,7 +4,7 @@ tags:
   - Chemistry
   - Science
 created: 2025-12-31T09:18
-updated: 2025-12-31T20:43
+updated: 2026-01-01T10:15
 ---
 # Apa saja yang bisa di lakukan dengan kimia komputasi 💻 ? 
 
@@ -20,7 +20,8 @@ updated: 2025-12-31T20:43
 # Alat yang digunakan dalam kimia komputasi
 >  dari masalah umum yang dibahas ada beberapa alat yang digunakan dalam kimia komputasi diantaranya:
 - mekanik molekuler biasa menggunakan pengukuran berdasarkan geometry molekuler seperti saat *geometry optimization* dimana dicari energi terkecil dan ini ringan untuk komputer pribadi
-- *Ab initio calculation* "ab initio" berasal dari bahasa latin berarti "dari awal /dasar" dan berdasarkan dari *schrodinger equation*  dan dapat memberi informasi mengenai energy dan *wavefunction* dan kita dapat mengatakan seberapa polar suatu molekul dan kalkulasi ab initio relatif lambat dan membutuhkan resource PC yang mumpuni
+- *[[Ab initio calculation]]* "ab initio" berasal dari bahasa latin berarti "dari awal /dasar" dan berdasarkan dari *schrodinger equation*  dan dapat memberi informasi mengenai energy dan *wavefunction* dan kita dapat mengatakan seberapa polar suatu molekul dan kalkulasi ab initio relatif lambat dan membutuhkan resource PC yang mumpuni
+- Perhitungan semi empiris sama seperti *ab initio* yang berasal dari teori mekanika kuantum menggunakan *schrodinger equation*  namun menggunakan [[Parameterization]] atau semi empiris dengan menggunakan data yang sudah ada misal dari eksperimen.
 - 
 
 
