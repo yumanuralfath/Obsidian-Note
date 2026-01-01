@@ -332,6 +332,7 @@ terhadap
 teman
 terkecil
 tergolong
+ternyata
 Longman
 Literature
 LB
@@ -1045,6 +1046,7 @@ akhiri
 ayat
 asumsi
 ataupun
+ashar
 Deborah
 Do
 Disini
@@ -3288,6 +3290,7 @@ SEU
 Secara
 Selamat
 Siapa
+Siangnya
 An
 After
 Answers
@@ -3505,6 +3508,7 @@ AsKk
 ASK
 Army
 Alat
+Ashar
 object
 of
 or
@@ -3926,6 +3930,7 @@ ikatan
 initio
 ideal
 introspeksi
+infrastruktur
 pronoun
 preposition
 prepositional
@@ -4278,6 +4283,8 @@ proyek
 positif
 perhitungannya
 pergerakan
+pergantian
+pembelahan
 noun
 notice
 no
@@ -5076,6 +5083,7 @@ sehari
 semi
 setahun
 simulasi
+skenario
 by
 behind
 boat
@@ -5420,6 +5428,7 @@ beruntung
 berbeda
 bergerak
 berdasar
+bangun
 form
 for
 first
@@ -5666,6 +5675,7 @@ fundamental
 fluent
 filler
 functional
+fix
 his
 he
 has
@@ -7130,6 +7140,9 @@ merugi
 memasukkan
 mempertimbangkan
 mechanic
+menjelang
+mandiri
+menuju
 In
 It
 If
@@ -9820,6 +9833,7 @@ NSK
 NOKIy
 NAIEHH
 NMR
+Noon
 Monday
 Museum
 My
