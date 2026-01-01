@@ -1044,6 +1044,7 @@ angle
 akhiri
 ayat
 asumsi
+ataupun
 Deborah
 Do
 Disini
@@ -1856,6 +1857,7 @@ gaA
 gJJ
 geometry
 geometri
+gaya
 Book
 Because
 Be
@@ -2311,6 +2313,7 @@ coba
 completion
 coding
 celaka
+cocok
 updated
 utama
 utamanya
@@ -4273,6 +4276,8 @@ perkembangan
 pengetahuan
 proyek
 positif
+perhitungannya
+pergerakan
 noun
 notice
 no
@@ -4678,6 +4683,7 @@ resource
 resolusi
 rutin
 reaktivitas
+reaksi
 such
 so
 sentence
@@ -5069,6 +5075,7 @@ setidak
 sehari
 semi
 setahun
+simulasi
 by
 behind
 boat
@@ -5411,6 +5418,8 @@ berlatih
 bersabda
 beruntung
 berbeda
+bergerak
+berdasar
 form
 for
 first
@@ -5914,6 +5923,7 @@ hEY
 hUE
 highlight
 hehehe
+hukum
 exams
 example
 either
@@ -6131,6 +6141,7 @@ empiris
 electron
 eksperimen
 elektronik
+empirical
 will
 with
 when
@@ -7117,6 +7128,8 @@ menghilangkan
 menghancurkan
 merugi
 memasukkan
+mempertimbangkan
+mechanic
 In
 It
 If
@@ -8437,6 +8450,8 @@ dibawah
 dilaknat
 daya
 datanya
+distribusi
+dibandingkan
 VERB
 Verb
 Valentine
@@ -9627,6 +9642,10 @@ kuantum
 kantuk
 ketiduran
 keseluruhan
+keduanya
+kompleks
+kerapatan
+konformasi
 Note
 November
 Nur
