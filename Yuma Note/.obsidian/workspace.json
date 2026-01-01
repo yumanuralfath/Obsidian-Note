@@ -65,8 +65,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,7 +262,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "893de7bfbc7ba6d7",
+  "active": "30ea18efaa4b5bea",
   "lastOpenFiles": [
     "Zettelkasten/Outline Computational Chemistry.md",
     "Daily/2026/January/01.01.26.1.md",
