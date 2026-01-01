@@ -1038,6 +1038,7 @@ aHx
 aQI
 analitis
 angle
+akhiri
 Deborah
 Do
 Disini
@@ -5357,6 +5358,7 @@ berhubungan
 berkonsentrasi
 bertambah
 bulan
+badai
 form
 for
 first
@@ -5856,6 +5858,7 @@ hON
 hEY
 hUE
 highlight
+hehehe
 exams
 example
 either
@@ -6281,6 +6284,7 @@ wqWg
 wty
 wQk
 wavefunction
+wkwkwk
 Exams
 Example
 Exercise
