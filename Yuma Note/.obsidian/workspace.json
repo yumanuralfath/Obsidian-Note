@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Outline Computational Chemistry.md",
+                "file": "Daily/2026/January/01.01.26.1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Outline Computational Chemistry"
+              "title": "01.01.26.1"
             }
           }
         ],
@@ -255,8 +255,8 @@
   },
   "active": "6613c0cb0c98cca3",
   "lastOpenFiles": [
-    "Zettelkasten/Parameterization.md",
     "Zettelkasten/Outline Computational Chemistry.md",
+    "Zettelkasten/Parameterization.md",
     "Zettelkasten/Theoretical Data VS Experimental Data.md",
     "Zettelkasten/Ab initio calculation.md",
     "Daily/2026/January/01.01.26.1.md",

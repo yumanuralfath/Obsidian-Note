@@ -1272,6 +1272,9 @@ Drv
 DeD
 Dmu
 Devil
+Density
+DFT
+Dynamic
 Phillips
 Preparation
 Past
@@ -5653,6 +5656,7 @@ fisika
 fundamental
 fluent
 filler
+functional
 his
 he
 has
