@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/JADWAL/02.01.26.md",
+                "file": "Daily/2026/January/02.01.26.2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02.01.26"
+              "title": "02.01.26.2"
             }
           },
           {
-            "id": "60ed90ddd451380b",
+            "id": "d1c938dc3408decc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Outline Computational Chemistry.md",
+                "file": "Zettelkasten/Konsep Energi Potensial Permukaan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Outline Computational Chemistry"
+              "title": "Konsep Energi Potensial Permukaan"
             }
           }
         ],
@@ -277,10 +277,12 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "60ed90ddd451380b",
+  "active": "d1c938dc3408decc",
   "lastOpenFiles": [
-    "private/JADWAL/02.01.26.md",
     "Daily/2026/January/02.01.26.2.md",
+    "Zettelkasten/Konsep Energi Potensial Permukaan.md",
+    "private/JADWAL/02.01.26.md",
+    "Zettelkasten/Outline Computational Chemistry.md",
     "private/JADWAL",
     "Zettelkasten/Mnemonic.md",
     "Zettelkasten/Exercise Skill 7.md",
@@ -289,12 +291,10 @@
     "Literature/Longman - TOEFL Test.md",
     "Daily/2026/January/01.01.26.1.md",
     "Zettelkasten/pipeline.md",
-    "Zettelkasten/Outline Computational Chemistry.md",
     "Zettelkasten/Parameterization.md",
     "Zettelkasten/Theoretical Data VS Experimental Data.md",
     "Zettelkasten/Ab initio calculation.md",
     "Zettelkasten/Jadwal 20 Hari.md",
-    "Zettelkasten/Untitled.md",
     "Templates/Daily Template.md",
     "Daily/2025/December/31.12.25.365.md",
     "Daily/2026/January",

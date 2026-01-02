@@ -1049,6 +1049,7 @@ ayat
 asumsi
 ataupun
 ashar
+atom
 Deborah
 Do
 Disini
@@ -1531,6 +1532,8 @@ Parameterisasi
 Pembelahan
 Persiapan
 Produktif
+Potensial
+Permukaan
 year
 you
 yesterday
@@ -4296,6 +4299,8 @@ pergerakan
 pergantian
 pembelahan
 pakaian
+perilaku
+prediktif
 noun
 notice
 no
@@ -4495,6 +4500,7 @@ nJV
 nucleophilic
 november
 niat
+nyata
 read
 recognize
 rather
@@ -5443,6 +5449,7 @@ bergerak
 berdasar
 bangun
 blog
+batas
 form
 for
 first
@@ -6166,6 +6173,7 @@ electron
 eksperimen
 elektronik
 empirical
+eksperimental
 will
 with
 when
@@ -7159,6 +7167,15 @@ menjelang
 mandiri
 menuju
 menit
+mensimulasikan
+memungkinkan
+mechanics
+masing
+menggantikan
+memahami
+membimbing
+mengeksplorasi
+mahal
 In
 It
 If
@@ -7846,6 +7863,7 @@ vQIY
 voO
 vpX
 vQA
+validitas
 You
 Yuma
 YO
@@ -8485,6 +8503,8 @@ distribusi
 dibandingkan
 dzikir
 diperbaiki
+dynamics
+dipelajari
 VERB
 Verb
 Valentine

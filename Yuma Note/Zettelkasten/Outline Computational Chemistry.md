@@ -5,7 +5,7 @@ tags:
   - Science
   - Learn
 created: 2025-12-31T09:18
-updated: 2026-01-01T14:57
+updated: 2026-01-02T08:46
 ---
 # Apa saja yang bisa di lakukan dengan kimia komputasi 💻 ? 
 
@@ -31,6 +31,10 @@ updated: 2026-01-01T14:57
 - *Density functional calculation* (DFT) sama seperti ab initio dan semi empirical calculation namun berbeda dari keduanya tidak menggunakan perhitungan *wavefunction* yang kompleks namun menggunakan distribusi electron atau kerapatan sehingga lebih sederhana sehingga perhitungannya lebih cepat dari ab initio namun tetap lebih lambat dibandingkan semi empirical calculation dan tentu saja mekanik molekuler.
 
 - Molecular Dynamic yaitu metode simulasi komputasi dengan mempertimbangkan hukum pergerakan molekul terhadap waktu. dimana dapat berubah bentuk (konformasi) ataupun bergerak dan biasanya molecular Dynamic berdasar perhitungan gaya - gaya yang di hitung di molecular mechanic sehingga tidak menghitung struktur molekul, sehingga cocok untuk melihat konformasi namun tidak cocok untuk mempelajari reaksi kimia, jika ingin perhitungan gaya harus berdasarkan kalkulasi sebelumnya seperti ab initio, DFT atau semi empiris. 
+
+## Ringkasan
+
+Kimia komputasi adalah cabang kimia yang menggunakan model matematika dan perhitungan komputer untuk mensimulasikan perilaku atom dan molekul yang nyata, sehingga memungkinkan perhitungan struktur, energi, reaktivitas, spektrum, dan sifat molekul lainnya. Metode yang digunakan mencakup molecular mechanics, metode kuantum (ab initio, semi-empirical, dan DFT), serta molecular dynamics, yang masing-masing memiliki asumsi dan batas validitas sendiri. Kimia komputasi tidak menggantikan eksperimen, tetapi menjadi alat prediktif yang kuat untuk memahami sistem kimia, membimbing eksperimen, dan mengeksplorasi sistem yang sulit atau mahal dipelajari secara eksperimental.
 
 
 ⌛ *Created Wednesday, 31 December 2025 - 09:18*
