@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tags/grammar.md",
+                "file": "Daily/2026/January/02.01.26.2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "grammar"
+              "title": "02.01.26.2"
             }
           }
         ],
@@ -255,6 +255,7 @@
   },
   "active": "9c6407fb757f0ea2",
   "lastOpenFiles": [
+    "tags/grammar.md",
     "index.md",
     "private/Jadwal/02.01.26.md",
     "Daily/2026/January/02.01.26.2.md",
@@ -283,7 +284,6 @@
     "Daily/2025/October/Oct 28, 2025.md",
     "Daily/2025/December/26.12.25.360.md",
     "Daily/2025/December/27.12.25.361.md",
-    "Daily/2025/December/28.12.25.362.md",
     "private/daily_completion.py~",
     "FIles/Pasted image 20251019194600.png",
     "FIles/Pasted image 20251019175255.png",
