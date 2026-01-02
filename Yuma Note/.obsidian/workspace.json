@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1cef90aff9edddd9",
+            "id": "ffe7555054bed908",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/January/02.01.26.2.md",
+                "file": "private/Jadwal/03.01.26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02.01.26.2"
-            }
-          },
-          {
-            "id": "9c6407fb757f0ea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026/January/02.01.26.2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "02.01.26.2"
+              "title": "03.01.26"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,13 +228,19 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "9c6407fb757f0ea2",
+  "active": "ffe7555054bed908",
   "lastOpenFiles": [
-    "tags/grammar.md",
-    "index.md",
     "private/Jadwal/02.01.26.md",
+    "private/Jadwal/03.01.26.md",
     "Daily/2026/January/02.01.26.2.md",
     "Zettelkasten/Konsep Energi Potensial Permukaan.md",
+    "Daily/2026/January/01.01.26.1.md",
+    "Zettelkasten/Animal Farm  (Binatangisme).md",
+    "Daily/2025/December/28.12.25.362.md",
+    "Zettelkasten/Filosofi teras.md",
+    "Zettelkasten/Stoikisme.md",
+    "tags/grammar.md",
+    "index.md",
     "Zettelkasten/Outline Computational Chemistry.md",
     "private/Jadwal",
     "Zettelkasten/Mnemonic.md",
@@ -267,7 +248,6 @@
     "Zettelkasten/Exercise Skill 6.md",
     "Zettelkasten/Be Careful of Present Participle.md",
     "Literature/Longman - TOEFL Test.md",
-    "Daily/2026/January/01.01.26.1.md",
     "Zettelkasten/pipeline.md",
     "Zettelkasten/Parameterization.md",
     "Zettelkasten/Theoretical Data VS Experimental Data.md",
@@ -279,11 +259,6 @@
     "Daily/2026",
     "Daily/2025/October/19th - Repeated.md",
     "Daily/2025/October/18th - Obsidian  + Quartz.md",
-    "Daily/2025/October/Oct 20, 2025.md",
-    "Daily/2025/October/Oct 26, 2025.md",
-    "Daily/2025/October/Oct 28, 2025.md",
-    "Daily/2025/December/26.12.25.360.md",
-    "Daily/2025/December/27.12.25.361.md",
     "private/daily_completion.py~",
     "FIles/Pasted image 20251019194600.png",
     "FIles/Pasted image 20251019175255.png",
