@@ -333,6 +333,7 @@ teman
 terkecil
 tergolong
 ternyata
+total
 Longman
 Literature
 LB
@@ -539,6 +540,7 @@ LiiY
 LFV
 Learn
 Leetcode
+LeetCode
 TOEFL
 Test
 Tom
@@ -1278,6 +1280,7 @@ Devil
 Density
 DFT
 Dynamic
+Deep
 Phillips
 Preparation
 Past
@@ -1525,6 +1528,9 @@ Public
 Perhitungan
 Parameterization
 Parameterisasi
+Pembelahan
+Persiapan
+Produktif
 year
 you
 yesterday
@@ -2316,6 +2322,7 @@ completion
 coding
 celaka
 cocok
+cuci
 updated
 utama
 utamanya
@@ -3032,6 +3039,7 @@ Resolusi
 Resolution
 Rutin
 Rasulullah
+Reward
 Skill
 Sumber
 Source
@@ -3291,6 +3299,8 @@ Secara
 Selamat
 Siapa
 Siangnya
+Sholat
+Santai
 An
 After
 Answers
@@ -4285,6 +4295,7 @@ perhitungannya
 pergerakan
 pergantian
 pembelahan
+pakaian
 noun
 notice
 no
@@ -4483,6 +4494,7 @@ nGW
 nJV
 nucleophilic
 november
+niat
 read
 recognize
 rather
@@ -5084,6 +5096,7 @@ semi
 setahun
 simulasi
 skenario
+sarapan
 by
 behind
 boat
@@ -5429,6 +5442,7 @@ berbeda
 bergerak
 berdasar
 bangun
+blog
 form
 for
 first
@@ -6556,6 +6570,7 @@ EHH
 Edi
 EYYm
 Experimental
+Energi
 questions
 quite
 qr
@@ -7143,6 +7158,7 @@ mechanic
 menjelang
 mandiri
 menuju
+menit
 In
 It
 If
@@ -7364,6 +7380,7 @@ ILN
 IZmkUeySS
 Istiqomah
 Initio
+Ibadah
 look
 later
 lot
@@ -7669,6 +7686,7 @@ lanjut
 lembar
 luar
 lanjutkan
+layar
 verb
 various
 vociferously
@@ -8465,6 +8483,8 @@ daya
 datanya
 distribusi
 dibandingkan
+dzikir
+diperbaiki
 VERB
 Verb
 Valentine
@@ -8854,6 +8874,7 @@ HJZ
 HOVS
 HdrSC
 Hakim
+Hal
 justify
 jika
 jadi
@@ -9243,6 +9264,7 @@ KMy
 KIO
 KHHm
 Karier
+Komputasi
 Utama
 Use
 UL
@@ -10081,6 +10103,12 @@ Membiasakan
 Morning
 Membatasi
 Membentuk
+Mnemonic
+Memperbaiki
+Mandi
+Menjelang
+Main
+Maghrib
 October
 Object
 On
@@ -10392,6 +10420,7 @@ WTA
 WJF
 WFJK
 Weg
+Work
 Jika
 Jf
 Jl
@@ -10548,6 +10577,8 @@ JoO
 Jujur
 Journaling
 January
+JADWAL
+Jumat
 Zk
 ZC
 Zim
@@ -10889,6 +10920,7 @@ QQU
 QQqk
 QQq
 Quran
+Quartz
 xn
 xAl
 xAls

@@ -4,7 +4,7 @@ tags:
   - grammar
   - Exercise
 created: 2025-10-21T05:12
-updated: 2025-10-22T08:02
+updated: 2026-01-02T07:48
 ---
 ## 💪 Exercise With Example
 <mark style="background: #FFF3A3A6;">Verb</mark> <mark style="background: #BBFABBA6;">Subject</mark> ==Connectors==
@@ -35,7 +35,7 @@ updated: 2025-10-22T08:02
 
 
 ## 🔗 Sumber
-- [[Longman - TOEFL Test#Skill 7]] [[ ]]
+- [[Longman - TOEFL Test#Skill 7]]
 - [[Use Adverb Time and Cause Connectors Correctly]]
 
 ⌛ *Created Tuesday, 21 October 2025 - 05:12*

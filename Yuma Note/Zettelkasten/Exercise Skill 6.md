@@ -4,7 +4,7 @@ tags:
   - grammar
   - Exercise
 created: 2025-10-20T19:14
-updated: 2025-10-22T08:01
+updated: 2026-01-02T07:47
 ---
 ## 💪 Exercise With Example
 <mark style="background: #FFF3A3A6;">Verb</mark> <mark style="background: #BBFABBA6;">Subject</mark> ==Connectors==
@@ -25,6 +25,6 @@ updated: 2025-10-22T08:01
 
 
 ## 🔗 Sumber
-- [[Longman - TOEFL Test]] [[ ]]
+- [[Longman - TOEFL Test]]
 
 ⌛ *Created Monday, 20 October 2025 - 19:15*

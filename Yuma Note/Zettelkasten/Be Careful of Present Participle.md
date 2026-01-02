@@ -3,7 +3,7 @@ created: 2025-10-19 19:57
 title: Be Careful of Present Participle
 tags:
   - grammar
-updated: 2025-10-20T09:14
+updated: 2026-01-02T07:47
 ---
 ## 💡 Ide Utama
 - **Present Participle** merupakan sebuah kata kerja yang berakhiran -*ing* (Verb + -ing)
@@ -18,6 +18,6 @@ updated: 2025-10-20T09:14
 	- The man ==talking== to his friend has a beard (**disini talking menjadi *adjective* dimana dia menjelaskan keadaan "man" (noun)-nya**)
 
 ## 🔗 Sumber
-- [[Longman - TOEFL Test#Skill 4]] [[ ]]
+- [[Longman - TOEFL Test#Skill 4]]
 
 ⏰ **Waktu dibuat:** 19:57

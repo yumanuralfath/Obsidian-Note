@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "02.01.26.2"
             }
+          },
+          {
+            "id": "d88a0ee623de040d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/JADWAL/02.01.26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "02.01.26"
+            }
+          },
+          {
+            "id": "60ed90ddd451380b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Outline Computational Chemistry.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Outline Computational Chemistry"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,10 +277,16 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "30ea18efaa4b5bea",
+  "active": "60ed90ddd451380b",
   "lastOpenFiles": [
-    "Literature/Longman - TOEFL Test.md",
+    "private/JADWAL/02.01.26.md",
     "Daily/2026/January/02.01.26.2.md",
+    "private/JADWAL",
+    "Zettelkasten/Mnemonic.md",
+    "Zettelkasten/Exercise Skill 7.md",
+    "Zettelkasten/Exercise Skill 6.md",
+    "Zettelkasten/Be Careful of Present Participle.md",
+    "Literature/Longman - TOEFL Test.md",
     "Daily/2026/January/01.01.26.1.md",
     "Zettelkasten/pipeline.md",
     "Zettelkasten/Outline Computational Chemistry.md",
@@ -252,13 +307,7 @@
     "Daily/2025/December/26.12.25.360.md",
     "Daily/2025/December/27.12.25.361.md",
     "Daily/2025/December/28.12.25.362.md",
-    "Daily/2025/December/29.12.25.363.md",
-    "Daily/2025/December/30.12.25.364.md",
-    "index.md",
-    "tags/Chemistry.md",
     "private/daily_completion.py~",
-    "Daily/2025/December/Dec 12, 2025.md",
-    "Daily/2025/October/Oct 21, 2025.md",
     "FIles/Pasted image 20251019194600.png",
     "FIles/Pasted image 20251019175255.png",
     "FIles/Pasted image 20251019175219.png",
@@ -274,7 +323,6 @@
     "Daily/2025/December",
     "Use Noun Clause Connector",
     "Zettelkasten/Untitled.base",
-    "private/wikilink.js~",
-    "private/wikilink.js"
+    "private/wikilink.js~"
   ]
 }
