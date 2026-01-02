@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0a60ecc62480e027",
+        "id": "1bb027a0a5fe9f2f",
         "type": "tabs",
         "children": [
           {
-            "id": "30ea18efaa4b5bea",
+            "id": "7b617cb39f781809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/Jadwal/02.01.26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "02.01.26"
+            }
+          },
+          {
+            "id": "1cef90aff9edddd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -228,11 +252,11 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "30ea18efaa4b5bea",
+  "active": "7b617cb39f781809",
   "lastOpenFiles": [
+    "Daily/2026/January/02.01.26.2.md",
     "private/Jadwal/02.01.26.md",
     "Zettelkasten/Konsep Energi Potensial Permukaan.md",
-    "Daily/2026/January/02.01.26.2.md",
     "Zettelkasten/Outline Computational Chemistry.md",
     "private/Jadwal",
     "Zettelkasten/Mnemonic.md",
