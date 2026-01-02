@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/January/01.01.26.1.md",
+                "file": "Daily/2026/January/02.01.26.2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,41 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01.01.26.1"
-            }
-          },
-          {
-            "id": "bd32136b0938ba68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Outline Computational Chemistry.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Outline Computational Chemistry"
-            }
-          },
-          {
-            "id": "893de7bfbc7ba6d7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "02.01.26.2"
             }
           }
         ]
@@ -264,8 +230,10 @@
   },
   "active": "30ea18efaa4b5bea",
   "lastOpenFiles": [
-    "Zettelkasten/pipeline.md",
+    "Literature/Longman - TOEFL Test.md",
+    "Daily/2026/January/02.01.26.2.md",
     "Daily/2026/January/01.01.26.1.md",
+    "Zettelkasten/pipeline.md",
     "Zettelkasten/Outline Computational Chemistry.md",
     "Zettelkasten/Parameterization.md",
     "Zettelkasten/Theoretical Data VS Experimental Data.md",
@@ -291,11 +259,9 @@
     "private/daily_completion.py~",
     "Daily/2025/December/Dec 12, 2025.md",
     "Daily/2025/October/Oct 21, 2025.md",
-    "Daily/2025/December/Dec 11, 2025.md",
     "FIles/Pasted image 20251019194600.png",
     "FIles/Pasted image 20251019175255.png",
     "FIles/Pasted image 20251019175219.png",
-    "Daily/2025/December/Dec 10, 2025.md",
     "private/daily_completion.py",
     "FIles/IMG_20251226_201815_196.jpg",
     "FIles/Screenshot_20251226-195439.jpg",
