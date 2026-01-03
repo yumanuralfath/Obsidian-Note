@@ -553,6 +553,7 @@ LFV
 Learn
 Leetcode
 LeetCode
+Lewars
 TOEFL
 Test
 Tom
@@ -775,6 +776,7 @@ Train
 Take
 Taqlim
 Tsabit
+Theory
 author
 after
 as
@@ -1308,6 +1310,7 @@ DFT
 Dynamic
 Deep
 Dari
+Dzuhur
 Phillips
 Preparation
 Past
@@ -3352,6 +3355,8 @@ Syafi
 Selepas
 Sepulang
 Selama
+Sabtu
+Springer
 An
 After
 Answers
@@ -3575,6 +3580,7 @@ Abdul
 Agung
 Abu
 Afternoon
+Applications
 object
 of
 or
@@ -5201,6 +5207,8 @@ sungguh
 selepas
 segan
 surah
+sesi
+santai
 by
 behind
 boat
@@ -5815,6 +5823,7 @@ fix
 fati
 fable
 fanatisme
+fisik
 his
 he
 has
@@ -7360,6 +7369,7 @@ meditation
 melaksanakan
 maghrib
 mandarin
+mingguan
 In
 It
 If
@@ -7586,6 +7596,8 @@ Islamiyah
 Isi
 Imam
 Ia
+Isyoma
+Isya
 look
 later
 lot
@@ -9108,6 +9120,7 @@ Hakim
 Hal
 Hanifah
 Hanafi
+Hafalan
 justify
 jika
 jadi
@@ -10371,6 +10384,7 @@ Malorum
 Mempersiapkan
 Masjid
 Manusia
+Mechanics
 October
 Object
 On
@@ -11184,6 +11198,7 @@ QQqk
 QQq
 Quran
 Quartz
+Quantum
 xn
 xAl
 xAls
