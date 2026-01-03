@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Jadwal/03.01.26.md",
+                "file": "Daily/2026/January/03.01.26.3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03.01.26"
+              "title": "03.01.26.3"
             }
           }
         ]
@@ -137,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Be Sure The Sentence Has A Subject And A verb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Be Sure The Sentence Has A Subject And A verb"
+              "title": "Backlinks"
             }
           },
           {
@@ -180,13 +179,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2025/December/31.12.25.365.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 31.12.25.365"
+              "title": "Outline"
             }
           }
         ],
@@ -230,8 +228,9 @@
   },
   "active": "ffe7555054bed908",
   "lastOpenFiles": [
-    "private/Jadwal/02.01.26.md",
+    "Daily/2026/January/03.01.26.3.md",
     "private/Jadwal/03.01.26.md",
+    "private/Jadwal/02.01.26.md",
     "Daily/2026/January/02.01.26.2.md",
     "Zettelkasten/Konsep Energi Potensial Permukaan.md",
     "Daily/2026/January/01.01.26.1.md",
@@ -258,7 +257,6 @@
     "Daily/2026/January",
     "Daily/2026",
     "Daily/2025/October/19th - Repeated.md",
-    "Daily/2025/October/18th - Obsidian  + Quartz.md",
     "private/daily_completion.py~",
     "FIles/Pasted image 20251019194600.png",
     "FIles/Pasted image 20251019175255.png",
