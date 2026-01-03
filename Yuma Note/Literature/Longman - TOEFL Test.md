@@ -6,14 +6,14 @@ tags:
   - grammar
   - "#Book"
 created: 2025-10-18T18:24
-updated: 2025-10-24T09:52
+updated: 2026-01-03T07:27
 ---
 # 📘 Longman - Preparation Course For TOEFL Test
 ![[Pasted image 20251019195209.png]]
 
 ### 📘 Progress
 15 / 58
--  [[grammar]]
+-  [[Grammar]]
 	- Skill 1  [[Be Sure The Sentence Has A Subject And A verb]]
 	- Skill 2 [[Be careful of object of preposition]]
 	- Skill 3 [[Be Careful of Appositives]]

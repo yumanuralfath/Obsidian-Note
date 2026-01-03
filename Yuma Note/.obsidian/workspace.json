@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1bb027a0a5fe9f2f",
+        "id": "ee5467ec6de11cc3",
         "type": "tabs",
         "children": [
           {
-            "id": "ffe7555054bed908",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/Jadwal/03.01.26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "03.01.26"
-            }
-          },
-          {
-            "id": "590ae2eb164d8024",
+            "id": "c56eaa03e9ac79fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +31,7 @@
               "title": "03.01.26.3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#grammar",
+                "query": "filoso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -251,11 +226,15 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "590ae2eb164d8024",
+  "active": "c56eaa03e9ac79fb",
   "lastOpenFiles": [
     "Daily/2026/January/02.01.26.2.md",
+    "Daily/2025/December/31.12.25.365.md",
+    "Daily/2025/December/30.12.25.364.md",
     "Daily/2026/January/03.01.26.3.md",
+    "private/Stoic.md",
     "private/Jadwal/03.01.26.md",
+    "tags/Grammar.md",
     "Zettelkasten/Untitled.md",
     "private/Jadwal/02.01.26.md",
     "Zettelkasten/Konsep Energi Potensial Permukaan.md",
@@ -264,7 +243,6 @@
     "Daily/2025/December/28.12.25.362.md",
     "Zettelkasten/Filosofi teras.md",
     "Zettelkasten/Stoikisme.md",
-    "tags/grammar.md",
     "index.md",
     "Zettelkasten/Outline Computational Chemistry.md",
     "private/Jadwal",
@@ -277,9 +255,6 @@
     "Zettelkasten/Parameterization.md",
     "Zettelkasten/Theoretical Data VS Experimental Data.md",
     "Zettelkasten/Ab initio calculation.md",
-    "Zettelkasten/Jadwal 20 Hari.md",
-    "Templates/Daily Template.md",
-    "Daily/2025/December/31.12.25.365.md",
     "Daily/2026/January",
     "Daily/2026",
     "private/daily_completion.py~",

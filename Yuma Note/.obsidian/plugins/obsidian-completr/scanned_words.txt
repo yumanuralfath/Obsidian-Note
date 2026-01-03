@@ -346,6 +346,7 @@ tayamum
 terpecah
 tepatnya
 terusan
+terduga
 Longman
 Literature
 LB
@@ -2102,6 +2103,7 @@ BAQ
 Bkk
 BGO
 BAB
+Buffer
 created
 clause
 comes
@@ -3087,6 +3089,7 @@ Rutin
 Rasulullah
 Reward
 Remember
+Recovery
 Skill
 Sumber
 Source
@@ -4801,6 +4804,7 @@ rintangan
 receptors
 revolusi
 rugi
+ringkas
 such
 so
 sentence
@@ -5209,6 +5213,7 @@ segan
 surah
 sesi
 santai
+semalam
 by
 behind
 boat
@@ -5573,6 +5578,9 @@ berlangsung
 basah
 bebal
 bukunya
+becek
+bekas
+beristirahat
 form
 for
 first
@@ -8728,6 +8736,7 @@ dibatalkan
 digantikan
 diantara
 dahan
+dingin
 VERB
 Verb
 Valentine
@@ -9519,6 +9528,7 @@ Karier
 Komputasi
 Kucing
 Kegiatan
+Kaki
 Utama
 Use
 UL
@@ -9950,6 +9960,7 @@ kendalikan
 kerjaan
 kelamaan
 keesokan
+kosong
 Note
 November
 Nur
