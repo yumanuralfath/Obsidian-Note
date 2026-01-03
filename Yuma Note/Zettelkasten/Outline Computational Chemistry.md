@@ -5,12 +5,11 @@ tags:
   - Science
   - Learn
 created: 2025-12-31T09:18
-updated: 2026-01-02T08:46
+updated: 2026-01-03T08:23
 ---
 # Apa saja yang bisa di lakukan dengan kimia komputasi 💻 ? 
 
->Kimia komputasi atau sebagian orang menyebutnya *molecular modelling* merupakan cabang dari **[[Chemistry]]** . Secara sederhana kimia komputasi merupakan ilmu menyelesaikan masalah kimia dengan bantuan komputer dengan dengan cara melakukan investigasi terhadap segala proses kimia secara analitis perhitungan komputer.
-
+>Kimia komputasi atau sebagian orang menyebutnya *molecular modelling* merupakan cabang dari **[[Chemistry]]** . Secara sederhana kimia komputasi merupakan ilmu menyelesaikan masalah kimia dengan bantuan komputer dengan dengan cara melakukan investigasi terhadap segala proses kimia secara analitis perhitungan komputer. 
 ## Masalah umum yang di bahas di kimia komputasi biasa:
 - *Molecular geometry* dimana berhubungan dengan bentuk geometry dari suatu molekul seperti *angle*, *dihedral*, panjang ikatan molekul  yang dapat mempengaruhi laju reaksinya.
 - *chemical reactivity* dengan melihat dimana elektron yang berkonsentrasi (*nucleophilic site*) ke *electophilic site* sehingga dapat membantu dalam memprediksi reaktivitasnya
