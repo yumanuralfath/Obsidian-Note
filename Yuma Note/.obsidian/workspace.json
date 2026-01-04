@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/January/03.01.26.3.md",
+                "file": "Daily/2026/January/04.01.26.4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03.01.26.3"
+              "title": "04.01.26.4"
             }
           }
         ],
@@ -279,9 +279,10 @@
   },
   "active": "f0b9773bfeecfa18",
   "lastOpenFiles": [
+    "Daily/2026/January/04.01.26.4.md",
+    "Daily/2026/January/03.01.26.3.md",
     "Zettelkasten/Konsep Energi Potensial Permukaan.md",
     "private/Jadwal/03.01.26.md",
-    "Daily/2026/January/03.01.26.3.md",
     "Zettelkasten/Outline Computational Chemistry.md",
     "Daily/2026/January/02.01.26.2.md",
     "Daily/2025/December/31.12.25.365.md",
@@ -305,7 +306,6 @@
     "Zettelkasten/pipeline.md",
     "Zettelkasten/Parameterization.md",
     "Zettelkasten/Theoretical Data VS Experimental Data.md",
-    "Zettelkasten/Ab initio calculation.md",
     "Daily/2026/January",
     "Daily/2026",
     "private/daily_completion.py~",
