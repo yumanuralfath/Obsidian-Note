@@ -5,7 +5,7 @@ tags:
   - Science
   - Learn
 created: 2025-12-31T09:18
-updated: 2026-01-03T08:23
+updated: 2026-01-04T08:33
 ---
 # Apa saja yang bisa di lakukan dengan kimia komputasi 💻 ? 
 
@@ -21,7 +21,7 @@ updated: 2026-01-03T08:23
 
 >  dari masalah umum yang dibahas ada beberapa alat yang digunakan dalam kimia komputasi diantaranya:
 
-- mekanik molekuler biasa menggunakan pengukuran berdasarkan geometry molekuler seperti saat *geometry optimization* dimana dicari energi terkecil dan ini ringan untuk komputer pribadi
+- mekanik molekuler biasa menggunakan pengukuran berdasarkan geometry molekuler seperti saat *geometry optimization* dimana dicari energi terkecil dan ini ringan untuk komputer pribadi. Dasar dari mekanik molekuler dan dasar dari kimia komputasi merupakan  [[Konsep Energi Potensial Permukaan]].
 
 - *[[Ab initio calculation]]* "ab initio" berasal dari bahasa latin berarti "dari awal /dasar" dan berdasarkan dari *schrodinger equation*  dan dapat memberi informasi mengenai energy dan *wavefunction* dan kita dapat mengatakan seberapa polar suatu molekul dan kalkulasi ab initio relatif lambat dan membutuhkan resource PC yang mumpuni
 

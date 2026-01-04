@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "04.01.26.4"
             }
+          },
+          {
+            "id": "8219e779ef7bdab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Outline Computational Chemistry.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Outline Computational Chemistry"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,10 +277,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "f0b9773bfeecfa18",
+  "active": "8219e779ef7bdab5",
   "lastOpenFiles": [
-    "Daily/2026/January/03.01.26.3.md",
     "Daily/2026/January/04.01.26.4.md",
+    "Daily/2026/January/03.01.26.3.md",
     "Zettelkasten/Konsep Energi Potensial Permukaan.md",
     "private/Jadwal/03.01.26.md",
     "Zettelkasten/Outline Computational Chemistry.md",
