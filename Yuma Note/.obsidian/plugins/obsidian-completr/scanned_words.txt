@@ -555,6 +555,7 @@ Learn
 Leetcode
 LeetCode
 Lewars
+LPDP
 TOEFL
 Test
 Tom
@@ -778,6 +779,7 @@ Take
 Taqlim
 Tsabit
 Theory
+Tugas
 author
 after
 as
@@ -3090,6 +3092,7 @@ Rasulullah
 Reward
 Remember
 Recovery
+Research
 Skill
 Sumber
 Source
@@ -4008,6 +4011,7 @@ introspeksi
 infrastruktur
 imam
 instruct
+ibu
 pronoun
 preposition
 prepositional
@@ -5581,6 +5585,7 @@ bukunya
 becek
 bekas
 beristirahat
+berbelanja
 form
 for
 first
@@ -6724,6 +6729,7 @@ Edi
 EYYm
 Experimental
 Energi
+Essay
 questions
 quite
 qr
@@ -7378,6 +7384,7 @@ melaksanakan
 maghrib
 mandarin
 mingguan
+menemani
 In
 It
 If
@@ -8737,6 +8744,7 @@ digantikan
 diantara
 dahan
 dingin
+diminta
 VERB
 Verb
 Valentine
@@ -9961,6 +9969,7 @@ kerjaan
 kelamaan
 keesokan
 kosong
+keperluan
 Note
 November
 Nur
