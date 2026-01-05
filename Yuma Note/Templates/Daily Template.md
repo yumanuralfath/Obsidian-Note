@@ -8,7 +8,7 @@ tags:
 # ⚡ Priority
 - [ ] <% tp.file.cursor() %>
 - [ ] Belajar Bahasa
-- [ ] Latih *logic* dengan menyelesaikan 1 soal Leetcode
+- [ ] Latih *logic* dengan programming
 - [ ] Membaca buku minimal 5 lembar
 - [ ] Membaca dan menghafal ayat minimal 1 ayat
 

@@ -347,6 +347,7 @@ terpecah
 tepatnya
 terusan
 terduga
+tetangga
 Longman
 Literature
 LB
@@ -2546,6 +2547,7 @@ universe
 ukhuwah
 ustad
 umat
+undangan
 Course
 Created
 Careful
@@ -3363,6 +3365,7 @@ Sepulang
 Selama
 Sabtu
 Springer
+Sesampainya
 An
 After
 Answers
@@ -5218,6 +5221,7 @@ surah
 sesi
 santai
 semalam
+sunatan
 by
 behind
 boat
@@ -7385,6 +7389,7 @@ maghrib
 mandarin
 mingguan
 menemani
+menghadiri
 In
 It
 If
