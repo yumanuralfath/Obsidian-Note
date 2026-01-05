@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Outline Computational Chemistry.md",
+                "file": "Daily/2026/January/05.01.26.5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Outline Computational Chemistry"
+              "title": "05.01.26.5"
             }
           }
         ],
@@ -279,11 +279,12 @@
   },
   "active": "8219e779ef7bdab5",
   "lastOpenFiles": [
+    "Zettelkasten/Outline Computational Chemistry.md",
+    "Daily/2026/January/05.01.26.5.md",
     "Daily/2026/January/04.01.26.4.md",
     "Daily/2026/January/03.01.26.3.md",
     "Zettelkasten/Konsep Energi Potensial Permukaan.md",
     "private/Jadwal/03.01.26.md",
-    "Zettelkasten/Outline Computational Chemistry.md",
     "Daily/2026/January/02.01.26.2.md",
     "Daily/2025/December/31.12.25.365.md",
     "Daily/2025/December/30.12.25.364.md",
@@ -305,7 +306,6 @@
     "Literature/Longman - TOEFL Test.md",
     "Zettelkasten/pipeline.md",
     "Zettelkasten/Parameterization.md",
-    "Zettelkasten/Theoretical Data VS Experimental Data.md",
     "Daily/2026/January",
     "Daily/2026",
     "private/daily_completion.py~",
