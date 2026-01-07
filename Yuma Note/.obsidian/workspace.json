@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Konsep Energi Potensial Permukaan.md",
+                "file": "Daily/2026/January/07.01.26.7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Konsep Energi Potensial Permukaan"
+              "title": "07.01.26.7"
             }
           }
         ],
@@ -255,12 +255,13 @@
   },
   "active": "b3023a555acd90d4",
   "lastOpenFiles": [
+    "Zettelkasten/Konsep Energi Potensial Permukaan.md",
+    "Daily/2026/January/07.01.26.7.md",
     "Daily/2026/January/05.01.26.5.md",
     "Daily/2026/January/04.01.26.4.md",
     "Daily/2026/January/03.01.26.3.md",
     "Templates/Daily Template.md",
     "Zettelkasten/Outline Computational Chemistry.md",
-    "Zettelkasten/Konsep Energi Potensial Permukaan.md",
     "private/Jadwal/03.01.26.md",
     "Daily/2026/January/02.01.26.2.md",
     "Daily/2025/December/31.12.25.365.md",
@@ -281,7 +282,6 @@
     "Zettelkasten/Exercise Skill 6.md",
     "Zettelkasten/Be Careful of Present Participle.md",
     "Literature/Longman - TOEFL Test.md",
-    "Zettelkasten/pipeline.md",
     "Daily/2026/January",
     "Daily/2026",
     "private/daily_completion.py~",
