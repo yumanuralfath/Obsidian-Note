@@ -348,6 +348,7 @@ tepatnya
 terusan
 terduga
 tetangga
+terwujud
 Longman
 Literature
 LB
@@ -1571,6 +1572,7 @@ Practice
 Perception
 Premeditatio
 Pada
+Puasa
 year
 you
 yesterday
@@ -3366,6 +3368,8 @@ Selama
 Sabtu
 Springer
 Sesampainya
+Sunnah
+Senin
 An
 After
 Answers
@@ -7390,6 +7394,7 @@ mandarin
 mingguan
 menemani
 menghadiri
+meninggalkan
 In
 It
 If
@@ -7928,6 +7933,7 @@ luas
 ligand
 lama
 lupa
+lewati
 verb
 various
 vociferously
@@ -8750,6 +8756,7 @@ diantara
 dahan
 dingin
 diminta
+diambang
 VERB
 Verb
 Valentine
@@ -9975,6 +9982,8 @@ kelamaan
 keesokan
 kosong
 keperluan
+kegagalan
+konsisten
 Note
 November
 Nur
