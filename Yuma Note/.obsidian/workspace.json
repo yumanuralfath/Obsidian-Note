@@ -11,10 +11,24 @@
             "id": "83fe0483b74d3724",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026/January/09.01.26.9.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "09.01.26.9"
             }
           }
         ]
@@ -142,11 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2026/January/09.01.26.9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 09.01.26.9"
             }
           },
           {
@@ -165,12 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Daily/2026/January/09.01.26.9.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 09.01.26.9"
             }
           }
         ],
@@ -212,8 +228,14 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "b378e45f063dd61e",
+  "active": "83fe0483b74d3724",
   "lastOpenFiles": [
+    "Templates/Daily Template.md",
+    "Daily/2026/January/09.01.26.9.md",
+    "Daily/2026/January/05.01.26.5.md",
+    "Daily/2026/January/06.01.26.6.md",
+    "Daily/2026/January/07.01.26.7.md",
+    "Daily/2026/January/08.01.26.8.md",
     "Zettelkasten/Use Reduced Adjective Clause Correctly.md",
     "Zettelkasten/Use Reduced Adverb Clauses Correctly.md",
     "Zettelkasten/Verb.md",
@@ -234,12 +256,6 @@
     "Zettelkasten/Be Sure The Sentence Has A Subject And A verb.md",
     "Zettelkasten/Be Careful of Present Participle.md",
     "Zettelkasten/Be Careful of Past Participles.md",
-    "Zettelkasten/Be careful of object of preposition.md",
-    "Zettelkasten/Use Adjective Clause Connector Or Subject Correctly.md",
-    "Daily/2026/January/09.01.26.9.md",
-    "Templates/Daily Template.md",
-    "Daily/2026/January/02.01.26.2.md",
-    "Daily/2026/January/01.01.26.1.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",

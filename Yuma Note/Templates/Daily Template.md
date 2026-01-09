@@ -6,6 +6,7 @@ tags:
   - Daily
 ---
 # ⚡ Priority
+
 - [ ] <% tp.file.cursor() %>
 - [ ] Belajar Bahasa
 - [ ] Latih *logic* dengan programming

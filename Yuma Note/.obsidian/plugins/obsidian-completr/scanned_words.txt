@@ -7973,6 +7973,7 @@ lama
 lupa
 lewati
 learn
+lontong
 verb
 various
 vociferously
