@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/January/08.01.26.8.md",
+                "file": "Daily/2026/January/09.01.26.9.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "08.01.26.8"
+              "title": "09.01.26.9"
             }
           }
         ]
@@ -231,12 +231,13 @@
   "active": "9cf3b3be53494e3b",
   "lastOpenFiles": [
     "Daily/2026/January/05.01.26.5.md",
-    "Daily/2026/January/08.01.26.8.md",
-    "Daily/2026/January/07.01.26.7.md",
-    "Daily/2026/January/06.01.26.6.md",
-    "Zettelkasten/Konsep Energi Potensial Permukaan.md",
+    "Daily/2026/January/09.01.26.9.md",
     "Daily/2026/January/04.01.26.4.md",
     "Daily/2026/January/03.01.26.3.md",
+    "Daily/2026/January/06.01.26.6.md",
+    "Daily/2026/January/08.01.26.8.md",
+    "Daily/2026/January/07.01.26.7.md",
+    "Zettelkasten/Konsep Energi Potensial Permukaan.md",
     "Templates/Daily Template.md",
     "Zettelkasten/Outline Computational Chemistry.md",
     "private/Jadwal/03.01.26.md",
@@ -256,7 +257,6 @@
     "private/Jadwal",
     "Zettelkasten/Mnemonic.md",
     "Zettelkasten/Exercise Skill 7.md",
-    "Zettelkasten/Exercise Skill 6.md",
     "Daily/2026/January",
     "Daily/2026",
     "private/daily_completion.py~",

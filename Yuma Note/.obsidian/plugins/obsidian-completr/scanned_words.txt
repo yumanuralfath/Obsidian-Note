@@ -3799,6 +3799,7 @@ obat
 optimization
 overthinking
 omongan
+org
 is
 in
 it
@@ -7934,6 +7935,7 @@ ligand
 lama
 lupa
 lewati
+learn
 verb
 various
 vociferously
@@ -9984,6 +9986,8 @@ kosong
 keperluan
 kegagalan
 konsisten
+kerjakan
+kedatangan
 Note
 November
 Nur
@@ -10419,6 +10423,7 @@ Mempersiapkan
 Masjid
 Manusia
 Mechanics
+MABAR
 October
 Object
 On
@@ -10731,6 +10736,7 @@ WJF
 WFJK
 Weg
 Work
+WKKWWK
 Jika
 Jf
 Jl
