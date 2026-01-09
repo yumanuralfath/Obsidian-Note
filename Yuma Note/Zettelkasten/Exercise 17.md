@@ -1,9 +1,9 @@
 ---
 title: Exercise 17
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-24T08:55
-updated: 2025-10-26T10:51
+updated: 2026-01-09T07:51
 ---
 ## 💪 Exercise With Example
 <mark style="background: #ADCCFFA6;">verb</mark> <mark style="background: #BBFABBA6;">Subject</mark>

@@ -1,9 +1,9 @@
 ---
 title: Be Careful of Past Participles
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-20T10:09
-updated: 2025-10-20T20:04
+updated: 2026-01-09T07:49
 ---
 ## 💡 Ide Utama
 - Hati-hati dalam membedakan [[Past Participles]] dengan verb di kalimat. 

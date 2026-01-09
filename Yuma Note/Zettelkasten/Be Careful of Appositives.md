@@ -2,9 +2,9 @@
 created: 2025-10-19 17:45
 title: Be Careful of Appositives
 tags:
-  - grammar
   - Exercise
-updated: 2025-10-22T08:01
+  - Grammar
+updated: 2026-01-09T07:49
 ---
 ## Penjelasan:
 <mark style="background: #FF5582A6;">! hati-hati </mark> dalam suatu soal yang seolah-olah itu merupakan subject namun sebenarnya merupakan [[Appositive]] dimana menjelaskan subject utama

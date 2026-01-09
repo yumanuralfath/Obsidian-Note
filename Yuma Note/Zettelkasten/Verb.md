@@ -2,8 +2,8 @@
 created: 2025-10-17 20:19
 title: Verb
 tags:
-  - grammar
-updated: 2025-10-17T20:30
+  - Grammar
+updated: 2026-01-09T08:04
 ---
 
 # 🧩 Verb

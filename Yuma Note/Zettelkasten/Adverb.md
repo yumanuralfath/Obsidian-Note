@@ -1,9 +1,9 @@
 ---
 title: Adverb
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-21T07:24
-updated: 2025-10-21T07:24
+updated: 2026-01-09T07:48
 ---
 ## 💡 Ide Utama
 - *adverb* merupakan kata keterangan menjelaskan sesuatu dan tidak bisa berdiri sendiri.

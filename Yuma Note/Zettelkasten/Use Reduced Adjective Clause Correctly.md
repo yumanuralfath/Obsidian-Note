@@ -1,9 +1,9 @@
 ---
 title: Use Reduced Adjective Clause Correctly
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-22T10:24
-updated: 2025-10-22T17:04
+updated: 2026-01-09T08:05
 ---
 ## 💡 Ide Utama
 - *Reduced adjective clause* merupakan cara untuk mempersingkat kalimat penjelas agar lebih efisien,  dengan cara membuang connector dan terkadang *be-verb*

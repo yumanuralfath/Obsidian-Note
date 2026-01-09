@@ -1,10 +1,10 @@
 ---
 title: Exercise Skill 5
 tags:
-  - grammar
+  - Grammar
   - Exercise
 created: 2025-10-20T11:13
-updated: 2025-10-22T08:01
+updated: 2026-01-09T08:08
 ---
 ## 💪 Exercise With Example
 [[Subject]] =  <mark style="background: #BBFABBA6;">.</mark>  [[Verb]] = <mark style="background: #ADCCFFA6;">.</mark> adj= ==.==  

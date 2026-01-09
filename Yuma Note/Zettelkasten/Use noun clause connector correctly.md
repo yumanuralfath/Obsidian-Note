@@ -1,9 +1,9 @@
 ---
 title: Use noun clause connector correctly
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-21T07:20
-updated: 2025-10-22T10:17
+updated: 2026-01-09T08:08
 ---
 ## 💡 Ide Utama
 -  <mark style="background: #FF5582A6;">Pastikan setiap *noun clause* (anak kalimat) memiliki *connector*, *subject*, *Verb* yang lengkap</mark>

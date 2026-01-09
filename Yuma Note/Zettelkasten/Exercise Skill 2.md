@@ -2,9 +2,9 @@
 created: 2025-10-19 09:10
 title: Exercise Skill 2
 tags:
-  - grammar
   - Exercise
-updated: 2025-10-22T08:01
+  - Grammar
+updated: 2026-01-09T07:51
 ---
 subject =  <mark style="background: #BBFABBA6;">.</mark>  Verb = <mark style="background: #ADCCFFA6;">.</mark> object of prepositions= ==.==  
 

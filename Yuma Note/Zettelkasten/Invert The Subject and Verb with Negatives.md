@@ -1,9 +1,9 @@
 ---
 title: Invert The Subject and Verb with Negatives
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-24T08:53
-updated: 2025-10-24T09:34
+updated: 2026-01-09T08:08
 ---
 ### 1. Inti Sederhananya (Konsep Utama)
 

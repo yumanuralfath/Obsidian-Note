@@ -2,8 +2,8 @@
 created: 2025-10-17 20:04
 title: Be Sure The Sentence Has A Subject And A verb
 tags:
-  - grammar
-updated: 2025-10-19T19:20
+  - Grammar
+updated: 2026-01-09T07:49
 ---
 
 # 🧩 Be Sure The Sentence Has A Subject And A verb

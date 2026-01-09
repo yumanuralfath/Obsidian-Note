@@ -1,9 +1,9 @@
 ---
 title: Use Noun Clause Connector or Subject Correctly
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-21T09:00
-updated: 2025-10-22T10:17
+updated: 2026-01-09T08:08
 ---
 ## 💡 Ide Utama
 - Berbeda dengan skill 9 [[Use noun clause connector correctly]] dimana [[Noun Clause]] connectors berfungsi sebagai pengenal / yang memulai suatu *noun subject clause* atau *noun object clause* sehingga masih , intinya connector nya **rangkap jabatan** selain sebagai **connector** juga bekerja sebagai **subject** 

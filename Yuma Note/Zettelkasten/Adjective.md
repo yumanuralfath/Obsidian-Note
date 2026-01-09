@@ -2,8 +2,8 @@
 created: 2025-10-19 19:30
 title: Adjective
 tags:
-  - grammar
-updated: 2025-10-20T05:58
+  - Grammar
+updated: 2026-01-09T07:47
 ---
 
 # 🧩 Adjective

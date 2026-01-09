@@ -1,9 +1,9 @@
 ---
 title: Invert The Subject and Verb with Question words
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-24T07:54
-updated: 2025-10-24T08:00
+updated: 2026-01-09T08:08
 ---
 ## 💡 Ide Utama
 ### Inti Sederhananya: Pertanyaan Asli vs. Pertanyaan "Numpang"

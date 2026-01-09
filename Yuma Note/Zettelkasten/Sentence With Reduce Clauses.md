@@ -1,9 +1,9 @@
 ---
 title: Sentence With Reduce Clauses
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-22T10:17
-updated: 2025-10-22T19:17
+updated: 2026-01-09T08:08
 ---
 *Sentence with reduce clause* merupakan kalimat yang telah disingkat *kalimat penjelasnya*  dengan **membuang konektornya** (*who, which, that, when, while*) dan **mengubah bentuk kata kerjanya (verb)**
 - Diantara tiga clause (noun, adjective dan adverb) hanya *noun* yang tidak termasuk. 

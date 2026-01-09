@@ -34826,7 +34826,7 @@ var require_db = __commonJS({
       "text/gff3": {
         source: "iana"
       },
-      "text/grammar-ref-list": {
+      "text/Grammar-ref-list": {
         source: "iana"
       },
       "text/html": {

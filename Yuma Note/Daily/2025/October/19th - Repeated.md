@@ -5,7 +5,7 @@ weather: ☁️ 25°C - awan tersebar
 mood: calm
 tags:
   - Daily
-updated: 2025-12-31T21:16
+updated: 2026-01-09T08:08
 ---
 
 # Sunday, 19 Oct 2025
@@ -34,7 +34,7 @@ updated: 2025-12-31T21:16
 - [ ] Baca  buku filosofi teras ❌
 
 ## 🎯 Fokus Hari Ini
->  Hari ini saya akan fokus untuk belajar TOEFL grammar
+>  Hari ini saya akan fokus untuk belajar TOEFL Grammar
 
 ## 📝 Catatan
 **Yang Dilakukan:**

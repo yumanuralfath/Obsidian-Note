@@ -2,8 +2,8 @@
 created: 2025-10-18 19:43
 title: frase nomina
 tags:
-  - grammar
-updated: 2025-10-18T19:54
+  - Grammar
+updated: 2026-01-09T08:08
 ---
 # 🧩 frase nomina
 Frasa nomina (_noun phrase_) merupakan suatu kelompok kata yang berfungsi sebagai kata benda (_noun_) dan bisa punya kata _tambahan_ 

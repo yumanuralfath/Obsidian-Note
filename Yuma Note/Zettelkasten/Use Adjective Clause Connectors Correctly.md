@@ -1,9 +1,9 @@
 ---
 title: Use Adjective Clause Connectors Correctly
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-22T08:25
-updated: 2025-10-22T10:17
+updated: 2026-01-09T08:08
 ---
 ## 💡 Ide Utama
 - [[Adjective]] clause merupakan kalimat yang menerangkan sebuah [[noun]] jadi terletak setelah noun.

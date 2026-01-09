@@ -1,10 +1,10 @@
 ---
 title: Exercise 15
 tags:
-  - grammar
   - Exercise
+  - Grammar
 created: 2025-10-24T05:14
-updated: 2025-10-24T08:17
+updated: 2026-01-09T07:50
 ---
 ## 💪 Exercise With Example
 <mark style="background: #ADCCFFA6;">verb</mark> <mark style="background: #BBFABBA6;">subject</mark>

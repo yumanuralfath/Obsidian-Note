@@ -1,9 +1,9 @@
 ---
 title: Past Participles
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-20T10:06
-updated: 2025-10-20T10:31
+updated: 2026-01-09T08:08
 ---
 ## 💡 Ide Utama
 - ***Past Participle*** merupakan bentuk kata kerja, dimana kerja atau sesuatu sudah selesai dilakukan dan dalam biasa inggris diikuti kata *have/has/had* atau *to be* kalau di bahasa indonesia biasa di tulis dengan imbuhan *di-* sehingga bentuk nya pasif.

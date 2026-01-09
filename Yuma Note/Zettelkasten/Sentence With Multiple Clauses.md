@@ -1,9 +1,9 @@
 ---
 title: Sentence With Multiple Clauses
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-20T13:47
-updated: 2025-10-20T13:54
+updated: 2026-01-09T08:08
 ---
 ## 📝 Note
 Banyak kalimat dalam bahasa inggris menggunakan lebih dari satu klausa (Klausa merupakan gabungan kata yang memiliki satu [[Verb]] dan satu [[Subject]] ), maka jika ditemukan lebih dari satu klausa maka:

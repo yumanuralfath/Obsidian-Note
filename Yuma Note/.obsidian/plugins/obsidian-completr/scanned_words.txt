@@ -349,6 +349,10 @@ terusan
 terduga
 tetangga
 terwujud
+typeset
+tell
+tank
+task
 Longman
 Literature
 LB
@@ -558,6 +562,7 @@ Leetcode
 LeetCode
 Lewars
 LPDP
+Linking
 TOEFL
 Test
 Tom
@@ -1082,6 +1087,8 @@ alam
 aurelius
 amma
 akhir
+agreement
+action
 Deborah
 Do
 Disini
@@ -2372,6 +2379,8 @@ cocok
 cuci
 cerah
 compatible
+cheapest
+copies
 updated
 utama
 utamanya
@@ -3370,6 +3379,8 @@ Springer
 Sesampainya
 Sunnah
 Senin
+Sure
+Setiap
 An
 After
 Answers
@@ -3594,6 +3605,8 @@ Agung
 Abu
 Afternoon
 Applications
+And
+Action
 object
 of
 or
@@ -4020,6 +4033,10 @@ infrastruktur
 imam
 instruct
 ibu
+incomplete
+information
+invert
+investments
 pronoun
 preposition
 prepositional
@@ -4401,6 +4418,15 @@ potong
 pohon
 pendek
 putus
+pembahasan
+pelaku
+parking
+printed
+pilot
+prefer
+play
+played
+plays
 noun
 notice
 no
@@ -4817,6 +4843,8 @@ receptors
 revolusi
 rugi
 ringkas
+run
+runs
 such
 so
 sentence
@@ -5227,6 +5255,8 @@ sesi
 santai
 semalam
 sunatan
+security
+seem
 by
 behind
 boat
@@ -5595,6 +5625,8 @@ becek
 bekas
 beristirahat
 berbelanja
+bank
+become
 form
 for
 first
@@ -5846,6 +5878,9 @@ fati
 fable
 fanatisme
 fisik
+fragment
+far
+fuel
 his
 he
 has
@@ -6107,6 +6142,7 @@ hukum
 habis
 halnya
 hadist
+helping
 exams
 example
 either
@@ -6330,6 +6366,7 @@ ehe
 ephemeral
 eagle
 endure
+every
 will
 with
 when
@@ -8099,6 +8136,7 @@ validitas
 virtue
 view
 variabel
+vault
 You
 Yuma
 YO
@@ -9152,6 +9190,7 @@ Hal
 Hanifah
 Hanafi
 Hafalan
+Helping
 justify
 jika
 jadi
@@ -9551,6 +9590,7 @@ Komputasi
 Kucing
 Kegiatan
 Kaki
+Kumpulan
 Utama
 Use
 UL
@@ -9714,6 +9754,7 @@ UTb
 UBB
 UuM
 UEYR
+Update
 kalimat
 karena
 kata
@@ -9988,6 +10029,8 @@ kegagalan
 konsisten
 kerjakan
 kedatangan
+knows
+keberadaan
 Note
 November
 Nur

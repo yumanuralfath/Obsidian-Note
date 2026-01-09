@@ -1,9 +1,9 @@
 ---
 title: Use Adverb Time and Cause Connectors Correctly
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-21T04:55
-updated: 2025-10-22T10:16
+updated: 2026-01-09T08:08
 ---
 ## 💡 Ide Utama
 Gunakan *adverb time* dan *kata penghubung* dengan benar dalam kalimat, dimana *adverb of times* merupakan kata keterangan waktu yang bisa menjawab pertanyaan *when?* dan *kata penghubung sebab* adalah kata hubung yang menjelaskan sebab akibat. 

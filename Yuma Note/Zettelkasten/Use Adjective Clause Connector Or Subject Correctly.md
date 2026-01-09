@@ -1,9 +1,9 @@
 ---
 title: Use Adjective Clause Connector Or Subject Correctly
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-22T09:32
-updated: 2025-10-22T10:17
+updated: 2026-01-09T08:08
 ---
 ## 💡 Ide Utama
 - Connector (<mark style="background: #BBFABBA6;">Which, Who atau That</mark>) bisa berfungsi **Ganda** yaitu *sebagai connector dan sekaligus sebagai subject*.

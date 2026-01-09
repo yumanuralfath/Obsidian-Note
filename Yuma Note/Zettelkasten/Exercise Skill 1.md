@@ -2,9 +2,9 @@
 created: 2025-10-17 20:27
 title: Exercise Skill 1
 tags:
-  - grammar
   - Exercise
-updated: 2025-10-22T08:01
+  - Grammar
+updated: 2026-01-09T07:51
 ---
 
 # 🧩 Exercise Skill 1

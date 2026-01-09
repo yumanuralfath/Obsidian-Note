@@ -2,8 +2,8 @@
 created: 2025-10-19 18:46
 title: Appositive
 tags:
-  - grammar
-updated: 2025-10-19T18:51
+  - Grammar
+updated: 2026-01-09T07:49
 ---
 **Appositive**
 Appositive merupakan sebuah [[noun]] yang terletak setelah atau sebelum noun yang lain dan biasanya di pisahkan oleh koma, jika kata tersebut merupakan *appositive* maka <mark style="background: #FF5582A6;">tidak bisa menjadi subject !</mark>

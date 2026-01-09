@@ -4882,7 +4882,7 @@ exhibit
 fastest
 forty
 gorgeous
-grammar
+Grammar
 handsome
 harvard
 hitler
@@ -43751,7 +43751,7 @@ godolphin
 goff
 gor
 gorky
-grammars
+Grammars
 granary
 greenleaf
 greyish
@@ -68251,7 +68251,7 @@ goading
 gofundme
 gok
 govind
-grammarians
+Grammarians
 gratuities
 graydon
 grimm's
@@ -69084,7 +69084,7 @@ gonad
 gossipy
 gotze
 gouvernement
-grammarian
+Grammarian
 granderson
 grandstands
 gravesite
@@ -166723,7 +166723,7 @@ gowri
 gracepoint
 grade's
 graffitti
-grammar's
+Grammar's
 grammaticus
 greatjob
 greca

@@ -1,8 +1,8 @@
 ---
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-18T18:24
-updated: 2025-10-20T06:12
+updated: 2026-01-09T08:08
 ---
 
 **Rumus:**  

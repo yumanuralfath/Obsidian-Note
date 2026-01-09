@@ -1,9 +1,9 @@
 ---
 title: Use Reduced Adverb Clauses Correctly
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-22T10:47
-updated: 2025-10-23T08:33
+updated: 2026-01-09T08:05
 ---
 ## 💡 Ide Utama
 - Bisa disingkat jika *subject* di klausa **sama** dengan *subject* di kalimat utama  

@@ -2,9 +2,9 @@
 title: Exercise Skill 12
 tags:
   - Exercise
-  - grammar
+  - Grammar
 created: 2025-10-22T09:56
-updated: 2025-10-22T10:11
+updated: 2026-01-09T08:08
 ---
 ## 💪 Exercise With Example
 <mark style="background: #FFF3A3A6;">Verb</mark>

@@ -1,9 +1,9 @@
 ---
 title: Invert The Subject and Verb with Conditionals
 tags:
-  - grammar
+  - Grammar
 created: 2025-10-24T09:52
-updated: 2025-10-24T09:58
+updated: 2026-01-09T08:08
 ---
 ### 1. Inti Sederhananya (Konsep Utama)
 

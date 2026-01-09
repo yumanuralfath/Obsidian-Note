@@ -1,10 +1,10 @@
 ---
 title: Exercise Skill 6
 tags:
-  - grammar
+  - Grammar
   - Exercise
 created: 2025-10-20T19:14
-updated: 2026-01-02T07:47
+updated: 2026-01-09T08:08
 ---
 ## 💪 Exercise With Example
 <mark style="background: #FFF3A3A6;">Verb</mark> <mark style="background: #BBFABBA6;">Subject</mark> ==Connectors==

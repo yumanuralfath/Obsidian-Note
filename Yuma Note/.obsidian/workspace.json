@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "15237dab20732812",
+        "id": "d65851981d32c2fa",
         "type": "tabs",
         "children": [
           {
-            "id": "9cf3b3be53494e3b",
+            "id": "83fe0483b74d3724",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026/January/09.01.26.9.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "09.01.26.9"
+              "title": "New tab"
             }
           }
         ]
@@ -66,7 +52,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -79,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "filoso",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -156,12 +142,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Outline Computational Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Outline Computational Chemistry"
+              "title": "Outgoing links"
             }
           },
           {
@@ -180,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Outline Computational Chemistry.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Outline Computational Chemistry"
+              "title": "Outline"
             }
           }
         ],
@@ -228,35 +212,35 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "9cf3b3be53494e3b",
+  "active": "b378e45f063dd61e",
   "lastOpenFiles": [
-    "Daily/2026/January/05.01.26.5.md",
-    "Daily/2026/January/09.01.26.9.md",
-    "Daily/2026/January/04.01.26.4.md",
-    "Daily/2026/January/03.01.26.3.md",
-    "Daily/2026/January/06.01.26.6.md",
-    "Daily/2026/January/08.01.26.8.md",
-    "Daily/2026/January/07.01.26.7.md",
-    "Zettelkasten/Konsep Energi Potensial Permukaan.md",
-    "Templates/Daily Template.md",
-    "Zettelkasten/Outline Computational Chemistry.md",
-    "private/Jadwal/03.01.26.md",
-    "Daily/2026/January/02.01.26.2.md",
-    "Daily/2025/December/31.12.25.365.md",
-    "Daily/2025/December/30.12.25.364.md",
-    "private/Stoic.md",
-    "tags/Grammar.md",
-    "Zettelkasten/Untitled.md",
-    "private/Jadwal/02.01.26.md",
-    "Daily/2026/January/01.01.26.1.md",
-    "Zettelkasten/Animal Farm  (Binatangisme).md",
-    "Daily/2025/December/28.12.25.362.md",
-    "Zettelkasten/Filosofi teras.md",
-    "Zettelkasten/Stoikisme.md",
+    "Zettelkasten/Use Reduced Adjective Clause Correctly.md",
+    "Zettelkasten/Use Reduced Adverb Clauses Correctly.md",
+    "Zettelkasten/Verb.md",
+    "Zettelkasten/Be Careful of Appositives.md",
+    "Zettelkasten/Appositive.md",
+    "Zettelkasten/Adverb.md",
+    "Zettelkasten/Adjective.md",
+    "Daily/2025/October/19th - Repeated.md",
     "index.md",
+    "Zettelkasten/Exercise Skill 4.md",
+    "Zettelkasten/Exercise Skill 2.md",
+    "Zettelkasten/Exercise Skill 1.md",
+    "Zettelkasten/Exercise 18.md",
+    "Zettelkasten/Exercise 17.md",
+    "Zettelkasten/Exercise 16.md",
+    "Zettelkasten/Exercise 15.md",
+    "Zettelkasten/Exercise 1-5.md",
+    "Zettelkasten/Be Sure The Sentence Has A Subject And A verb.md",
+    "Zettelkasten/Be Careful of Present Participle.md",
+    "Zettelkasten/Be Careful of Past Participles.md",
+    "Zettelkasten/Be careful of object of preposition.md",
+    "Zettelkasten/Use Adjective Clause Connector Or Subject Correctly.md",
+    "Daily/2026/January/09.01.26.9.md",
+    "Templates/Daily Template.md",
+    "Daily/2026/January/02.01.26.2.md",
+    "Daily/2026/January/01.01.26.1.md",
     "private/Jadwal",
-    "Zettelkasten/Mnemonic.md",
-    "Zettelkasten/Exercise Skill 7.md",
     "Daily/2026/January",
     "Daily/2026",
     "private/daily_completion.py~",

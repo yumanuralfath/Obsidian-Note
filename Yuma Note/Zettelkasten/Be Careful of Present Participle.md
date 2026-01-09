@@ -2,8 +2,8 @@
 created: 2025-10-19 19:57
 title: Be Careful of Present Participle
 tags:
-  - grammar
-updated: 2026-01-02T07:47
+  - Grammar
+updated: 2026-01-09T07:49
 ---
 ## 💡 Ide Utama
 - **Present Participle** merupakan sebuah kata kerja yang berakhiran -*ing* (Verb + -ing)
