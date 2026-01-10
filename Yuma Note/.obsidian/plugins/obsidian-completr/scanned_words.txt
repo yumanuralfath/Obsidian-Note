@@ -353,6 +353,7 @@ typeset
 tell
 tank
 task
+terpengaruh
 Longman
 Literature
 LB
@@ -1089,6 +1090,7 @@ amma
 akhir
 agreement
 action
+arah
 Deborah
 Do
 Disini
@@ -5257,6 +5259,7 @@ semalam
 sunatan
 security
 seem
+sudut
 by
 behind
 boat
@@ -8138,6 +8141,7 @@ virtue
 view
 variabel
 vault
+variable
 You
 Yuma
 YO
@@ -8798,6 +8802,7 @@ dahan
 dingin
 diminta
 diambang
+diplotkan
 VERB
 Verb
 Valentine

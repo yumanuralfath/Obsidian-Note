@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Konsep Energi Potensial Permukaan.md",
+                "file": "Daily/2026/January/10.01.26.10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Konsep Energi Potensial Permukaan"
+              "title": "10.01.26.10"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,8 +252,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "02ef1b0f3a5d0245",
+  "active": "83fe0483b74d3724",
   "lastOpenFiles": [
+    "Daily/2026/January/10.01.26.10.md",
+    "Zettelkasten/Konsep Energi Potensial Permukaan.md",
     "Daily/2026/January/09.01.26.9.md",
     "Templates/Daily Template.md",
     "Daily/2026/January/05.01.26.5.md",
@@ -279,8 +280,6 @@
     "Zettelkasten/Exercise 15.md",
     "Zettelkasten/Exercise 1-5.md",
     "Zettelkasten/Be Sure The Sentence Has A Subject And A verb.md",
-    "Zettelkasten/Be Careful of Present Participle.md",
-    "Zettelkasten/Be Careful of Past Participles.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",
