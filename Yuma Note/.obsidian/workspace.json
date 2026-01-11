@@ -32,12 +32,36 @@
             }
           },
           {
-            "id": "50f16385ba2eddbd",
+            "id": "d137597281ff18fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/January/10.01.26.10.md",
+                "file": "Zettelkasten/Tips memperbaiki gaya tulisan.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tips memperbaiki gaya tulisan"
+            }
+          },
+          {
+            "id": "d8d1065517d08d3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Konsep Energi Potensial Permukaan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10.01.26.10"
+              "title": "Konsep Energi Potensial Permukaan"
             }
           }
         ],
@@ -253,16 +277,20 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "50f16385ba2eddbd",
+  "active": "d137597281ff18fb",
   "lastOpenFiles": [
     "Daily/2026/January/11.01.26.11.md",
+    "Zettelkasten/Konsep Energi Potensial Permukaan.md",
+    "Zettelkasten/Tips memperbaiki gaya tulisan.md",
+    "tags/Tool.md",
+    "tags/Book.md",
+    "tags/Tips & Trik.md",
     "Daily/2026/January/10.01.26.10.md",
     "Daily/2026/January/05.01.26.5.md",
     "Daily/2026/January/06.01.26.6.md",
     "Daily/2026/January/07.01.26.7.md",
     "Daily/2026/January/08.01.26.8.md",
     "Daily/2026/January/09.01.26.9.md",
-    "Zettelkasten/Konsep Energi Potensial Permukaan.md",
     "Templates/Daily Template.md",
     "Zettelkasten/Use Reduced Adjective Clause Correctly.md",
     "Zettelkasten/Use Reduced Adverb Clauses Correctly.md",
@@ -277,10 +305,6 @@
     "Zettelkasten/Exercise Skill 2.md",
     "Zettelkasten/Exercise Skill 1.md",
     "Zettelkasten/Exercise 18.md",
-    "Zettelkasten/Exercise 17.md",
-    "Zettelkasten/Exercise 16.md",
-    "Zettelkasten/Exercise 15.md",
-    "Zettelkasten/Exercise 1-5.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",
