@@ -354,6 +354,7 @@ tell
 tank
 task
 terpengaruh
+tambahan
 Longman
 Literature
 LB
@@ -1091,6 +1092,7 @@ akhir
 agreement
 action
 arah
+awalnya
 Deborah
 Do
 Disini
@@ -2562,6 +2564,7 @@ ukhuwah
 ustad
 umat
 undangan
+underestimate
 Course
 Created
 Careful
@@ -3816,6 +3819,7 @@ optimization
 overthinking
 omongan
 org
+optimisasi
 is
 in
 it
@@ -4430,6 +4434,8 @@ prefer
 play
 played
 plays
+plotkan
+platform
 noun
 notice
 no
@@ -4848,6 +4854,8 @@ rugi
 ringkas
 run
 runs
+revenge
+rust
 such
 so
 sentence
@@ -5261,6 +5269,7 @@ sunatan
 security
 seem
 sudut
+sepulang
 by
 behind
 boat
@@ -7438,6 +7447,9 @@ mingguan
 menemani
 menghadiri
 meninggalkan
+manga
+menurut
+multi
 In
 It
 If
@@ -8805,6 +8817,7 @@ dingin
 diminta
 diambang
 diplotkan
+diselesaikan
 VERB
 Verb
 Valentine
@@ -10039,6 +10052,7 @@ kerjakan
 kedatangan
 knows
 keberadaan
+kebanyakan
 Note
 November
 Nur
@@ -10475,6 +10489,7 @@ Masjid
 Manusia
 Mechanics
 MABAR
+Malamnya
 October
 Object
 On
@@ -10947,6 +10962,7 @@ January
 JADWAL
 Jumat
 Jones
+Judul
 Zk
 ZC
 Zim
