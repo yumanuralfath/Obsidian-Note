@@ -3,9 +3,8 @@ title: Outline Computational Chemistry
 tags:
   - Chemistry
   - Science
-  - Learn
 created: 2025-12-31T09:18
-updated: 2026-01-04T08:33
+updated: 2026-01-12T08:08
 ---
 # Apa saja yang bisa di lakukan dengan kimia komputasi 💻 ? 
 

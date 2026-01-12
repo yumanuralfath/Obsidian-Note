@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "d137597281ff18fb",
+            "id": "9f8323c0e044554e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,33 +54,8 @@
               "icon": "lucide-file",
               "title": "12.01.26.12"
             }
-          },
-          {
-            "id": "d8d1065517d08d3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Konsep Energi Potensial Permukaan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Konsep Energi Potensial Permukaan"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,13 +252,15 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "d137597281ff18fb",
+  "active": "02ef1b0f3a5d0245",
   "lastOpenFiles": [
-    "Zettelkasten/Tips memperbaiki gaya tulisan.md",
     "Daily/2026/January/12.01.26.12.md",
     "Daily/2026/January/11.01.26.11.md",
-    "Zettelkasten/Konsep Energi Potensial Permukaan.md",
     "tags/Tool.md",
+    "index.md",
+    "Zettelkasten/Outline Computational Chemistry.md",
+    "Zettelkasten/Konsep Energi Potensial Permukaan.md",
+    "Zettelkasten/Tips memperbaiki gaya tulisan.md",
     "tags/Book.md",
     "tags/Tips & Trik.md",
     "Daily/2026/January/10.01.26.10.md",
@@ -301,10 +278,8 @@
     "Zettelkasten/Adverb.md",
     "Zettelkasten/Adjective.md",
     "Daily/2025/October/19th - Repeated.md",
-    "index.md",
     "Zettelkasten/Exercise Skill 4.md",
     "Zettelkasten/Exercise Skill 2.md",
-    "Zettelkasten/Exercise Skill 1.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",

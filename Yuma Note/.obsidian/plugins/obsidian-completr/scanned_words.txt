@@ -367,6 +367,8 @@ tulisan
 tutup
 tulisanmu
 transisi
+tab
+tekuni
 Longman
 Literature
 LB
@@ -5394,6 +5396,7 @@ seni
 situlah
 sinyal
 seru
+studi
 by
 behind
 boat
@@ -6746,6 +6749,7 @@ wudu
 wkwkkw
 worth
 workflow
+workspace
 Exams
 Example
 Exercise
