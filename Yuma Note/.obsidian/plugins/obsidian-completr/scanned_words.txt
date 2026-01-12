@@ -365,6 +365,8 @@ tersendiri
 tampak
 tulisan
 tutup
+tulisanmu
+transisi
 Longman
 Literature
 LB
@@ -576,6 +578,7 @@ Lewars
 LPDP
 Linking
 Langit
+Lebih
 TOEFL
 Test
 Tom
@@ -800,6 +803,11 @@ Taqlim
 Tsabit
 Theory
 Tugas
+Tulisan
+Transisi
+Tabel
+Transformasi
+Tambahkan
 author
 after
 as
@@ -1113,6 +1121,8 @@ antiklimaks
 awet
 atmosfer
 ala
+agenda
+alih
 Deborah
 Do
 Disini
@@ -1348,6 +1358,9 @@ Deep
 Dari
 Dzuhur
 Dioxus
+Dewasa
+Dampaknya
+Developer
 Phillips
 Preparation
 Past
@@ -1608,6 +1621,11 @@ Puasa
 Pukul
 Proyek
 Pixel
+Pengulangan
+Paragraf
+Persona
+Proses
+Point
 year
 you
 yesterday
@@ -2151,6 +2169,11 @@ Buffer
 BTW
 Belum
 Besok
+Bervariasi
+Bridge
+Beranjak
+Bernyawa
+Berikan
 created
 clause
 comes
@@ -2599,6 +2622,7 @@ umat
 undangan
 underestimate
 urusan
+usahakan
 Course
 Created
 Careful
@@ -2794,6 +2818,7 @@ CGRD
 CNa
 CGN
 Cartel
+Chemist
 For
 FF
 February
@@ -3147,6 +3172,8 @@ Remember
 Recovery
 Research
 Rasanya
+Rumus
+Rahasianya
 Skill
 Sumber
 Source
@@ -3426,6 +3453,12 @@ Sebuah
 Semuanya
 Sepertinya
 Sisi
+Saya
+Sarapan
+Selalu
+Sinonim
+Sesi
+Sesudah
 An
 After
 Answers
@@ -3659,6 +3692,8 @@ Arch
 Alibi
 Aternos
 Alhasil
+Antar
+Alih
 object
 of
 or
@@ -4093,6 +4128,7 @@ investments
 info
 impian
 iyap
+idle
 pronoun
 preposition
 prepositional
@@ -4497,6 +4533,13 @@ pengguna
 performa
 positifnya
 putuskan
+praktis
+pikirkan
+pas
+perasaan
+paragraf
+personifikasi
+pelarian
 noun
 notice
 no
@@ -4926,6 +4969,8 @@ rute
 ritme
 rasanya
 ritual
+rasakan
+racikan
 such
 so
 sentence
@@ -5347,6 +5392,8 @@ seketika
 sepi
 seni
 situlah
+sinyal
+seru
 by
 behind
 boat
@@ -5725,6 +5772,12 @@ berkeringat
 berhadapan
 bareng
 bercerita
+bagus
+buatan
+booster
+barisan
+berkali
+bergelut
 form
 for
 first
@@ -5979,6 +6032,7 @@ fisik
 fragment
 far
 fuel
+fakta
 his
 he
 has
@@ -6243,6 +6297,8 @@ hadist
 helping
 hampir
 hadiah
+halus
+haus
 exams
 example
 either
@@ -6880,6 +6936,7 @@ EYYm
 Experimental
 Energi
 Essay
+Emulator
 questions
 quite
 qr
@@ -7567,6 +7624,16 @@ mengandalkan
 memandangi
 monoton
 merestorasi
+memberikan
+menuntas
+meninggi
+mengeksekusi
+menuntaskan
+melompat
+malas
+melambat
+mencerminkan
+menyegarkan
 In
 It
 If
@@ -8112,6 +8179,7 @@ laptop
 lava
 luasnya
 log
+lewat
 verb
 various
 vociferously
@@ -8277,6 +8345,9 @@ view
 variabel
 vault
 variable
+variasi
+virtual
+validasi
 You
 Yuma
 YO
@@ -8611,6 +8682,8 @@ Gandum
 Godot
 GIDATx
 Game
+Gaya
+Ganti
 does
 div
 dalam
@@ -8943,6 +9016,8 @@ debugging
 dihabiskan
 device
 dapet
+dokumentasi
+dirimu
 VERB
 Verb
 Valentine
@@ -9123,6 +9198,7 @@ VNANN
 VEU
 VAQ
 Vit
+Variasikan
 However
 Hati
 Houston
@@ -9337,6 +9413,7 @@ Hanifah
 Hanafi
 Hafalan
 Helping
+Hindari
 justify
 jika
 jadi
@@ -9531,6 +9608,7 @@ jenazah
 judge
 juz
 journal
+jiwa
 Konsep
 Koleksi
 KKj
@@ -10191,6 +10269,12 @@ konfigurasi
 kadarnya
 keseruannya
 kaku
+karangan
+konteks
+kode
+kejadian
+karakter
+kewalahan
 Note
 November
 Nur
@@ -10633,6 +10717,13 @@ Menjelajahi
 Menghabiskan
 Mendung
 Minecraft
+Menulis
+Monoton
+Mabar
+Mendukung
+Mengizinkan
+Mengulik
+Manfaatkan
 October
 Object
 On
@@ -11106,6 +11197,7 @@ JADWAL
 Jumat
 Jones
 Judul
+Jembatan
 Zk
 ZC
 Zim

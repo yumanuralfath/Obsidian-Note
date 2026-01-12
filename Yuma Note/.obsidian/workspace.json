@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Tips memperbaiki gaya tulisan.md",
-                "mode": "preview",
+                "file": "Daily/2026/January/12.01.26.12.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tips memperbaiki gaya tulisan"
+              "title": "12.01.26.12"
             }
           },
           {
@@ -279,9 +279,10 @@
   },
   "active": "d137597281ff18fb",
   "lastOpenFiles": [
+    "Zettelkasten/Tips memperbaiki gaya tulisan.md",
+    "Daily/2026/January/12.01.26.12.md",
     "Daily/2026/January/11.01.26.11.md",
     "Zettelkasten/Konsep Energi Potensial Permukaan.md",
-    "Zettelkasten/Tips memperbaiki gaya tulisan.md",
     "tags/Tool.md",
     "tags/Book.md",
     "tags/Tips & Trik.md",
@@ -304,7 +305,6 @@
     "Zettelkasten/Exercise Skill 4.md",
     "Zettelkasten/Exercise Skill 2.md",
     "Zettelkasten/Exercise Skill 1.md",
-    "Zettelkasten/Exercise 18.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",
