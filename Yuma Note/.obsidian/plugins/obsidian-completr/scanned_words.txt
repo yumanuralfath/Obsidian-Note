@@ -389,6 +389,10 @@ terbatas
 taburan
 tiba
 terdampak
+tutorial
+terkait
+telur
+tqang
 Longman
 Literature
 LB
@@ -1667,6 +1671,7 @@ PES
 Prinsipnya
 Padahal
 Pilihannya
+Project
 year
 you
 yesterday
@@ -2499,6 +2504,7 @@ cabai
 care
 crate
 checklist
+contohnya
 updated
 utama
 utamanya
@@ -4206,6 +4212,7 @@ izin
 identitas
 indie
 ishoma
+internet
 pronoun
 preposition
 prepositional
@@ -4632,6 +4639,9 @@ puitis
 permainan
 ping
 pengelola
+pengontrak
+pulang
+pilek
 noun
 notice
 no
@@ -4840,6 +4850,7 @@ nyaman
 nikmat
 napas
 naik
+nantikan
 read
 recognize
 rather
@@ -5074,6 +5085,8 @@ rehat
 rilis
 ricing
 rebuild
+reader
+rakitan
 such
 so
 sentence
@@ -5933,6 +5946,8 @@ beras
 besaran
 bermasalah
 banyaknya
+bakso
+beloved
 form
 for
 first
@@ -6191,6 +6206,7 @@ fakta
 fusion
 formatLink
 format
+foto
 his
 he
 has
@@ -7105,6 +7121,7 @@ Energi
 Essay
 Emulator
 Eropa
+Ebook
 questions
 quite
 qr
@@ -7838,6 +7855,8 @@ mengingatkan
 maksimal
 manager
 menghitam
+merakit
+mengakibatkan
 In
 It
 If
@@ -8399,6 +8418,7 @@ lezat
 lantai
 lompat
 lelah
+lemari
 verb
 various
 vociferously
@@ -9255,6 +9275,10 @@ dampaknya
 datar
 distro
 downgrade
+dirakit
+disebabkan
+disibukkan
+diganti
 VERB
 Verb
 Valentine
@@ -9853,6 +9877,7 @@ jalani
 jeruk
 jogging
 jadul
+jendela
 Konsep
 Koleksi
 KKj
@@ -10535,6 +10560,7 @@ kepalamu
 kontennya
 kesayangan
 kasus
+kamar
 Note
 November
 Nur
