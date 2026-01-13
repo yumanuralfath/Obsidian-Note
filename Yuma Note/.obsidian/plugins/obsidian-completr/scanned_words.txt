@@ -6598,6 +6598,7 @@ enak
 emulator
 enggan
 eksis
+ebook
 will
 with
 when
@@ -11331,6 +11332,7 @@ Jumat
 Jones
 Judul
 Jembatan
+Jan
 Zk
 ZC
 Zim
