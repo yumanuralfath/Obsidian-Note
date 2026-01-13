@@ -379,6 +379,16 @@ tertunda
 terang
 terbaru
 tuntas
+tenggelam
+tumpukan
+terkuatmu
+template
+teringat
+tampilannya
+terbatas
+taburan
+tiba
+terdampak
 Longman
 Literature
 LB
@@ -592,6 +602,8 @@ Linking
 Langit
 Lebih
 Linux
+Log
+Lagi
 TOEFL
 Test
 Tom
@@ -823,6 +835,9 @@ Transformasi
 Tambahkan
 Terkadang
 Ternyata
+Terasa
+Tampilkan
+Totoro
 author
 after
 as
@@ -1141,6 +1156,8 @@ alih
 absolut
 atap
 azan
+assisted
+antrean
 Deborah
 Do
 Disini
@@ -1380,6 +1397,7 @@ Dewasa
 Dampaknya
 Developer
 Descent
+Diablo
 Phillips
 Preparation
 Past
@@ -1646,6 +1664,9 @@ Persona
 Proses
 Point
 PES
+Prinsipnya
+Padahal
+Pilihannya
 year
 you
 yesterday
@@ -1994,6 +2015,8 @@ gajah
 garis
 goreng
 gara
+gameplay
+grinding
 Book
 Because
 Be
@@ -2201,6 +2224,7 @@ Bernyawa
 Berikan
 Berhubung
 Begitu
+Bagian
 created
 clause
 comes
@@ -2474,6 +2498,7 @@ celah
 cabai
 care
 crate
+checklist
 updated
 utama
 utamanya
@@ -2852,6 +2877,7 @@ CNa
 CGN
 Cartel
 Chemist
+Cukup
 For
 FF
 February
@@ -3497,6 +3523,7 @@ Sama
 Seiring
 Suara
 Solusinya
+Sedikit
 An
 After
 Answers
@@ -3732,6 +3759,7 @@ Aternos
 Alhasil
 Antar
 Alih
+Anggap
 object
 of
 or
@@ -3939,6 +3967,7 @@ overthinking
 omongan
 org
 optimisasi
+opsi
 is
 in
 it
@@ -4172,6 +4201,9 @@ iteratif
 implementasi
 issue
 ibadah
+izin
+identitas
+indie
 pronoun
 preposition
 prepositional
@@ -4591,6 +4623,13 @@ pekerjaan
 penyewa
 pisang
 peras
+personal
+penyelamat
+pengganti
+puitis
+permainan
+ping
+pengelola
 noun
 notice
 no
@@ -4797,6 +4836,8 @@ netherite
 nasib
 nyaman
 nikmat
+napas
+naik
 read
 recognize
 rather
@@ -5024,6 +5065,13 @@ ritual
 rasakan
 racikan
 return
+refleksi
+refactor
+ruang
+rehat
+rilis
+ricing
+rebuild
 such
 so
 sentence
@@ -5463,6 +5511,12 @@ sempatkan
 segera
 syukur
 sembilan
+sentuhan
+scene
+senjata
+seharian
+servernya
+samping
 by
 behind
 boat
@@ -5867,6 +5921,16 @@ bersih
 berkumandang
 berbuka
 berderu
+bikin
+bervariasi
+bakti
+bersabar
+berhenti
+booting
+beras
+besaran
+bermasalah
+banyaknya
 form
 for
 first
@@ -6392,6 +6456,7 @@ hadiah
 halus
 haus
 hangat
+hasilnya
 exams
 example
 either
@@ -6621,6 +6686,7 @@ emulator
 enggan
 eksis
 ebook
+error
 will
 with
 when
@@ -6842,6 +6908,9 @@ wkwkkw
 worth
 workflow
 workspace
+window
+wallpaper
+wak
 Exams
 Example
 Exercise
@@ -7033,6 +7102,7 @@ Experimental
 Energi
 Essay
 Emulator
+Eropa
 questions
 quite
 qr
@@ -7760,6 +7830,12 @@ menu
 makanan
 mengepel
 menutup
+mengizinkan
+memvalidasi
+mengingatkan
+maksimal
+manager
+menghitam
 In
 It
 If
@@ -8319,6 +8395,8 @@ lima
 lipat
 lezat
 lantai
+lompat
+lelah
 verb
 various
 vociferously
@@ -9170,6 +9248,11 @@ delapan
 desktop
 duduk
 diiringi
+dalamnya
+dampaknya
+datar
+distro
+downgrade
 VERB
 Verb
 Valentine
@@ -9566,6 +9649,7 @@ Hanafi
 Hafalan
 Helping
 Hindari
+Hyprland
 justify
 jika
 jadi
@@ -9765,6 +9849,8 @@ jauh
 jarak
 jalani
 jeruk
+jogging
+jadul
 Konsep
 Koleksi
 KKj
@@ -9975,6 +10061,7 @@ Kumpulan
 Keputusasaan
 Kartesius
 Komputer
+Karangan
 Utama
 Use
 UL
@@ -10442,6 +10529,10 @@ kreasi
 kencur
 kompatibel
 kontrakan
+kepalamu
+kontennya
+kesayangan
+kasus
 Note
 November
 Nur
@@ -10896,6 +10987,9 @@ Materi
 Melalui
 Menemukan
 Memang
+Mainkan
+Memasuki
+MMORPG
 October
 Object
 On

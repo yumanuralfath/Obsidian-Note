@@ -1,9 +1,9 @@
 ---
 title: Tips memperbaiki gaya tulisan
 tags:
-  - Tool
+  - Tips
 created: 2026-01-11T09:55
-updated: 2026-01-12T09:40
+updated: 2026-01-13T10:50
 ---
 
 ## Cara Menulis Daily Log agar Tidak Terasa “Karangan SD”

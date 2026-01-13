@@ -1,7 +1,7 @@
 ---
 title: Home
 created: 2025-10-19T05:51
-updated: 2026-01-12T08:07
+updated: 2026-01-13T10:48
 ---
 # Yuma Nur Alfath's Digital Garden  
 ![[Hero.webp]]
@@ -16,7 +16,7 @@ Got an idea for a subject I should investigate? Reach out thought the social lin
 
 ## Tags 
 Tags Worth Exploring
-- #Book #Chemistry #Daily #Exercise #Grammar #Social #Technology #Tool
+- #Chemistry #Daily #Social #Technology #Tips
 
 
 
