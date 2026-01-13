@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d65851981d32c2fa",
+        "id": "008e205157a45778",
         "type": "tabs",
         "children": [
           {
-            "id": "02ef1b0f3a5d0245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026/January/11.01.26.11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "11.01.26.11"
-            }
-          },
-          {
-            "id": "9f8323c0e044554e",
+            "id": "0cc7ff666baf5d84",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -252,34 +228,34 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "02ef1b0f3a5d0245",
+  "active": "0cc7ff666baf5d84",
   "lastOpenFiles": [
+    "Daily/2026/January/13.01.26.13.md",
     "Daily/2026/January/12.01.26.12.md",
-    "Daily/2026/January/11.01.26.11.md",
-    "tags/Tool.md",
-    "index.md",
-    "Zettelkasten/Outline Computational Chemistry.md",
-    "Zettelkasten/Konsep Energi Potensial Permukaan.md",
-    "Zettelkasten/Tips memperbaiki gaya tulisan.md",
-    "tags/Book.md",
-    "tags/Tips & Trik.md",
-    "Daily/2026/January/10.01.26.10.md",
-    "Daily/2026/January/05.01.26.5.md",
     "Daily/2026/January/06.01.26.6.md",
     "Daily/2026/January/07.01.26.7.md",
     "Daily/2026/January/08.01.26.8.md",
     "Daily/2026/January/09.01.26.9.md",
+    "Daily/2026/January/04.01.26.4.md",
+    "Daily/2026/January/05.01.26.5.md",
+    "Daily/2026/January/11.01.26.11.md",
+    "Zettelkasten/Konsep Energi Potensial Permukaan.md",
+    "Zettelkasten/Tips memperbaiki gaya tulisan.md",
     "Templates/Daily Template.md",
+    "tags/Daily.md",
+    "Daily/2026/January/10.01.26.10.md",
+    "Zettelkasten/Aproksimasi Born-Oppenheimer.md",
+    "tags/Tool.md",
+    "index.md",
+    "Zettelkasten/Outline Computational Chemistry.md",
+    "tags/Book.md",
+    "tags/Tips & Trik.md",
     "Zettelkasten/Use Reduced Adjective Clause Correctly.md",
     "Zettelkasten/Use Reduced Adverb Clauses Correctly.md",
     "Zettelkasten/Verb.md",
     "Zettelkasten/Be Careful of Appositives.md",
     "Zettelkasten/Appositive.md",
     "Zettelkasten/Adverb.md",
-    "Zettelkasten/Adjective.md",
-    "Daily/2025/October/19th - Repeated.md",
-    "Zettelkasten/Exercise Skill 4.md",
-    "Zettelkasten/Exercise Skill 2.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",
