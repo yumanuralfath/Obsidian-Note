@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "13.01.26.13"
             }
+          },
+          {
+            "id": "e569a0f1b1a29b4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026/January/13.01.26.13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "13.01.26.13"
+            }
           }
         ]
       }
@@ -230,16 +254,16 @@
   },
   "active": "0cc7ff666baf5d84",
   "lastOpenFiles": [
-    "Daily/2026/January/11.01.26.11.md",
     "Daily/2026/January/12.01.26.12.md",
     "Daily/2026/January/13.01.26.13.md",
+    "Zettelkasten/Konsep Energi Potensial Permukaan.md",
+    "Daily/2026/January/11.01.26.11.md",
     "Daily/2026/January/06.01.26.6.md",
     "Daily/2026/January/07.01.26.7.md",
     "Daily/2026/January/08.01.26.8.md",
     "Daily/2026/January/09.01.26.9.md",
     "Daily/2026/January/04.01.26.4.md",
     "Daily/2026/January/05.01.26.5.md",
-    "Zettelkasten/Konsep Energi Potensial Permukaan.md",
     "Zettelkasten/Tips memperbaiki gaya tulisan.md",
     "Templates/Daily Template.md",
     "tags/Daily.md",

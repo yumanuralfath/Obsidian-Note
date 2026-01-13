@@ -378,6 +378,7 @@ terpotong
 tertunda
 terang
 terbaru
+tuntas
 Longman
 Literature
 LB
@@ -1139,6 +1140,7 @@ agenda
 alih
 absolut
 atap
+azan
 Deborah
 Do
 Disini
@@ -2197,6 +2199,8 @@ Bridge
 Beranjak
 Bernyawa
 Berikan
+Berhubung
+Begitu
 created
 clause
 comes
@@ -2651,6 +2655,7 @@ undangan
 underestimate
 urusan
 usahakan
+usai
 Course
 Created
 Careful
@@ -4166,6 +4171,7 @@ interaksi
 iteratif
 implementasi
 issue
+ibadah
 pronoun
 preposition
 prepositional
@@ -4581,6 +4587,10 @@ penjelajah
 performance
 pinning
 perintah
+pekerjaan
+penyewa
+pisang
+peras
 noun
 notice
 no
@@ -4786,6 +4796,7 @@ nabi
 netherite
 nasib
 nyaman
+nikmat
 read
 recognize
 rather
@@ -5448,6 +5459,10 @@ sepiring
 subtract
 segar
 sepuluh
+sempatkan
+segera
+syukur
+sembilan
 by
 behind
 boat
@@ -5845,6 +5860,13 @@ berlanjut
 build
 breaking
 beres
+bab
+barang
+barangnya
+bersih
+berkumandang
+berbuka
+berderu
 form
 for
 first
@@ -7732,6 +7754,12 @@ menyempatkan
 mencicil
 mengunci
 melalui
+merangkum
+mengangkut
+menu
+makanan
+mengepel
+menutup
 In
 It
 If
@@ -8286,6 +8314,11 @@ level
 luruh
 link
 lega
+lewars
+lima
+lipat
+lezat
+lantai
 verb
 various
 vociferously
@@ -9135,6 +9168,8 @@ dapur
 doy
 delapan
 desktop
+duduk
+diiringi
 VERB
 Verb
 Valentine
@@ -9729,6 +9764,7 @@ jiwa
 jauh
 jarak
 jalani
+jeruk
 Konsep
 Koleksi
 KKj
@@ -10405,6 +10441,7 @@ kunci
 kreasi
 kencur
 kompatibel
+kontrakan
 Note
 November
 Nur
@@ -10858,6 +10895,7 @@ Manfaatkan
 Materi
 Melalui
 Menemukan
+Memang
 October
 Object
 On
