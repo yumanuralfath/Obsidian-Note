@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/January/20.01.26.20.md",
+                "file": "Daily/2026/January/22.01.26.22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20.01.26.20"
+              "title": "22.01.26.22"
             }
           }
         ]
@@ -230,6 +230,8 @@
   },
   "active": "1ff26533942b5ace",
   "lastOpenFiles": [
+    "Daily/2026/January/21.01.26.21.md",
+    "Daily/2026/January/22.01.26.22.md",
     "Daily/2026/January/20.01.26.20.md",
     "Daily/2026/January/17.01.26.17.md",
     "Daily/2026/January/14.01.26.14.md",
@@ -254,8 +256,6 @@
     "Daily/2026/January/09.01.26.9.md",
     "Daily/2026/January/04.01.26.4.md",
     "Daily/2026/January/05.01.26.5.md",
-    "Templates/Daily Template.md",
-    "tags/Daily.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",
