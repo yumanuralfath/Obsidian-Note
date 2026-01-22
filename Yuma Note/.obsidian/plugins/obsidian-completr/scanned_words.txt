@@ -3531,6 +3531,7 @@ Seiring
 Suara
 Solusinya
 Sedikit
+Sud
 An
 After
 Answers
@@ -10089,6 +10090,7 @@ Keputusasaan
 Kartesius
 Komputer
 Karangan
+Kotlin
 Utama
 Use
 UL
