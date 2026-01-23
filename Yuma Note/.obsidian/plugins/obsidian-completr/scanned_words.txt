@@ -2514,6 +2514,7 @@ checklist
 contohnya
 cetakan
 classes
+ceramah
 updated
 utama
 utamanya
@@ -2895,6 +2896,7 @@ Chemist
 Cukup
 Classes
 Class
+Ceramah
 For
 FF
 February
@@ -5981,6 +5983,7 @@ beloved
 beasiswa
 blueprint
 bertujuan
+berjamaah
 form
 for
 first
@@ -7898,6 +7901,9 @@ mascot
 mewarisi
 merubah
 mendikte
+membahas
+merenung
+meriwayatkan
 In
 It
 If
@@ -10631,6 +10637,7 @@ kembangkan
 kopi
 keyword
 kontrak
+kepadanya
 Note
 November
 Nur
