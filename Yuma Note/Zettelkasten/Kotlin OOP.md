@@ -4,7 +4,7 @@ tags:
   - Technology
   - Tool
 created: 2026-01-23T08:16
-updated: 2026-01-23T10:42
+updated: 2026-01-23T17:22
 ---
 # Kotlin Object Oriented programming
 
@@ -120,6 +120,29 @@ fun main() {
 ```
 
 - ***Abstract Class*** 
+```Kotlin
+//abstract class biasa digunakan sharing untuk kode yang umum antar class 
+abstract class Vehicle {
+  abstract val type: String
+  abstract fun move()
+  fun startEngine() {
+    println("$type engine started")
+  }
+}
+
+class Car(val model: String) : Vehicle() {
+  override val type: String = "Car"
+  override fun move() {
+    println("$model Car is Moving")
+  }
+}
+
+fun main() {
+  val car = Car("Honda")
+  car.startEngine()
+  car.move()
+}
+```
 
 
 

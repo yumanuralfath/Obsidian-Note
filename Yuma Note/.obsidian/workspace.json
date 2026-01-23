@@ -55,7 +55,8 @@
               "title": "Kotlin OOP"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,10 +253,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "1ff26533942b5ace",
+  "active": "933ee02d63f74e08",
   "lastOpenFiles": [
-    "Zettelkasten/Kotlin OOP.md",
     "Daily/2026/January/23.01.26.23.md",
+    "Zettelkasten/Kotlin OOP.md",
     "Zettelkasten/Kotlin.md",
     "Zettelkasten/Android.md",
     "Daily/2026/January/13.01.26.13.md",
