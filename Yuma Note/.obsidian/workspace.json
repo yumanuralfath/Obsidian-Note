@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Kotlin OOP.md",
+                "file": "Daily/2026/January/23.01.26.23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kotlin OOP"
+              "title": "23.01.26.23"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,7 +252,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "933ee02d63f74e08",
+  "active": "1ff26533942b5ace",
   "lastOpenFiles": [
     "Daily/2026/January/23.01.26.23.md",
     "Zettelkasten/Kotlin OOP.md",

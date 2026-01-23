@@ -3785,6 +3785,7 @@ Antar
 Alih
 Anggap
 Absen
+Alhamdulillah
 object
 of
 or
@@ -9338,6 +9339,7 @@ dukungan
 dipaksakan
 dikata
 definisi
+dilaksanakan
 VERB
 Verb
 Valentine
