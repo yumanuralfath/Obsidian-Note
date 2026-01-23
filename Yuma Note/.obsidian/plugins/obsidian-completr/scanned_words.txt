@@ -2230,6 +2230,7 @@ Berikan
 Berhubung
 Begitu
 Bagian
+Batch
 created
 clause
 comes
@@ -3532,6 +3533,7 @@ Suara
 Solusinya
 Sedikit
 Sud
+STEM
 An
 After
 Answers
@@ -3768,6 +3770,7 @@ Alhasil
 Antar
 Alih
 Anggap
+Absen
 object
 of
 or
@@ -4852,6 +4855,8 @@ nikmat
 napas
 naik
 nantikan
+ngulik
+native
 read
 recognize
 rather
@@ -5949,6 +5954,7 @@ bermasalah
 banyaknya
 bakso
 beloved
+beasiswa
 form
 for
 first
@@ -7858,6 +7864,8 @@ manager
 menghitam
 merakit
 mengakibatkan
+mobile
+motivation
 In
 It
 If
@@ -9280,6 +9288,9 @@ dirakit
 disebabkan
 disibukkan
 diganti
+dibuka
+dokumen
+dikabarkan
 VERB
 Verb
 Valentine
@@ -9677,6 +9688,7 @@ Hafalan
 Helping
 Hindari
 Hyprland
+Humaniora
 justify
 jika
 jadi
@@ -10563,6 +10575,9 @@ kontennya
 kesayangan
 kasus
 kamar
+kotlin
+kelengkapan
+kabar
 Note
 November
 Nur

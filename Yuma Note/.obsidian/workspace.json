@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "23.01.26.23"
             }
+          },
+          {
+            "id": "1c563f9c636b3a65",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,10 +239,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "1ff26533942b5ace",
+  "active": "1c563f9c636b3a65",
   "lastOpenFiles": [
-    "Daily/2026/January/13.01.26.13.md",
     "Daily/2026/January/23.01.26.23.md",
+    "Daily/2026/January/13.01.26.13.md",
     "Daily/2026/January/14.01.26.14.md",
     "Daily/2026/January/22.01.26.22.md",
     "Daily/2026/January/17.01.26.17.md",
