@@ -30,19 +30,8 @@
               "icon": "lucide-file",
               "title": "23.01.26.23"
             }
-          },
-          {
-            "id": "1c563f9c636b3a65",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,9 +228,12 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "1c563f9c636b3a65",
+  "active": "1ff26533942b5ace",
   "lastOpenFiles": [
     "Daily/2026/January/23.01.26.23.md",
+    "Zettelkasten/Kotlin OOP.md",
+    "Zettelkasten/Kotlin.md",
+    "Zettelkasten/Android.md",
     "Daily/2026/January/13.01.26.13.md",
     "Daily/2026/January/14.01.26.14.md",
     "Daily/2026/January/22.01.26.22.md",
@@ -264,9 +256,6 @@
     "Daily/2026/January/11.01.26.11.md",
     "Daily/2026/January/06.01.26.6.md",
     "Daily/2026/January/07.01.26.7.md",
-    "Daily/2026/January/08.01.26.8.md",
-    "Daily/2026/January/09.01.26.9.md",
-    "Daily/2026/January/04.01.26.4.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",

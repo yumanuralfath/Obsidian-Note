@@ -393,6 +393,8 @@ tutorial
 terkait
 telur
 tqang
+terkesan
+tiap
 Longman
 Literature
 LB
@@ -1402,6 +1404,8 @@ Dampaknya
 Developer
 Descent
 Diablo
+Dikarenakan
+Development
 Phillips
 Preparation
 Past
@@ -1672,6 +1676,7 @@ Prinsipnya
 Padahal
 Pilihannya
 Project
+Pascal
 year
 you
 yesterday
@@ -2231,6 +2236,7 @@ Berhubung
 Begitu
 Bagian
 Batch
+Beri
 created
 clause
 comes
@@ -2506,6 +2512,7 @@ care
 crate
 checklist
 contohnya
+cetakan
 updated
 utama
 utamanya
@@ -2885,6 +2892,7 @@ CGN
 Cartel
 Chemist
 Cukup
+Classes
 For
 FF
 February
@@ -3041,6 +3049,7 @@ FYU
 FIq
 Fati
 Foundations
+FINAL
 Ringkasan
 Review
 Reach
@@ -3241,6 +3250,7 @@ Research
 Rasanya
 Rumus
 Rahasianya
+Rusia
 Skill
 Sumber
 Source
@@ -3979,6 +3989,7 @@ omongan
 org
 optimisasi
 opsi
+oop
 is
 in
 it
@@ -4217,6 +4228,7 @@ identitas
 indie
 ishoma
 internet
+induk
 pronoun
 preposition
 prepositional
@@ -4646,6 +4658,10 @@ pengelola
 pengontrak
 pulang
 pilek
+pulau
+petersburg
+pendahulunya
+pewarisan
 noun
 notice
 no
@@ -4857,6 +4873,7 @@ naik
 nantikan
 ngulik
 native
+nama
 read
 recognize
 rather
@@ -5538,6 +5555,7 @@ senjata
 seharian
 servernya
 samping
+salam
 by
 behind
 boat
@@ -5955,6 +5973,7 @@ banyaknya
 bakso
 beloved
 beasiswa
+blueprint
 form
 for
 first
@@ -7866,6 +7885,9 @@ merakit
 mengakibatkan
 mobile
 motivation
+mengumumkan
+mascot
+mewarisi
 In
 It
 If
@@ -8094,6 +8116,7 @@ Imam
 Ia
 Isyoma
 Isya
+Inheritance
 look
 later
 lot
@@ -8428,6 +8451,7 @@ lantai
 lompat
 lelah
 lemari
+lahir
 verb
 various
 vociferously
@@ -9291,6 +9315,9 @@ diganti
 dibuka
 dokumen
 dikabarkan
+dukungan
+dipaksakan
+dikata
 VERB
 Verb
 Valentine
@@ -9689,6 +9716,7 @@ Helping
 Hindari
 Hyprland
 Humaniora
+Halo
 justify
 jika
 jadi
@@ -9891,6 +9919,10 @@ jeruk
 jogging
 jadul
 jendela
+juli
+java
+javascript
+jelek
 Konsep
 Koleksi
 KKj
@@ -10103,6 +10135,7 @@ Kartesius
 Komputer
 Karangan
 Kotlin
+Kodee
 Utama
 Use
 UL
@@ -10578,6 +10611,10 @@ kamar
 kotlin
 kelengkapan
 kabar
+kelas
+kembangkan
+kopi
+keyword
 Note
 November
 Nur
@@ -11035,6 +11072,8 @@ Memang
 Mainkan
 Memasuki
 MMORPG
+Mobile
+Merupakan
 October
 Object
 On
@@ -11187,6 +11226,10 @@ OXgimohdv
 OHX
 OIzj
 Outline
+OOP
+Oriented
+Objects
+Open
 With
 Waktu
 We
@@ -11510,6 +11553,9 @@ Jones
 Judul
 Jembatan
 Jan
+JVM
+Java
+Jawa
 Zk
 ZC
 Zim
