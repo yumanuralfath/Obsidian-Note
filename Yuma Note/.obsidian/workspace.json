@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d4b4a20beb64cd2",
+        "id": "bfce027ac375dd27",
         "type": "tabs",
         "children": [
           {
-            "id": "1ff26533942b5ace",
+            "id": "a9f178bc3d6a9050",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "933ee02d63f74e08",
+            "id": "99e5403b80536fce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/January/23.01.26.23.md",
+                "file": "Zettelkasten/Kotlin OOP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "23.01.26.23"
+              "title": "Kotlin OOP"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "327b68fff47bb138",
@@ -236,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 424.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,11 +255,13 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "1ff26533942b5ace",
+  "active": "99e5403b80536fce",
   "lastOpenFiles": [
-    "Daily/2026/January/23.01.26.23.md",
     "Daily/2026/January/24.01.26.24.md",
+    "Templates/Daily Template.md",
+    "tags/Daily.md",
     "Zettelkasten/Kotlin OOP.md",
+    "Daily/2026/January/23.01.26.23.md",
     "Zettelkasten/Kotlin.md",
     "Zettelkasten/Android.md",
     "Daily/2026/January/13.01.26.13.md",
@@ -278,8 +283,6 @@
     "tags/Grammar.md",
     "Daily/2026/January/12.01.26.12.md",
     "Zettelkasten/Konsep Energi Potensial Permukaan.md",
-    "Daily/2026/January/11.01.26.11.md",
-    "Daily/2026/January/06.01.26.6.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",

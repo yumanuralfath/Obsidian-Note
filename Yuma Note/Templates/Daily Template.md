@@ -16,16 +16,7 @@ tags:
 
 # 📝 Note
 
-## Morning ⛅
-
-
-## Noon 🔅
-
-
-## Afternoon 🏙️
-
-
-## Night 🌃
+- 
 
 
 

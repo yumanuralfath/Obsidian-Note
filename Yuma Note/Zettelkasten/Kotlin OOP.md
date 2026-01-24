@@ -4,7 +4,7 @@ tags:
   - Technology
   - Tool
 created: 2026-01-23T08:16
-updated: 2026-01-23T17:22
+updated: 2026-01-24T07:32
 ---
 # Kotlin Object Oriented programming
 
@@ -65,7 +65,7 @@ fun main() {
 ```
 
 - misal ingin *override method*  dimana ingin merubah suatu fungsi dari induk class:
-```Kotlin
+```kotlin
 class Dog: Animal() {
 	override fun eat(){
 		println("$name Sedang Makan dengan lahapnya")
@@ -87,7 +87,7 @@ fun main() {
 - Interface dapat lebih dari satu di satu class.
 - Interface di android development biasa dipakai untuk event listeners, seperti OnClickListener atau definisi dari repository data untuk memberi standar dari class tanpa mendikte implementasi-nya bagaimana.
 
-```Kotlin
+```kotlin
 //buat kontrak dan class wajib ngikutin rule ini
 interface Drivable {
 	val maxSpeed: Int 
@@ -120,7 +120,7 @@ fun main() {
 ```
 
 - ***Abstract Class*** 
-```Kotlin
+```kotlin
 //abstract class biasa digunakan sharing untuk kode yang umum antar class 
 abstract class Vehicle {
   abstract val type: String
@@ -144,6 +144,33 @@ fun main() {
 }
 ```
 
+- abstract kelas tidak bisa dibuat langsung object nya seperti <mark style="background: #FF5582A6;">val vehicle = Vehicle()</mark> ❌
+- interface baik digunakan hanya untuk murni kontrak ter-khusus ketika dibutuhkan multiple inheritance.
+- abstract class ditujukan untuk scenario oleh shared state atau partial implementation
+
+- Contoh penggabungan keduanya:
+
+```kotlin
+interface Loggable {
+	fun log()
+}
+
+abstract class Machine {
+	abstract fun operate()  //fungsi atau value yang wajib di turunkan harus ada 
+							// keyword abstract
+}
+
+//class turunan 
+class Robot: Machine(), Loggable {
+	override fun operate(){
+		
+	}
+}
+
+
+
+
+```
 
 
 
