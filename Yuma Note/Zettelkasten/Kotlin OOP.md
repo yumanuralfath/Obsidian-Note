@@ -4,7 +4,7 @@ tags:
   - Technology
   - Tool
 created: 2026-01-23T08:16
-updated: 2026-01-24T07:32
+updated: 2026-01-24T09:56
 ---
 # Kotlin Object Oriented programming
 
@@ -163,14 +163,64 @@ abstract class Machine {
 //class turunan 
 class Robot: Machine(), Loggable {
 	override fun operate(){
-		
+		println("Robot operating")		
+	}
+	override fun log() {
+		println("Robot log")
 	}
 }
 
-
-
-
+fun main(){
+	val robot = Robot()
+	robot.operate()
+	robot.log
+}
 ```
+
+## Null Safety and Smart casts
+
+- Berbeda dengan java kotlin ada fitur *Null Safety*
+- Di kotlin secara default variable *non-nullable*
+```kotlin
+var name: String = "Alice" //tidak bisa di assigned null
+```
+untuk memperbolehkan *null* harus di handle agar tidak crash saat runtime:
+```kotlin
+val length = name?.length
+```
+- safe call operator "?" ini menghasilkan null jika memang return nya null sehingga tidak menyebabkan crash
+- bisa di buat *function scope* juga:
+```kotlin
+name?.let {
+	println("Name Length: ${it.length}")
+}
+```
+
+- Smart cast juga fitur yang bagus di kotlin tidak perlu manual casting type
+- kedua fitur merupakan critical di android jika berurusan dengan unpredictable data source , misal fetch user data lebih safe dan juga smart cast untuk *age*:
+```kotlin
+data class User(val name: String? , val age: Int)
+val user: User? = getUserFromApi()
+val displayName = user?.name?: "Unkown"
+user?.let{
+	if (it.age > 18) {
+		println("Adult: $displayName")
+	}
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

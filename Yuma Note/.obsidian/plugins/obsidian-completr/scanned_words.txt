@@ -1164,6 +1164,7 @@ atap
 azan
 assisted
 antrean
+abstract
 Deborah
 Do
 Disini
@@ -4236,6 +4237,9 @@ indie
 ishoma
 internet
 induk
+interface
+inheritance
+implementation
 pronoun
 preposition
 prepositional
@@ -4670,6 +4674,8 @@ petersburg
 pendahulunya
 pewarisan
 properties
+partial
+penggabungan
 noun
 notice
 no
@@ -5566,6 +5572,9 @@ servernya
 samping
 salam
 standar
+scenario
+shared
+state
 by
 behind
 boat
@@ -7908,6 +7917,7 @@ membahas
 merenung
 meriwayatkan
 memalukan
+multiple
 In
 It
 If
@@ -8644,6 +8654,8 @@ variasi
 virtual
 validasi
 versi
+val
+vehicle
 You
 Yuma
 YO
@@ -9343,6 +9355,7 @@ dipaksakan
 dikata
 definisi
 dilaksanakan
+ditujukan
 VERB
 Verb
 Valentine
@@ -9524,6 +9537,7 @@ VEU
 VAQ
 Vit
 Variasikan
+Vehicle
 However
 Hati
 Houston
