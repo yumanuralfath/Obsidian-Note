@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "327b68fff47bb138",
@@ -213,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5,
-    "collapsed": true
+    "width": 424.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,8 +230,8 @@
   },
   "active": "99e5403b80536fce",
   "lastOpenFiles": [
-    "Zettelkasten/Kotlin OOP.md",
     "Daily/2026/January/24.01.26.24.md",
+    "Zettelkasten/Kotlin OOP.md",
     "Templates/Daily Template.md",
     "tags/Daily.md",
     "Daily/2026/January/23.01.26.23.md",

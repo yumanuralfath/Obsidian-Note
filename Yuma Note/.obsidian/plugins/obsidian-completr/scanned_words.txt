@@ -3788,6 +3788,7 @@ Alih
 Anggap
 Absen
 Alhamdulillah
+Azab
 object
 of
 or
@@ -5575,6 +5576,7 @@ standar
 scenario
 shared
 state
+supra
 by
 behind
 boat
@@ -7918,6 +7920,7 @@ merenung
 meriwayatkan
 memalukan
 multiple
+motor
 In
 It
 If
@@ -9356,6 +9359,7 @@ dikata
 definisi
 dilaksanakan
 ditujukan
+dzuhur
 VERB
 Verb
 Valentine
