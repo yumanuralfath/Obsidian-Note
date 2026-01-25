@@ -1165,6 +1165,7 @@ azan
 assisted
 antrean
 abstract
+asyikan
 Deborah
 Do
 Disini
@@ -4241,6 +4242,7 @@ induk
 interface
 inheritance
 implementation
+isya
 pronoun
 preposition
 prepositional
@@ -5577,6 +5579,7 @@ scenario
 shared
 state
 supra
+sial
 by
 behind
 boat
@@ -5997,6 +6000,10 @@ beasiswa
 blueprint
 bertujuan
 berjamaah
+ban
+bocor
+berlari
+berjarak
 form
 for
 first
@@ -6756,6 +6763,7 @@ ebook
 error
 event
 esai
+elak
 will
 with
 when
@@ -7921,6 +7929,7 @@ meriwayatkan
 memalukan
 multiple
 motor
+mainan
 In
 It
 If
@@ -8152,6 +8161,7 @@ Isya
 Inheritance
 Interfaces
 Interface
+Insyaallah
 look
 later
 lot
@@ -8488,6 +8498,7 @@ lelah
 lemari
 lahir
 listeners
+laksanakan
 verb
 various
 vociferously
@@ -10661,6 +10672,7 @@ kopi
 keyword
 kontrak
 kepadanya
+karenakan
 Note
 November
 Nur
