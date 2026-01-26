@@ -395,6 +395,8 @@ telur
 tqang
 terkesan
 tiap
+tubuh
+temperamental
 Longman
 Literature
 LB
@@ -844,6 +846,7 @@ Ternyata
 Terasa
 Tampilkan
 Totoro
+Think
 author
 after
 as
@@ -1166,6 +1169,8 @@ assisted
 antrean
 abstract
 asyikan
+alfred
+asuh
 Deborah
 Do
 Disini
@@ -1679,6 +1684,7 @@ Padahal
 Pilihannya
 Project
 Pascal
+Potential
 year
 you
 yesterday
@@ -2029,6 +2035,7 @@ goreng
 gara
 gameplay
 grinding
+growth
 Book
 Because
 Be
@@ -2899,6 +2906,7 @@ Cukup
 Classes
 Class
 Ceramah
+Changing
 For
 FF
 February
@@ -3056,6 +3064,8 @@ FIq
 Fati
 Foundations
 FINAL
+Focus
+Fulfil
 Ringkasan
 Review
 Reach
@@ -3257,6 +3267,7 @@ Rasanya
 Rumus
 Rahasianya
 Rusia
+Riset
 Skill
 Sumber
 Source
@@ -4243,6 +4254,7 @@ interface
 inheritance
 implementation
 isya
+inilah
 pronoun
 preposition
 prepositional
@@ -4679,6 +4691,15 @@ pewarisan
 properties
 partial
 penggabungan
+piring
+putih
+postur
+paris
+profitable
+percaya
+penilaian
+pesimisme
+pintar
 noun
 notice
 no
@@ -4891,6 +4912,7 @@ nantikan
 ngulik
 native
 nama
+nasi
 read
 recognize
 rather
@@ -5580,6 +5602,8 @@ shared
 state
 supra
 sial
+sekolah
+selamanya
 by
 behind
 boat
@@ -6004,6 +6028,11 @@ ban
 bocor
 berlari
 berjarak
+berpendapat
+binet
+brutal
+berkembang
+bangkit
 form
 for
 first
@@ -6263,6 +6292,7 @@ fusion
 formatLink
 format
 foto
+filsuf
 his
 he
 has
@@ -6531,6 +6561,7 @@ halus
 haus
 hangat
 hasilnya
+helai
 exams
 example
 either
@@ -7181,6 +7212,7 @@ Essay
 Emulator
 Eropa
 Ebook
+Edition
 questions
 quite
 qr
@@ -7930,6 +7962,10 @@ memalukan
 multiple
 motor
 mainan
+menyantap
+modern
+mindset
+melabeli
 In
 It
 If
@@ -8162,6 +8198,7 @@ Inheritance
 Interfaces
 Interface
 Insyaallah
+Inside
 look
 later
 lot
@@ -8499,6 +8536,8 @@ lemari
 lahir
 listeners
 laksanakan
+lingkungan
+latihan
 verb
 various
 vociferously
@@ -8848,6 +8887,7 @@ YZF
 YcaeO
 Yyiq
 YSK
+Your
 George
 Garden
 Got
@@ -9009,6 +9049,7 @@ Ganti
 Gradient
 Gara
 GitHub
+Growth
 does
 div
 dalam
@@ -9371,6 +9412,12 @@ definisi
 dilaksanakan
 ditujukan
 dzuhur
+dipilih
+dirubah
+dilatih
+ditentang
+diukur
+diawal
 VERB
 Verb
 Valentine
@@ -10357,6 +10404,7 @@ UEYR
 Update
 USB
 Usai
+Updated
 kalimat
 karena
 kata
@@ -10673,6 +10721,9 @@ keyword
 kontrak
 kepadanya
 karenakan
+kelebihannya
+kecerdasan
+kenyataannya
 Note
 November
 Nur
@@ -11132,6 +11183,8 @@ Memasuki
 MMORPG
 Mobile
 Merupakan
+Mindset
+Mindsets
 October
 Object
 On
@@ -11450,6 +11503,7 @@ WFJK
 Weg
 Work
 WKKWWK
+Way
 Jika
 Jf
 Jl
