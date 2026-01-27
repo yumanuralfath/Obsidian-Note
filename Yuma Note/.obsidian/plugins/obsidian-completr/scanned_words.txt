@@ -397,6 +397,7 @@ terkesan
 tiap
 tubuh
 temperamental
+temukan
 Longman
 Literature
 LB
@@ -847,6 +848,7 @@ Terasa
 Tampilkan
 Totoro
 Think
+TIBIA
 author
 after
 as
@@ -1171,6 +1173,7 @@ abstract
 asyikan
 alfred
 asuh
+aja
 Deborah
 Do
 Disini
@@ -1413,6 +1416,7 @@ Descent
 Diablo
 Dikarenakan
 Development
+Dreadmyst
 Phillips
 Preparation
 Past
@@ -2036,6 +2040,8 @@ gara
 gameplay
 grinding
 growth
+gamenya
+greget
 Book
 Because
 Be
@@ -2246,6 +2252,8 @@ Begitu
 Bagian
 Batch
 Beri
+Beda
+Bahkan
 created
 clause
 comes
@@ -2524,6 +2532,9 @@ contohnya
 cetakan
 classes
 ceramah
+ceritanya
+chat
+cutscene
 updated
 utama
 utamanya
@@ -3268,6 +3279,7 @@ Rumus
 Rahasianya
 Rusia
 Riset
+RuneScape
 Skill
 Sumber
 Source
@@ -3562,6 +3574,7 @@ Sedikit
 Sud
 STEM
 Selesaikan
+School
 An
 After
 Answers
@@ -3801,6 +3814,8 @@ Anggap
 Absen
 Alhamdulillah
 Azab
+APOGEA
+Akhirnya
 object
 of
 or
@@ -4011,6 +4026,7 @@ optimisasi
 opsi
 oop
 override
+open
 is
 in
 it
@@ -4255,6 +4271,7 @@ inheritance
 implementation
 isya
 inilah
+iya
 pronoun
 preposition
 prepositional
@@ -4700,6 +4717,7 @@ percaya
 penilaian
 pesimisme
 pintar
+playtest
 noun
 notice
 no
@@ -4913,6 +4931,7 @@ ngulik
 native
 nama
 nasi
+nostalgia
 read
 recognize
 rather
@@ -5604,6 +5623,12 @@ supra
 sial
 sekolah
 selamanya
+sekian
+source
+sementara
+skip
+sih
+suka
 by
 behind
 boat
@@ -6562,6 +6587,7 @@ haus
 hangat
 hasilnya
 helai
+hampa
 exams
 example
 either
@@ -7366,6 +7392,7 @@ qFSK
 qww
 quotes
 qunut
+quest
 mistaken
 my
 man
@@ -7966,6 +7993,9 @@ menyantap
 modern
 mindset
 melabeli
+mainkan
+mengetik
+merespons
 In
 It
 If
@@ -8538,6 +8568,7 @@ listeners
 laksanakan
 lingkungan
 latihan
+letih
 verb
 various
 vociferously
@@ -8709,6 +8740,7 @@ validasi
 versi
 val
 vehicle
+vibes
 You
 Yuma
 YO
@@ -9050,6 +9082,7 @@ Gradient
 Gara
 GitHub
 Growth
+Grafisnya
 does
 div
 dalam
@@ -9418,6 +9451,11 @@ dilatih
 ditentang
 diukur
 diawal
+dreadmyst
+developer
+dibangun
+dialog
+dunianya
 VERB
 Verb
 Valentine
@@ -9818,6 +9856,7 @@ Hindari
 Hyprland
 Humaniora
 Halo
+Hehehe
 justify
 jika
 jadi
@@ -10238,6 +10277,7 @@ Komputer
 Karangan
 Kotlin
 Kodee
+Keduanya
 Utama
 Use
 UL
@@ -10405,6 +10445,7 @@ Update
 USB
 Usai
 Updated
+UPDATE
 kalimat
 karena
 kata
@@ -10724,6 +10765,11 @@ karenakan
 kelebihannya
 kecerdasan
 kenyataannya
+keasyikan
+kebawa
+keren
+kodenya
+klik
 Note
 November
 Nur
@@ -10903,6 +10949,9 @@ Night
 Nabi
 Nether
 Namun
+Nuansanya
+NPC
+Nggak
 Monday
 Museum
 My
@@ -11342,6 +11391,7 @@ Oriented
 Objects
 Open
 OnClickListener
+Old
 With
 Waktu
 We
@@ -11504,6 +11554,7 @@ Weg
 Work
 WKKWWK
 Way
+Walaupun
 Jika
 Jf
 Jl
