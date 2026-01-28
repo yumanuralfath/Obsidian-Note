@@ -3575,6 +3575,8 @@ Sud
 STEM
 Selesaikan
 School
+Siap
+Sembari
 An
 After
 Answers
@@ -4718,6 +4720,7 @@ penilaian
 pesimisme
 pintar
 playtest
+pepaya
 noun
 notice
 no
@@ -5629,6 +5632,8 @@ sementara
 skip
 sih
 suka
+secangkir
+santan
 by
 behind
 boat
@@ -7996,6 +8001,7 @@ melabeli
 mainkan
 mengetik
 merespons
+menikmati
 In
 It
 If
@@ -11720,6 +11726,7 @@ Jan
 JVM
 Java
 Jawa
+Jurnal
 Zk
 ZC
 Zim
