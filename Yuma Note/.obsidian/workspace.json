@@ -30,19 +30,8 @@
               "icon": "lucide-file",
               "title": "28.01.26.28"
             }
-          },
-          {
-            "id": "c20e1ff4a5a66bb8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,8 +228,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "c20e1ff4a5a66bb8",
+  "active": "f777ed6b82628732",
   "lastOpenFiles": [
+    "Zettelkasten/LPDP.md",
+    "tags/Random.md",
     "Daily/2026/January/28.01.26.28.md",
     "Daily/2026/January/27.01.26.27.md",
     "Daily/2026/January/26.01.26.26.md",
@@ -265,8 +256,6 @@
     "tags/Book.md",
     "Daily/2026/January/24.01.26.24.md",
     "Zettelkasten/Kotlin OOP.md",
-    "Templates/Daily Template.md",
-    "tags/Daily.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",
