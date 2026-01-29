@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bfce027ac375dd27",
+        "id": "2a08d6deaa0dc3fd",
         "type": "tabs",
         "children": [
           {
-            "id": "f777ed6b82628732",
+            "id": "926b9d7932e5b853",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,43 @@
               "icon": "lucide-file",
               "title": "30.01.26.30"
             }
+          },
+          {
+            "id": "ea9a4182135594f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C"
+            }
+          },
+          {
+            "id": "5c2e67f5dc933853",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "327b68fff47bb138",
@@ -137,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2026/January/23.01.26.23.md",
+                "file": "Zettelkasten/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 23.01.26.23"
+              "title": "Backlinks for C"
             }
           },
           {
@@ -188,6 +224,16 @@
               "icon": "lucide-list",
               "title": "Outline of 28.01.26.28"
             }
+          },
+          {
+            "id": "fbc07a1cd3503563",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
           }
         ],
         "currentTab": 2
@@ -212,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 424.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,13 +275,19 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "f777ed6b82628732",
+  "active": "ea9a4182135594f6",
   "lastOpenFiles": [
     "Daily/2026/January/30.01.26.30.md",
+    "Zettelkasten/C.md",
     "Daily/2026/January/28.01.26.28.md",
+    "Daily/2026/January/29.01.26.29.md",
+    "Daily/2025/December/Dec 11, 2025.md",
+    "Zettelkasten/Hexadecimal.md",
+    "Daily/2026/January/03.01.26.3.md",
+    "Daily/2026/January/27.01.26.27.md",
+    "Zettelkasten/28.01.26.29.md",
     "Zettelkasten/LPDP.md",
     "tags/Random.md",
-    "Daily/2026/January/27.01.26.27.md",
     "Daily/2026/January/26.01.26.26.md",
     "Daily/2026/January/13.01.26.13.md",
     "Daily/2026/January/14.01.26.14.md",
@@ -243,7 +296,6 @@
     "Daily/2026/January/15.01.26.15.md",
     "Daily/2026/January/12.01.26.12.md",
     "Daily/2026/January/02.01.26.2.md",
-    "Daily/2026/January/03.01.26.3.md",
     "Daily/2026/January/04.01.26.4.md",
     "Daily/2026/January/05.01.26.5.md",
     "Daily/2026/January/06.01.26.6.md",
@@ -251,11 +303,6 @@
     "Daily/2026/January/08.01.26.8.md",
     "Daily/2026/January/09.01.26.9.md",
     "Daily/2026/January/10.01.26.10.md",
-    "Daily/2026/January/11.01.26.11.md",
-    "Daily/2026/January/25.01.26.25.md",
-    "Zettelkasten/Mindset - Updated Edition Changing The Way You Think To Fulfil Your Potential.md",
-    "tags/Book.md",
-    "Daily/2026/January/24.01.26.24.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",

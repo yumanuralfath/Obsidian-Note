@@ -398,6 +398,8 @@ tiap
 tubuh
 temperamental
 temukan
+terhalang
+tua
 Longman
 Literature
 LB
@@ -1174,6 +1176,7 @@ asyikan
 alfred
 asuh
 aja
+adzan
 Deborah
 Do
 Disini
@@ -1417,6 +1420,7 @@ Diablo
 Dikarenakan
 Development
 Dreadmyst
+Dennis
 Phillips
 Preparation
 Past
@@ -1689,6 +1693,7 @@ Pilihannya
 Project
 Pascal
 Potential
+Penulisan
 year
 you
 yesterday
@@ -2042,6 +2047,7 @@ grinding
 growth
 gamenya
 greget
+garbage
 Book
 Because
 Be
@@ -2254,6 +2260,9 @@ Batch
 Beri
 Beda
 Bahkan
+Berkutat
+Brainstorming
+Biner
 created
 clause
 comes
@@ -2535,6 +2544,8 @@ ceramah
 ceritanya
 chat
 cutscene
+checker
+collector
 updated
 utama
 utamanya
@@ -3280,6 +3291,7 @@ Rahasianya
 Rusia
 Riset
 RuneScape
+Ritchie
 Skill
 Sumber
 Source
@@ -3818,6 +3830,8 @@ Alhamdulillah
 Azab
 APOGEA
 Akhirnya
+Aamiin
+Awalnya
 object
 of
 or
@@ -4029,6 +4043,7 @@ opsi
 oop
 override
 open
+ownership
 is
 in
 it
@@ -4721,6 +4736,11 @@ pesimisme
 pintar
 playtest
 pepaya
+pemasangan
+psychology
+pemrograman
+purpose
+paradigm
 noun
 notice
 no
@@ -5634,6 +5654,7 @@ sih
 suka
 secangkir
 santan
+supaya
 by
 behind
 boat
@@ -6063,6 +6084,10 @@ binet
 brutal
 berkembang
 bangkit
+brainstorming
+berbasis
+bit
+borrow
 form
 for
 first
@@ -6593,6 +6618,9 @@ hangat
 hasilnya
 helai
 hampa
+hexadecimal
+hex
+handling
 exams
 example
 either
@@ -6826,6 +6854,7 @@ error
 event
 esai
 elak
+essai
 will
 with
 when
@@ -8003,6 +8032,14 @@ mainkan
 mengetik
 merespons
 menikmati
+mengetahui
+mendalam
+menjauh
+mengembangkan
+mesin
+manusiawi
+memory
+memori
 In
 It
 If
@@ -8576,6 +8613,7 @@ laksanakan
 lingkungan
 latihan
 letih
+lembab
 verb
 various
 vociferously
@@ -8748,6 +8786,7 @@ versi
 val
 vehicle
 vibes
+versa
 You
 Yuma
 YO
@@ -9463,6 +9502,12 @@ developer
 dibangun
 dialog
 dunianya
+dinding
+dipandang
+deadline
+dasarnya
+digitnya
+digit
 VERB
 Verb
 Valentine
@@ -9645,6 +9690,7 @@ VAQ
 Vit
 Variasikan
 Vehicle
+Vice
 However
 Hati
 Houston
@@ -9864,6 +9910,9 @@ Hyprland
 Humaniora
 Halo
 Hehehe
+Hexadecimal
+Hex
+HEX
 justify
 jika
 jadi
@@ -10285,6 +10334,7 @@ Karangan
 Kotlin
 Kodee
 Keduanya
+Kabarkan
 Utama
 Use
 UL
@@ -10453,6 +10503,7 @@ USB
 Usai
 Updated
 UPDATE
+Umum
 kalimat
 karena
 kata
@@ -10777,6 +10828,8 @@ kebawa
 keren
 kodenya
 klik
+kewajiban
+komunitas
 Note
 November
 Nur
@@ -11241,6 +11294,7 @@ Mobile
 Merupakan
 Mindset
 Mindsets
+Menutup
 October
 Object
 On
@@ -12192,6 +12246,7 @@ xji
 xhH
 xWS
 xUg
+xFF
 Xl
 Xd
 Xc
