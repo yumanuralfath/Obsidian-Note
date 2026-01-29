@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/January/28.01.26.28.md",
+                "file": "Daily/2026/January/30.01.26.30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "28.01.26.28"
+              "title": "30.01.26.30"
             }
           }
         ]
@@ -230,9 +230,10 @@
   },
   "active": "f777ed6b82628732",
   "lastOpenFiles": [
+    "Daily/2026/January/30.01.26.30.md",
+    "Daily/2026/January/28.01.26.28.md",
     "Zettelkasten/LPDP.md",
     "tags/Random.md",
-    "Daily/2026/January/28.01.26.28.md",
     "Daily/2026/January/27.01.26.27.md",
     "Daily/2026/January/26.01.26.26.md",
     "Daily/2026/January/13.01.26.13.md",
@@ -255,7 +256,6 @@
     "Zettelkasten/Mindset - Updated Edition Changing The Way You Think To Fulfil Your Potential.md",
     "tags/Book.md",
     "Daily/2026/January/24.01.26.24.md",
-    "Zettelkasten/Kotlin OOP.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",
