@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "ea9a4182135594f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026/January/30.01.26.30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "30.01.26.30"
-            }
-          },
-          {
             "id": "5c2e67f5dc933853",
             "type": "leaf",
             "state": {
@@ -65,8 +41,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,7 +250,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "ea9a4182135594f6",
+  "active": "926b9d7932e5b853",
   "lastOpenFiles": [
     "Daily/2026/January/30.01.26.30.md",
     "Zettelkasten/C.md",
