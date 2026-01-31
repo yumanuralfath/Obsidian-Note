@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/January/30.01.26.30.md",
+                "file": "Daily/2026/January/31.01.26.31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "30.01.26.30"
+              "title": "31.01.26.31"
             }
           },
           {
@@ -233,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5,
-    "collapsed": true
+    "width": 424.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,6 +251,7 @@
   },
   "active": "926b9d7932e5b853",
   "lastOpenFiles": [
+    "Daily/2026/January/31.01.26.31.md",
     "Daily/2026/January/30.01.26.30.md",
     "Zettelkasten/C.md",
     "Untitled.canvas",

@@ -4741,6 +4741,7 @@ psychology
 pemrograman
 purpose
 paradigm
+pengabaran
 noun
 notice
 no
@@ -6088,6 +6089,7 @@ brainstorming
 berbasis
 bit
 borrow
+berencana
 form
 for
 first
@@ -9508,6 +9510,8 @@ deadline
 dasarnya
 digitnya
 digit
+diundur
+dirumah
 VERB
 Verb
 Valentine
@@ -11295,6 +11299,7 @@ Merupakan
 Mindset
 Mindsets
 Menutup
+Mengenai
 October
 Object
 On
