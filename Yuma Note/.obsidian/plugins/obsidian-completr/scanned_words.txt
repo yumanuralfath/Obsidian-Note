@@ -1177,6 +1177,7 @@ alfred
 asuh
 aja
 adzan
+alamat
 Deborah
 Do
 Disini
@@ -1694,6 +1695,8 @@ Project
 Pascal
 Potential
 Penulisan
+Pointer
+Pass
 year
 you
 yesterday
@@ -3292,6 +3295,7 @@ Rusia
 Riset
 RuneScape
 Ritchie
+Reference
 Skill
 Sumber
 Source
@@ -5193,6 +5197,7 @@ rebuild
 reader
 rakitan
 repository
+refer
 such
 so
 sentence
@@ -6857,6 +6862,7 @@ event
 esai
 elak
 essai
+eksplisit
 will
 with
 when
@@ -8042,6 +8048,7 @@ mesin
 manusiawi
 memory
 memori
+mengirim
 In
 It
 If
@@ -8789,6 +8796,7 @@ val
 vehicle
 vibes
 versa
+value
 You
 Yuma
 YO
@@ -11300,6 +11308,7 @@ Mindset
 Mindsets
 Menutup
 Mengenai
+Menggunakan
 October
 Object
 On

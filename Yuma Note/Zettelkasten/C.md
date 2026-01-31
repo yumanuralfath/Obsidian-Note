@@ -3,7 +3,7 @@ title: C
 tags:
   - Technology
 created: 2026-01-30T05:43
-updated: 2026-01-30T06:22
+updated: 2026-01-31T16:28
 ---
 ![](https://www.codewithc.com/wp-content/uploads/2014/04/writing-a-c-program.png)
 
@@ -13,7 +13,6 @@ updated: 2026-01-30T06:22
 - C bahasa yang dikatakan sangat sederhana dan biasanya bahasa lain ada fungsi untuk dapat memakai C selain karena C bahasa yang cukup tua namun masih sangat luas digunakan.
 - Karena C yang sangat dekat dengan mesin dan yang paling manusiawi dibandingkan [[Assembly language]] 😅 . sepertinya belajar C sangat *worth it* karena bahasa modern sekarang umumnya merupakan hasil pengembangan dan merupakan solusi dari bahasa C, sehingga belajar C tau kenapa bahasa lain ada.
 - Sebagai contoh [[Rust]] yang memiliki fitur *ownership dan borrow checker* merupakan solusi dari *memory handling manual* di C yang menyebabkan berbagai error akibat handle memori secara manual, dan tidak menggunakan *garbage collector* sehingga Rust tetap cepat seperti C, kedepannya akan mencoba untuk belajar kembali rust setelah paham C.
-- 
 
 
 ---

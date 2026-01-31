@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "926b9d7932e5b853",
+            "id": "5c2e67f5dc933853",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/January/31.01.26.31.md",
+                "file": "Zettelkasten/C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "31.01.26.31"
+              "title": "C"
             }
           },
           {
-            "id": "5c2e67f5dc933853",
+            "id": "f059cfae23a589f4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -41,7 +41,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 424.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,11 +251,14 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "926b9d7932e5b853",
+  "active": "f059cfae23a589f4",
   "lastOpenFiles": [
+    "Zettelkasten/C.md",
+    "Zettelkasten/Pass By Value.md",
+    "Zettelkasten/Pointer.md",
+    "Zettelkasten/Pass By Reference.md",
     "Daily/2026/January/31.01.26.31.md",
     "Daily/2026/January/30.01.26.30.md",
-    "Zettelkasten/C.md",
     "Untitled.canvas",
     "Daily/2026/January/28.01.26.28.md",
     "Daily/2026/January/29.01.26.29.md",
@@ -275,9 +280,6 @@
     "Daily/2026/January/04.01.26.4.md",
     "Daily/2026/January/05.01.26.5.md",
     "Daily/2026/January/06.01.26.6.md",
-    "Daily/2026/January/07.01.26.7.md",
-    "Daily/2026/January/08.01.26.8.md",
-    "Daily/2026/January/09.01.26.9.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",
