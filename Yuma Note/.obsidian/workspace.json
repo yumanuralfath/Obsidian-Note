@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c2e67f5dc933853",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "C"
-            }
-          },
-          {
             "id": "8147bdd90d38deaa",
             "type": "leaf",
             "state": {
@@ -55,8 +31,7 @@
               "title": "05.02.26.36"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,9 +242,9 @@
   },
   "active": "8147bdd90d38deaa",
   "lastOpenFiles": [
+    "Zettelkasten/C.md",
     "Daily/2026/February/05.02.26.36.md",
     "Daily/2026/February",
-    "Zettelkasten/C.md",
     "Zettelkasten/Pass By Value.md",
     "Zettelkasten/Pointer.md",
     "Zettelkasten/Pass By Reference.md",

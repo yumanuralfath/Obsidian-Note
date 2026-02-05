@@ -3091,6 +3091,7 @@ Foundations
 FINAL
 Focus
 Fulfil
+Feb
 Ringkasan
 Review
 Reach
@@ -4048,6 +4049,7 @@ oop
 override
 open
 ownership
+oke
 is
 in
 it
@@ -4293,6 +4295,7 @@ implementation
 isya
 inilah
 iya
+ikuti
 pronoun
 preposition
 prepositional
@@ -4746,6 +4749,7 @@ pemrograman
 purpose
 paradigm
 pengabaran
+pusing
 noun
 notice
 no
@@ -6355,6 +6359,8 @@ formatLink
 format
 foto
 filsuf
+februari
+flu
 his
 he
 has
@@ -8049,6 +8055,7 @@ manusiawi
 memory
 memori
 mengirim
+meriang
 In
 It
 If
@@ -10842,6 +10849,7 @@ kodenya
 klik
 kewajiban
 komunitas
+kepala
 Note
 November
 Nur
