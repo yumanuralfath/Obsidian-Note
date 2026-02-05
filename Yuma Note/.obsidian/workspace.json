@@ -32,13 +32,27 @@
             }
           },
           {
-            "id": "f059cfae23a589f4",
+            "id": "8147bdd90d38deaa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026/February/05.02.26.36.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "05.02.26.36"
             }
           }
         ],
@@ -251,8 +265,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "f059cfae23a589f4",
+  "active": "8147bdd90d38deaa",
   "lastOpenFiles": [
+    "Daily/2026/February/05.02.26.36.md",
+    "Daily/2026/February",
     "Zettelkasten/C.md",
     "Zettelkasten/Pass By Value.md",
     "Zettelkasten/Pointer.md",
@@ -279,7 +295,6 @@
     "Daily/2026/January/02.01.26.2.md",
     "Daily/2026/January/04.01.26.4.md",
     "Daily/2026/January/05.01.26.5.md",
-    "Daily/2026/January/06.01.26.6.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",
@@ -298,7 +313,6 @@
     "FIles/Pasted image 20251019195209.png",
     "Daily/2025/December",
     "Use Noun Clause Connector",
-    "Zettelkasten/Untitled.base",
-    "private/wikilink.js~"
+    "Zettelkasten/Untitled.base"
   ]
 }
