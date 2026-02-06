@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "05.02.26.36"
             }
+          },
+          {
+            "id": "3d077707b7a0eab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026/February/06.02.26.37.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "06.02.26.37"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,10 +265,13 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "8147bdd90d38deaa",
+  "active": "3d077707b7a0eab5",
   "lastOpenFiles": [
-    "Zettelkasten/C.md",
+    "Zettelkasten/How Add Library at Android Studio Project.md",
+    "Daily/2026/February/06.02.26.37.md",
+    "Zettelkasten/Android.md",
     "Daily/2026/February/05.02.26.36.md",
+    "Zettelkasten/C.md",
     "Daily/2026/February",
     "Zettelkasten/Pass By Value.md",
     "Zettelkasten/Pointer.md",
@@ -267,9 +295,6 @@
     "Daily/2026/January/16.01.26.16.md",
     "Daily/2026/January/15.01.26.15.md",
     "Daily/2026/January/12.01.26.12.md",
-    "Daily/2026/January/02.01.26.2.md",
-    "Daily/2026/January/04.01.26.4.md",
-    "Daily/2026/January/05.01.26.5.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",

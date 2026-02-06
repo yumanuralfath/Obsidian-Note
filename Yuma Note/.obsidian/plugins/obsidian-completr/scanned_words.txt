@@ -400,6 +400,7 @@ temperamental
 temukan
 terhalang
 tua
+tablet
 Longman
 Literature
 LB
@@ -615,6 +616,7 @@ Lebih
 Linux
 Log
 Lagi
+Library
 TOEFL
 Test
 Tom
@@ -2051,6 +2053,7 @@ growth
 gamenya
 greget
 garbage
+gradle
 Book
 Because
 Be
@@ -2549,6 +2552,7 @@ chat
 cutscene
 checker
 collector
+catalog
 updated
 utama
 utamanya
@@ -3297,6 +3301,7 @@ Riset
 RuneScape
 Ritchie
 Reference
+Rilis
 Skill
 Sumber
 Source
@@ -3837,6 +3842,7 @@ APOGEA
 Akhirnya
 Aamiin
 Awalnya
+Add
 object
 of
 or
@@ -4750,6 +4756,7 @@ purpose
 paradigm
 pengabaran
 pusing
+perangkat
 noun
 notice
 no
@@ -5665,6 +5672,10 @@ suka
 secangkir
 santan
 supaya
+sentuh
+studio
+script
+sync
 by
 behind
 boat
@@ -6099,6 +6110,7 @@ berbasis
 bit
 borrow
 berencana
+berlayar
 form
 for
 first
@@ -8056,6 +8068,7 @@ memory
 memori
 mengirim
 meriang
+modifikasi
 In
 It
 If
@@ -8804,6 +8817,7 @@ vehicle
 vibes
 versa
 value
+version
 You
 Yuma
 YO
@@ -9527,6 +9541,10 @@ digitnya
 digit
 diundur
 dirumah
+didesign
+diakuisisi
+diatur
+download
 VERB
 Verb
 Valentine
@@ -10139,6 +10157,7 @@ java
 javascript
 jelek
 janji
+jikalau
 Konsep
 Koleksi
 KKj
@@ -10850,6 +10869,7 @@ klik
 kewajiban
 komunitas
 kepala
+kernel
 Note
 November
 Nur
