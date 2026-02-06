@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8147bdd90d38deaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026/February/05.02.26.36.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "05.02.26.36"
-            }
-          },
-          {
             "id": "3d077707b7a0eab5",
             "type": "leaf",
             "state": {
@@ -53,6 +29,18 @@
               },
               "icon": "lucide-file",
               "title": "06.02.26.37"
+            }
+          },
+          {
+            "id": "1b58f491624e0cd2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
         ],
@@ -265,12 +253,12 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "3d077707b7a0eab5",
+  "active": "1b58f491624e0cd2",
   "lastOpenFiles": [
-    "Zettelkasten/How Add Library at Android Studio Project.md",
-    "Daily/2026/February/06.02.26.37.md",
-    "Zettelkasten/Android.md",
     "Daily/2026/February/05.02.26.36.md",
+    "Daily/2026/February/06.02.26.37.md",
+    "Zettelkasten/How Add Library at Android Studio Project.md",
+    "Zettelkasten/Android.md",
     "Zettelkasten/C.md",
     "Daily/2026/February",
     "Zettelkasten/Pass By Value.md",
