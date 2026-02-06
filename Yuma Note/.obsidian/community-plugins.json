@@ -10,5 +10,7 @@
   "obs-text-wrapper",
   "obsidian-cloudinary-uploader",
   "vimium",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "obsidian-day-planner",
+  "dataview"
 ]

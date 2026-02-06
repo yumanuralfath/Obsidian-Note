@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a08d6deaa0dc3fd",
+        "id": "1d8499785a90a4f0",
         "type": "tabs",
         "children": [
           {
-            "id": "3d077707b7a0eab5",
+            "id": "4668c57f62b6ff40",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +30,8 @@
               "icon": "lucide-file",
               "title": "06.02.26.37"
             }
-          },
-          {
-            "id": "1b58f491624e0cd2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "327b68fff47bb138",
@@ -144,6 +130,7 @@
       {
         "id": "6a4e0b0796f102a7",
         "type": "tabs",
+        "dimension": 73.44890510948905,
         "children": [
           {
             "id": "60ef496b0df51421",
@@ -151,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/C.md",
+                "file": "Daily/2026/February/06.02.26.37.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C"
+              "title": "Backlinks for 06.02.26.37"
             }
           },
           {
@@ -170,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Konsep Energi Potensial Permukaan.md",
+                "file": "Daily/2026/February/06.02.26.37.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Konsep Energi Potensial Permukaan"
+              "title": "Outgoing links from 06.02.26.37"
             }
           },
           {
@@ -212,6 +199,16 @@
               "icon": "code-glyph",
               "title": "Shell commands: Custom variables"
             }
+          },
+          {
+            "id": "66940361dabdae97",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 2
@@ -219,15 +216,14 @@
       {
         "id": "bfabcf287a7a540e",
         "type": "tabs",
+        "dimension": 26.551094890510953,
         "children": [
           {
-            "id": "a8e40026975e9b94",
+            "id": "3d077707b7a0eab5",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -236,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5,
-    "collapsed": true
+    "width": 488.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,13 +245,15 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "1b58f491624e0cd2",
+  "active": "ea23744a273c4d10",
   "lastOpenFiles": [
-    "Daily/2026/February/05.02.26.36.md",
     "Daily/2026/February/06.02.26.37.md",
+    "Daily/2026/February/05.02.26.36.md",
     "Zettelkasten/How Add Library at Android Studio Project.md",
     "Zettelkasten/Android.md",
     "Zettelkasten/C.md",
