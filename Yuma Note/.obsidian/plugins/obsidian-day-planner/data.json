@@ -8,7 +8,7 @@
   "startHour": 6,
   "timelineDateFormat": "YYYY-MM-DD",
   "centerNeedle": false,
-  "plannerHeading": "Time Blocking",
+  "plannerHeading": "⚡ Priority",
   "plannerHeadingLevel": 1,
   "timelineColored": true,
   "timelineStartColor": "#006466",
@@ -19,7 +19,7 @@
   "extendDurationUntilNext": false,
   "defaultDurationMinutes": 30,
   "minimalDurationMinutes": 10,
-  "showTimestampInTaskBlock": false,
+  "showTimestampInTaskBlock": true,
   "showUncheduledTasks": true,
   "showUnscheduledNestedTasks": true,
   "showNow": true,
@@ -36,5 +36,5 @@
   "firstDayOfWeek": "monday",
   "multiDayRange": "3-days",
   "showTimeTracker": false,
-  "showActiveClocks": false
+  "showActiveClocks": true
 }

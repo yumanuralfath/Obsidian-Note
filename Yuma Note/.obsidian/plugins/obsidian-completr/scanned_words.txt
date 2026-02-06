@@ -4765,6 +4765,7 @@ pusing
 perangkat
 pengatur
 perbuat
+planner
 noun
 notice
 no
@@ -6123,6 +6124,7 @@ berencana
 berlayar
 bukannya
 bevy
+blocking
 form
 for
 first
@@ -7119,6 +7121,7 @@ workspace
 window
 wallpaper
 wak
+waktunya
 Exams
 Example
 Exercise

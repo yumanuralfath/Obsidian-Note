@@ -30,6 +30,16 @@
               "icon": "lucide-file",
               "title": "06.02.26.37"
             }
+          },
+          {
+            "id": "7c8ea2434d17486f",
+            "type": "leaf",
+            "state": {
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "Feb, 6–Feb, 8"
+            }
           }
         ]
       }
@@ -181,23 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026/January/28.01.26.28.md",
+                "file": "Daily/2026/February/06.02.26.37.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 28.01.26.28"
-            }
-          },
-          {
-            "id": "fbc07a1cd3503563",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
+              "title": "Outline of 06.02.26.37"
             }
           },
           {
@@ -253,6 +253,7 @@
   "active": "ea23744a273c4d10",
   "lastOpenFiles": [
     "Daily/2026/February/06.02.26.37.md",
+    "Daily/2026/February/07.02.26.38.md",
     "Daily/2026/February/05.02.26.36.md",
     "Zettelkasten/How Add Library at Android Studio Project.md",
     "Zettelkasten/Android.md",
@@ -279,7 +280,6 @@
     "Daily/2026/January/23.01.26.23.md",
     "Daily/2026/January/16.01.26.16.md",
     "Daily/2026/January/15.01.26.15.md",
-    "Daily/2026/January/12.01.26.12.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",
