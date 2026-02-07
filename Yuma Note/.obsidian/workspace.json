@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Brainstorming Essay LPDP.md",
+                "file": "Daily/2026/February/07.02.26.38.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Brainstorming Essay LPDP"
+              "title": "07.02.26.38"
             }
           },
           {
@@ -79,7 +79,8 @@
               "title": "Brainstorming Personal Statement"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -301,11 +302,11 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "7c8ea2434d17486f",
+  "active": "3a1ea49335dfb693",
   "lastOpenFiles": [
+    "Daily/2026/February/07.02.26.38.md",
     "Zettelkasten/Brainstorming Personal Statement.md",
     "Zettelkasten/Brainstorming Essay LPDP.md",
-    "Daily/2026/February/07.02.26.38.md",
     "private/generated_ics/07.02.26.38.ics",
     "private/daily_completion.py~",
     "private/generated_ics",
