@@ -403,6 +403,7 @@ tua
 tablet
 tabungan
 tauri
+turut
 Longman
 Literature
 LB
@@ -2560,6 +2561,7 @@ checker
 collector
 catalog
 chronological
+calendar
 updated
 utama
 utamanya
@@ -2742,6 +2744,7 @@ underestimate
 urusan
 usahakan
 usai
+urgent
 Course
 Created
 Careful
@@ -4314,6 +4317,7 @@ isya
 inilah
 iya
 ikuti
+insight
 pronoun
 preposition
 prepositional
@@ -4774,6 +4778,8 @@ perbuat
 planner
 pemisah
 penggambaran
+plan
+pendaftaran
 noun
 notice
 no
@@ -5697,6 +5703,7 @@ script
 sync
 storage
 sakit
+salat
 by
 behind
 boat
