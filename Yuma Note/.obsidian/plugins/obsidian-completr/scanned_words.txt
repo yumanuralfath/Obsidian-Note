@@ -2559,6 +2559,7 @@ cutscene
 checker
 collector
 catalog
+chronological
 updated
 utama
 utamanya
@@ -3309,6 +3310,7 @@ Ritchie
 Reference
 Rilis
 Rencana
+Random
 Skill
 Sumber
 Source
@@ -3607,6 +3609,7 @@ School
 Siap
 Sembari
 Subuhan
+Statement
 An
 After
 Answers
@@ -4769,6 +4772,8 @@ perangkat
 pengatur
 perbuat
 planner
+pemisah
+penggambaran
 noun
 notice
 no
@@ -4983,6 +4988,7 @@ native
 nama
 nasi
 nostalgia
+naratif
 read
 recognize
 rather
@@ -5221,6 +5227,7 @@ reader
 rakitan
 repository
 refer
+runut
 such
 so
 sentence
@@ -6128,6 +6135,8 @@ berlayar
 bukannya
 bevy
 blocking
+berkontribusi
+berkaitan
 form
 for
 first
@@ -9570,6 +9579,7 @@ diatur
 download
 dioxus
 diakses
+diangkat
 VERB
 Verb
 Valentine
