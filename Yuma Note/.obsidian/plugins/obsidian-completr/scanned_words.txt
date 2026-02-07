@@ -855,6 +855,7 @@ Tampilkan
 Totoro
 Think
 TIBIA
+Tabungan
 author
 after
 as
@@ -3605,6 +3606,7 @@ Selesaikan
 School
 Siap
 Sembari
+Subuhan
 An
 After
 Answers
@@ -3849,6 +3851,7 @@ Akhirnya
 Aamiin
 Awalnya
 Add
+Aplikasi
 object
 of
 or

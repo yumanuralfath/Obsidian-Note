@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/February/06.02.26.37.md",
+                "file": "Daily/2026/February/07.02.26.38.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "06.02.26.37"
+              "title": "07.02.26.38"
             }
           },
           {
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2026/February/06.02.26.37.md",
+                "file": "Daily/2026/February/07.02.26.38.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 06.02.26.37"
+              "title": "Backlinks for 07.02.26.38"
             }
           },
           {
@@ -167,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026/February/06.02.26.37.md",
+                "file": "Daily/2026/February/07.02.26.38.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 06.02.26.37"
+              "title": "Outgoing links from 07.02.26.38"
             }
           },
           {
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026/February/06.02.26.37.md",
+                "file": "Daily/2026/February/07.02.26.38.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 06.02.26.37"
+              "title": "Outline of 07.02.26.38"
             }
           },
           {
@@ -211,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "bfabcf287a7a540e",
@@ -232,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,10 +250,10 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "ea23744a273c4d10",
+  "active": "4668c57f62b6ff40",
   "lastOpenFiles": [
-    "Daily/2026/February/06.02.26.37.md",
     "Daily/2026/February/07.02.26.38.md",
+    "Daily/2026/February/06.02.26.37.md",
     "Daily/2026/February/05.02.26.36.md",
     "Zettelkasten/How Add Library at Android Studio Project.md",
     "Zettelkasten/Android.md",
