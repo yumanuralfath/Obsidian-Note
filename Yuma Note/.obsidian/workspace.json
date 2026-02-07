@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "07.02.26.38"
             }
+          },
+          {
+            "id": "3a1ea49335dfb693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Brainstorming Essay LPDP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Brainstorming Essay LPDP"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "bfabcf287a7a540e",
@@ -251,11 +276,12 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "ea23744a273c4d10",
+  "active": "3a1ea49335dfb693",
   "lastOpenFiles": [
+    "Zettelkasten/Brainstorming Essay LPDP.md",
+    "Daily/2026/February/07.02.26.38.md",
     "private/generated_ics/07.02.26.38.ics",
     "private/daily_completion.py~",
-    "Daily/2026/February/07.02.26.38.md",
     "private/generated_ics",
     "private/4913",
     "Daily/2026/February/06.02.26.37.md",
