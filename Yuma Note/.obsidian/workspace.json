@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c8ea2434d17486f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026/February/08.02.26.39.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "08.02.26.39"
-            }
-          },
-          {
             "id": "6622dc7d79e85f54",
             "type": "leaf",
             "state": {
@@ -54,33 +30,8 @@
               "icon": "lucide-file",
               "title": "08.02.26.39"
             }
-          },
-          {
-            "id": "8f492e8422e870b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Brainstorming Personal Statement.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Brainstorming Personal Statement"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "327b68fff47bb138",
@@ -302,12 +254,13 @@
   },
   "active": "6622dc7d79e85f54",
   "lastOpenFiles": [
-    "Daily/2026/February/08.02.26.39.md",
-    "Daily/2026/February/07.02.26.38.md",
+    "private/generated_ics/07.02.26.38.ics",
     "Zettelkasten/Brainstorming Personal Statement.md",
+    "Daily/2026/February/08.02.26.39.md",
+    "private/generated_ics/08.02.26.39.ics",
+    "Daily/2026/February/07.02.26.38.md",
     "Zettelkasten/Productivity Porn.md",
     "Zettelkasten/Brainstorming Essay LPDP.md",
-    "private/generated_ics/07.02.26.38.ics",
     "private/daily_completion.py~",
     "private/generated_ics",
     "private/4913",
@@ -333,7 +286,6 @@
     "Zettelkasten/LPDP.md",
     "tags/Random.md",
     "Daily/2026/January/26.01.26.26.md",
-    "Daily/2026/January/13.01.26.13.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",
@@ -343,7 +295,6 @@
     "private/daily_completion.py",
     "FIles/IMG_20251226_201815_196.jpg",
     "FIles/Screenshot_20251226-195439.jpg",
-    "Daily/2025/December/362 ",
     "FIles/Hero.webp",
     "FIles/Pasted image 20251019094355.png",
     "FIles/Pasted image 20251019094527.png",

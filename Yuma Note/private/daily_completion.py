@@ -201,6 +201,11 @@ DTSTAMP:{datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")}
 DTSTART:{start_dt.strftime("%Y%m%dT%H%M%S")}
 DTEND:{end_dt.strftime("%Y%m%dT%H%M%S")}
 SUMMARY:{title}
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: {title}
+TRIGGER:-PT1M
+END:VALARM
 END:VEVENT
 """
 

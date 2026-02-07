@@ -404,6 +404,7 @@ tablet
 tabungan
 tauri
 turut
+token
 Longman
 Literature
 LB
@@ -857,6 +858,7 @@ Totoro
 Think
 TIBIA
 Tabungan
+Transform
 author
 after
 as
@@ -1185,6 +1187,7 @@ aja
 adzan
 alamat
 alihkan
+alternatif
 Deborah
 Do
 Disini
@@ -1429,6 +1432,7 @@ Dikarenakan
 Development
 Dreadmyst
 Dennis
+Dapat
 Phillips
 Preparation
 Past
@@ -1706,6 +1710,7 @@ Pointer
 Pass
 Planning
 Platform
+Prodi
 year
 you
 yesterday
@@ -2564,6 +2569,7 @@ collector
 catalog
 chronological
 calendar
+component
 updated
 utama
 utamanya
@@ -2949,6 +2955,7 @@ Class
 Ceramah
 Changing
 Cross
+Collision
 For
 FF
 February
@@ -3318,6 +3325,7 @@ Reference
 Rilis
 Rencana
 Random
+Rekomendasi
 Skill
 Sumber
 Source
@@ -3617,6 +3625,7 @@ Siap
 Sembari
 Subuhan
 Statement
+Surat
 An
 After
 Answers
@@ -4784,6 +4793,7 @@ pemisah
 penggambaran
 plan
 pendaftaran
+penyimpanan
 noun
 notice
 no
@@ -6148,6 +6158,7 @@ bevy
 blocking
 berkontribusi
 berkaitan
+beserta
 form
 for
 first
@@ -6920,6 +6931,7 @@ elak
 essai
 eksplisit
 essay
+entity
 will
 with
 when
@@ -7340,6 +7352,7 @@ Eropa
 Ebook
 Edition
 Esai
+ECS
 questions
 quite
 qr
@@ -8686,6 +8699,8 @@ lingkungan
 latihan
 letih
 lembab
+login
+local
 verb
 various
 vociferously
@@ -10591,6 +10606,7 @@ Usai
 Updated
 UPDATE
 Umum
+Universitas
 kalimat
 karena
 kata
@@ -10920,6 +10936,7 @@ komunitas
 kepala
 kernel
 kwkwwkw
+keterhubungan
 Note
 November
 Nur
