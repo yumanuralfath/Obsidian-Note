@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/February/07.02.26.38.md",
+                "file": "Daily/2026/February/08.02.26.39.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "07.02.26.38"
+              "title": "08.02.26.39"
+            }
+          },
+          {
+            "id": "6622dc7d79e85f54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026/February/08.02.26.39.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "08.02.26.39"
             }
           },
           {
@@ -55,7 +79,8 @@
               "title": "Brainstorming Personal Statement"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "bfabcf287a7a540e",
@@ -257,7 +282,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,10 +300,11 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "ea23744a273c4d10",
+  "active": "6622dc7d79e85f54",
   "lastOpenFiles": [
-    "Zettelkasten/Brainstorming Personal Statement.md",
+    "Daily/2026/February/08.02.26.39.md",
     "Daily/2026/February/07.02.26.38.md",
+    "Zettelkasten/Brainstorming Personal Statement.md",
     "Zettelkasten/Productivity Porn.md",
     "Zettelkasten/Brainstorming Essay LPDP.md",
     "private/generated_ics/07.02.26.38.ics",
@@ -308,7 +334,6 @@
     "tags/Random.md",
     "Daily/2026/January/26.01.26.26.md",
     "Daily/2026/January/13.01.26.13.md",
-    "Daily/2026/January/14.01.26.14.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",

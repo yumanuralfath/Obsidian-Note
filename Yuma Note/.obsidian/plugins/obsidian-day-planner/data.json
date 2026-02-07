@@ -2,7 +2,7 @@
   "snapStepMinutes": 10,
   "progressIndicator": "mini-timeline",
   "showTaskNotification": true,
-  "zoomLevel": 5,
+  "zoomLevel": 7,
   "timelineIcon": "calendar-with-checkmark",
   "endLabel": "All done",
   "startHour": 5,
