@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4668c57f62b6ff40",
+            "id": "7c8ea2434d17486f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,16 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "07.02.26.38"
-            }
-          },
-          {
-            "id": "7c8ea2434d17486f",
-            "type": "leaf",
-            "state": {
-              "type": "planner-weekly",
-              "state": {},
-              "icon": "table-2",
-              "title": "Feb, 6–Feb, 8"
             }
           }
         ]
@@ -227,8 +217,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "4668c57f62b6ff40",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,9 +251,13 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "4668c57f62b6ff40",
+  "active": "7c8ea2434d17486f",
   "lastOpenFiles": [
+    "private/generated_ics/07.02.26.38.ics",
+    "private/daily_completion.py~",
     "Daily/2026/February/07.02.26.38.md",
+    "private/generated_ics",
+    "private/4913",
     "Daily/2026/February/06.02.26.37.md",
     "Daily/2026/February/05.02.26.36.md",
     "Zettelkasten/How Add Library at Android Studio Project.md",
@@ -279,11 +284,9 @@
     "Daily/2026/January/14.01.26.14.md",
     "Daily/2026/January/23.01.26.23.md",
     "Daily/2026/January/16.01.26.16.md",
-    "Daily/2026/January/15.01.26.15.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",
-    "private/daily_completion.py~",
     "FIles/Pasted image 20251019194600.png",
     "FIles/Pasted image 20251019175255.png",
     "FIles/Pasted image 20251019175219.png",
@@ -295,9 +298,6 @@
     "FIles/Pasted image 20251019094355.png",
     "FIles/Pasted image 20251019094527.png",
     "FIles/Pasted image 20251019195600.png",
-    "FIles/Pasted image 20251019195209.png",
-    "Daily/2025/December",
-    "Use Noun Clause Connector",
-    "Zettelkasten/Untitled.base"
+    "FIles/Pasted image 20251019195209.png"
   ]
 }
