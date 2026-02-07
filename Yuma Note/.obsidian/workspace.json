@@ -79,8 +79,7 @@
               "title": "Brainstorming Personal Statement"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -302,10 +301,10 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "3a1ea49335dfb693",
+  "active": "7c8ea2434d17486f",
   "lastOpenFiles": [
-    "Daily/2026/February/07.02.26.38.md",
     "Zettelkasten/Brainstorming Personal Statement.md",
+    "Daily/2026/February/07.02.26.38.md",
     "Zettelkasten/Brainstorming Essay LPDP.md",
     "private/generated_ics/07.02.26.38.ics",
     "private/daily_completion.py~",
