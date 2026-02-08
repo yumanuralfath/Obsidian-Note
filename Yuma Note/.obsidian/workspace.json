@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "08.02.26.39"
             }
+          },
+          {
+            "id": "a714c77de77a6139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Main Issue LPDP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Main Issue LPDP"
+            }
+          },
+          {
+            "id": "c84b31cb95dd7cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Pemilihan Universitas dan Prodi LPDP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pemilihan Universitas dan Prodi LPDP"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,12 +301,14 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "6622dc7d79e85f54",
+  "active": "c84b31cb95dd7cb2",
   "lastOpenFiles": [
+    "Zettelkasten/Brainstorming Personal Statement LPDP.md",
+    "Zettelkasten/Main Issue LPDP.md",
+    "Zettelkasten/Pemilihan Universitas dan Prodi LPDP.md",
+    "Daily/2026/February/08.02.26.39.md",
     "private/generated_ics/07.02.26.38.ics",
     "private/generated_ics/08.02.26.39.ics",
-    "Zettelkasten/Brainstorming Personal Statement.md",
-    "Daily/2026/February/08.02.26.39.md",
     "Daily/2026/February/07.02.26.38.md",
     "Zettelkasten/Productivity Porn.md",
     "Zettelkasten/Brainstorming Essay LPDP.md",
@@ -285,7 +336,6 @@
     "Zettelkasten/28.01.26.29.md",
     "Zettelkasten/LPDP.md",
     "tags/Random.md",
-    "Daily/2026/January/26.01.26.26.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",

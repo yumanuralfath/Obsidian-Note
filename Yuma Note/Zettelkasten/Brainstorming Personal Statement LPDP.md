@@ -1,9 +1,9 @@
 ---
-title: Brainstorming Personal Statement
+title: Brainstorming Personal Statement LPDP
 tags:
   - Random
 created: 2026-02-07T13:46
-updated: 2026-02-07T14:13
+updated: 2026-02-08T09:07
 ---
 Tips Personal Statement
 - *Personal Statement* agar runut menggunakan essay naratif menggunakan *chronological order* dan filter menggunakan *issue* yang sedang diangkat.
