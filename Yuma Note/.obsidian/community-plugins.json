@@ -1,7 +1,6 @@
 [
   "obsidian-git",
   "templater-obsidian",
-  "calendar",
   "obsidian-emoji-toolbar",
   "highlightr-plugin",
   "update-time-on-edit",
@@ -11,6 +10,6 @@
   "obsidian-cloudinary-uploader",
   "vimium",
   "obsidian-shellcommands",
-  "obsidian-day-planner",
-  "dataview"
+  "dataview",
+  "calendar"
 ]
