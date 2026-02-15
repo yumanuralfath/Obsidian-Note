@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/February/08.02.26.39.md",
+                "file": "Daily/2026/February/15.02.26.46.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "08.02.26.39"
+              "title": "15.02.26.46"
             }
           },
           {
@@ -79,8 +79,7 @@
               "title": "Pemilihan Universitas dan Prodi LPDP"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -301,13 +300,14 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "c84b31cb95dd7cb2",
+  "active": "6622dc7d79e85f54",
   "lastOpenFiles": [
-    "Zettelkasten/Brainstorming Personal Statement LPDP.md",
-    "Zettelkasten/Main Issue LPDP.md",
-    "Zettelkasten/Pemilihan Universitas dan Prodi LPDP.md",
     "Daily/2026/February/08.02.26.39.md",
     "private/generated_ics/07.02.26.38.ics",
+    "Daily/2026/February/15.02.26.46.md",
+    "Zettelkasten/Pemilihan Universitas dan Prodi LPDP.md",
+    "Zettelkasten/Brainstorming Personal Statement LPDP.md",
+    "Zettelkasten/Main Issue LPDP.md",
     "private/generated_ics/08.02.26.39.ics",
     "Daily/2026/February/07.02.26.38.md",
     "Zettelkasten/Productivity Porn.md",
@@ -334,8 +334,6 @@
     "Daily/2026/January/03.01.26.3.md",
     "Daily/2026/January/27.01.26.27.md",
     "Zettelkasten/28.01.26.29.md",
-    "Zettelkasten/LPDP.md",
-    "tags/Random.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",
