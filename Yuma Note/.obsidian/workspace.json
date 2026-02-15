@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "327b68fff47bb138",
@@ -250,7 +249,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "bfabcf287a7a540e",
@@ -282,7 +281,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -302,13 +301,13 @@
   },
   "active": "6622dc7d79e85f54",
   "lastOpenFiles": [
+    "private/generated_ics/08.02.26.39.ics",
     "Daily/2026/February/08.02.26.39.md",
     "private/generated_ics/07.02.26.38.ics",
     "Daily/2026/February/15.02.26.46.md",
     "Zettelkasten/Pemilihan Universitas dan Prodi LPDP.md",
     "Zettelkasten/Brainstorming Personal Statement LPDP.md",
     "Zettelkasten/Main Issue LPDP.md",
-    "private/generated_ics/08.02.26.39.ics",
     "Daily/2026/February/07.02.26.38.md",
     "Zettelkasten/Productivity Porn.md",
     "Zettelkasten/Brainstorming Essay LPDP.md",
