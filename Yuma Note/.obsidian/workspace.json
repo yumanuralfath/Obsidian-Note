@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/February/15.02.26.46.md",
+                "file": "Daily/2026/February/17.02.26.48.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "15.02.26.46"
+              "title": "17.02.26.48"
             }
           },
           {
@@ -91,7 +91,7 @@
       {
         "id": "7064e8e8994ac80a",
         "type": "tabs",
-        "dimension": 64.82889733840305,
+        "dimension": 64.82889733840304,
         "children": [
           {
             "id": "b378e45f063dd61e",
@@ -153,7 +153,7 @@
       {
         "id": "61aaf6849939a305",
         "type": "tabs",
-        "dimension": 35.17110266159696,
+        "dimension": 35.171102661596954,
         "children": [
           {
             "id": "f05fc6ec6df64569",
@@ -284,15 +284,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
   "active": "6622dc7d79e85f54",
   "lastOpenFiles": [
-    "private/daily_completion.py~",
     "Daily/2026/February/15.02.26.46.md",
+    "Daily/2026/February/17.02.26.48.md",
+    "private/daily_completion.py~",
     "private/generated_ics/08.02.26.39.ics",
     "Daily/2026/February/08.02.26.39.md",
     "private/generated_ics/07.02.26.38.ics",
