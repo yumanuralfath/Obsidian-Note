@@ -405,6 +405,8 @@ tabungan
 tauri
 turut
 token
+tagihan
+tema
 Longman
 Literature
 LB
@@ -2285,6 +2287,7 @@ Brainstorming
 Biner
 Bevy
 Blocking
+BPJS
 created
 clause
 comes
@@ -2755,6 +2758,7 @@ urusan
 usahakan
 usai
 urgent
+ui
 Course
 Created
 Careful
@@ -2958,6 +2962,7 @@ Ceramah
 Changing
 Cross
 Collision
+Calendar
 For
 FF
 February
@@ -3628,6 +3633,7 @@ Sembari
 Subuhan
 Statement
 Surat
+Sebelumnya
 An
 After
 Answers
@@ -4333,6 +4339,7 @@ inilah
 iya
 ikuti
 insight
+implement
 pronoun
 preposition
 prepositional
@@ -5720,6 +5727,7 @@ sync
 storage
 sakit
 salat
+sinkronisasi
 by
 behind
 boat
@@ -6161,6 +6169,7 @@ blocking
 berkontribusi
 berkaitan
 beserta
+bulanan
 form
 for
 first
@@ -6423,6 +6432,7 @@ foto
 filsuf
 februari
 flu
+fleksibel
 his
 he
 has
@@ -6934,6 +6944,7 @@ essai
 eksplisit
 essay
 entity
+esok
 will
 with
 when
@@ -8704,6 +8715,7 @@ letih
 lembab
 login
 local
+listrik
 verb
 various
 vociferously
@@ -9610,6 +9622,8 @@ download
 dioxus
 diakses
 diangkat
+diprioritaskan
+dituangkan
 VERB
 Verb
 Valentine
@@ -11122,6 +11136,7 @@ Namun
 Nuansanya
 NPC
 Nggak
+Neovim
 Monday
 Museum
 My
