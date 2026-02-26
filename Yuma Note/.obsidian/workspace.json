@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/February/23.02.26.54.md",
+                "file": "Daily/2026/February/26.02.26.57.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,55 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "23.02.26.54"
-            }
-          },
-          {
-            "id": "a714c77de77a6139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Main Issue LPDP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Main Issue LPDP"
-            }
-          },
-          {
-            "id": "c84b31cb95dd7cb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Pemilihan Universitas dan Prodi LPDP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pemilihan Universitas dan Prodi LPDP"
+              "title": "26.02.26.57"
             }
           }
         ]
@@ -169,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "327b68fff47bb138",
@@ -291,14 +242,15 @@
   },
   "active": "6622dc7d79e85f54",
   "lastOpenFiles": [
-    "Daily/2026/February/21.02.26.52.md",
     "Daily/2026/February/23.02.26.54.md",
-    "Daily/2026/February/17.02.26.48.md",
-    "Zettelkasten/Pemilihan Universitas dan Prodi LPDP.md",
-    "Zettelkasten/Main Issue LPDP.md",
-    "Daily/2026/February/05.02.26.36.md",
-    "Daily/2026/February/06.02.26.37.md",
+    "Daily/2026/February/26.02.26.57.md",
     "Daily/2026/February/07.02.26.38.md",
+    "Daily/2026/February/06.02.26.37.md",
+    "Daily/2026/February/05.02.26.36.md",
+    "Daily/2026/February/21.02.26.52.md",
+    "Daily/2026/February/17.02.26.48.md",
+    "Zettelkasten/Main Issue LPDP.md",
+    "Zettelkasten/Pemilihan Universitas dan Prodi LPDP.md",
     "Daily/2026/February/08.02.26.39.md",
     "Daily/2026/February/15.02.26.46.md",
     "private/daily_completion.py~",
@@ -323,7 +275,6 @@
     "Daily/2026/January/29.01.26.29.md",
     "Daily/2025/December/Dec 11, 2025.md",
     "Zettelkasten/Hexadecimal.md",
-    "Daily/2026/January/03.01.26.3.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",
