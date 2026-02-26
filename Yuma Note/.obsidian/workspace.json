@@ -30,6 +30,16 @@
               "icon": "lucide-file",
               "title": "26.02.26.57"
             }
+          },
+          {
+            "id": "c42a14b0c5060dbc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -121,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "327b68fff47bb138",
@@ -242,9 +253,9 @@
   },
   "active": "6622dc7d79e85f54",
   "lastOpenFiles": [
-    "Daily/2026/February/23.02.26.54.md",
     "Daily/2026/February/26.02.26.57.md",
     "Daily/2026/February/07.02.26.38.md",
+    "Daily/2026/February/23.02.26.54.md",
     "Daily/2026/February/06.02.26.37.md",
     "Daily/2026/February/05.02.26.36.md",
     "Daily/2026/February/21.02.26.52.md",
