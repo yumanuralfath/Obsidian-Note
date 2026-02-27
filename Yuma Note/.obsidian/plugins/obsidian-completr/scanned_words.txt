@@ -409,6 +409,7 @@ tagihan
 tema
 ternama
 tertinggi
+try
 Longman
 Literature
 LB
@@ -863,6 +864,7 @@ Think
 TIBIA
 Tabungan
 Transform
+Tauri
 author
 after
 as
@@ -1720,6 +1722,7 @@ Platform
 Prodi
 Pemilihan
 Pili
+Push
 year
 you
 yesterday
@@ -2769,6 +2772,7 @@ usai
 urgent
 ui
 uat
+using
 Course
 Created
 Careful
@@ -2973,6 +2977,7 @@ Changing
 Cross
 Collision
 Calendar
+Continue
 For
 FF
 February
@@ -3345,6 +3350,11 @@ Rencana
 Random
 Rekomendasi
 Ramadhan
+Rank
+ReLearn
+RCG
+Read
+Rewrite
 Skill
 Sumber
 Source
@@ -4106,6 +4116,7 @@ override
 open
 ownership
 oke
+optional
 is
 in
 it
@@ -9272,6 +9283,7 @@ GitHub
 Growth
 Grafisnya
 GameDev
+Grinding
 does
 div
 dalam
@@ -9663,6 +9675,7 @@ diangkat
 diprioritaskan
 dituangkan
 dilewati
+dive
 VERB
 Verb
 Valentine
@@ -9846,6 +9859,7 @@ Vit
 Variasikan
 Vehicle
 Vice
+VMC
 However
 Hati
 Houston
@@ -10069,6 +10083,7 @@ Hexadecimal
 Hex
 HEX
 Hasil
+HTML
 justify
 jika
 jadi
@@ -11462,6 +11477,7 @@ Menutup
 Mengenai
 Menggunakan
 Memb
+Master
 October
 Object
 On

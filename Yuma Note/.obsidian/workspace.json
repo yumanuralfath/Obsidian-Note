@@ -35,10 +35,24 @@
             "id": "c42a14b0c5060dbc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026/February/26.02.26.57.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "26.02.26.57"
             }
           }
         ]
@@ -254,6 +268,7 @@
   "active": "6622dc7d79e85f54",
   "lastOpenFiles": [
     "Daily/2026/February/26.02.26.57.md",
+    "Templates/Daily Template.md",
     "Daily/2026/February/27.02.26.58.md",
     "Daily/2026/February/07.02.26.38.md",
     "Daily/2026/February/23.02.26.54.md",
@@ -285,7 +300,6 @@
     "Untitled.canvas",
     "Daily/2026/January/28.01.26.28.md",
     "Daily/2026/January/29.01.26.29.md",
-    "Daily/2025/December/Dec 11, 2025.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",
