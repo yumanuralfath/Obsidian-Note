@@ -410,6 +410,8 @@ tema
 ternama
 tertinggi
 try
+terarah
+terukur
 Longman
 Literature
 LB
@@ -865,6 +867,7 @@ TIBIA
 Tabungan
 Transform
 Tauri
+Taraweeh
 author
 after
 as
@@ -1196,6 +1199,7 @@ alihkan
 alternatif
 api
 apiv
+abstraction
 Deborah
 Do
 Disini
@@ -1723,6 +1727,7 @@ Prodi
 Pemilihan
 Pili
 Push
+Pray
 year
 you
 yesterday
@@ -2298,6 +2303,7 @@ Bevy
 Blocking
 BPJS
 Backend
+Break
 created
 clause
 comes
@@ -3140,6 +3146,7 @@ Fulfil
 Feb
 Flutter
 Flame
+Fix
 Ringkasan
 Review
 Reach
@@ -4366,6 +4373,7 @@ ikuti
 insight
 implement
 interview
+idiomatic
 pronoun
 preposition
 prepositional
@@ -4832,6 +4840,8 @@ penyimpanan
 prioritas
 perbaikan
 python
+pengelolaan
+pray
 noun
 notice
 no
@@ -6984,6 +6994,7 @@ eksplisit
 essay
 entity
 esok
+effisien
 will
 with
 when
@@ -8183,6 +8194,8 @@ memanggil
 multiplatform
 mailing
 management
+modular
+melupakan
 In
 It
 If
@@ -8763,6 +8776,7 @@ login
 local
 listrik
 lurus
+library
 verb
 various
 vociferously
@@ -8940,6 +8954,8 @@ value
 version
 vulkan
 vmc
+vanilla
+verbose
 You
 Yuma
 YO
@@ -9860,6 +9876,7 @@ Variasikan
 Vehicle
 Vice
 VMC
+Vanilla
 However
 Hati
 Houston
