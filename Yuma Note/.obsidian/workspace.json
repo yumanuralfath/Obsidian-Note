@@ -32,12 +32,24 @@
             }
           },
           {
-            "id": "c42a14b0c5060dbc",
+            "id": "240e73bd1cfd9fad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
+            "id": "e0301973f7076611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/February/26.02.26.57.md",
+                "file": "Daily/2026/February/27.02.26.58.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +64,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "26.02.26.57"
+              "title": "27.02.26.58"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,7 +278,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "6622dc7d79e85f54",
+  "active": "240e73bd1cfd9fad",
   "lastOpenFiles": [
     "Daily/2026/February/27.02.26.58.md",
     "Daily/2026/February/28.02.26.59.md",
