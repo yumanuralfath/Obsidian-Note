@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/February/28.02.26.59.md",
+                "file": "Daily/2026/March/01.03.26.60.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,47 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "28.02.26.59"
-            }
-          },
-          {
-            "id": "240e73bd1cfd9fad",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
-            "id": "e0301973f7076611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026/February/27.02.26.58.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "27.02.26.58"
+              "title": "01.03.26.60"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,10 +241,12 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "240e73bd1cfd9fad",
+  "active": "6622dc7d79e85f54",
   "lastOpenFiles": [
-    "Daily/2026/February/27.02.26.58.md",
     "Daily/2026/February/28.02.26.59.md",
+    "Daily/2026/March/01.03.26.60.md",
+    "Daily/2026/March",
+    "Daily/2026/February/27.02.26.58.md",
     "Daily/2026/February/26.02.26.57.md",
     "Templates/Daily Template.md",
     "Daily/2026/February/07.02.26.38.md",
@@ -312,14 +277,12 @@
     "Daily/2026/January/31.01.26.31.md",
     "Daily/2026/January/30.01.26.30.md",
     "Untitled.canvas",
-    "Daily/2026/January/28.01.26.28.md",
     "private/Jadwal",
     "Daily/2026/January",
     "Daily/2026",
     "FIles/Pasted image 20251019194600.png",
     "FIles/Pasted image 20251019175255.png",
     "FIles/Pasted image 20251019175219.png",
-    "private/daily_completion.py",
     "FIles/IMG_20251226_201815_196.jpg",
     "FIles/Screenshot_20251226-195439.jpg",
     "FIles/Hero.webp",
