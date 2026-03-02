@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "ded291d2797109d9",
+            "id": "c2cc911c9b3c8d8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/February/28.02.26.59.md",
+                "file": "Daily/2026/March/01.03.26.60.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "28.02.26.59"
+              "title": "01.03.26.60"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,8 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5,
-    "collapsed": true
+    "width": 447.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,10 +265,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "6622dc7d79e85f54",
+  "active": "c2cc911c9b3c8d8f",
   "lastOpenFiles": [
-    "Daily/2026/March/01.03.26.60.md",
     "Daily/2026/March/02.03.26.61.md",
+    "Daily/2026/March/01.03.26.60.md",
     "Daily/2026/February/28.02.26.59.md",
     "Daily/2026/March",
     "Daily/2026/February/27.02.26.58.md",
