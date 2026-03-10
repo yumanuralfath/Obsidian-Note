@@ -1205,6 +1205,7 @@ apiv
 abstraction
 array
 angkanya
+allah
 Deborah
 Do
 Disini
@@ -6784,6 +6785,7 @@ handling
 hafalan
 html
 hosting
+hamba
 exams
 example
 either
@@ -9742,6 +9744,7 @@ duha
 diberikan
 deret
 didukung
+dirahmati
 VERB
 Verb
 Valentine
