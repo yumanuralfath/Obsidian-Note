@@ -412,6 +412,8 @@ tertinggi
 try
 terarah
 terukur
+terkejut
+tampilan
 Longman
 Literature
 LB
@@ -629,6 +631,7 @@ Log
 Lagi
 Library
 Lettre
+Lebaran
 TOEFL
 Test
 Tom
@@ -871,6 +874,7 @@ Tauri
 Taraweeh
 Timeout
 Tera
+Teknologi
 author
 after
 as
@@ -1206,6 +1210,7 @@ abstraction
 array
 angkanya
 allah
+amerika
 Deborah
 Do
 Disini
@@ -2092,6 +2097,7 @@ garbage
 gradle
 gepeng
 gitu
+geopolitik
 Book
 Because
 Be
@@ -2312,6 +2318,7 @@ Blocking
 BPJS
 Backend
 Break
+Basic
 created
 clause
 comes
@@ -2604,6 +2611,7 @@ css
 clean
 cors
 cik
+cover
 updated
 utama
 utamanya
@@ -4391,6 +4399,10 @@ interview
 idiomatic
 icon
 insyaalah
+iran
+israel
+interaktif
+ink
 pronoun
 preposition
 prepositional
@@ -4859,6 +4871,9 @@ perbaikan
 python
 pengelolaan
 pray
+pesan
+pencahayaan
+paparan
 noun
 notice
 no
@@ -5320,6 +5335,7 @@ rewrite
 ribet
 release
 railway
+ramadhan
 such
 so
 sentence
@@ -5796,6 +5812,9 @@ schema
 spam
 spritesheet
 selesaikan
+sebl
+sebulan
+segi
 by
 behind
 boat
@@ -6242,6 +6261,8 @@ backend
 besutan
 bundler
 bukber
+berharap
+blue
 form
 for
 first
@@ -6787,6 +6808,7 @@ hafalan
 html
 hosting
 hamba
+hemat
 exams
 example
 either
@@ -7028,6 +7050,8 @@ esok
 effisien
 element
 email
+edition
+estimasi
 will
 with
 when
@@ -7452,6 +7476,7 @@ Edition
 Esai
 ECS
 Email
+Eid
 questions
 quite
 qr
@@ -8240,6 +8265,18 @@ menampilkan
 mismatch
 mengadakan
 memupuk
+maret
+memanas
+muslim
+menyatukan
+mailer
+membangkitkan
+meskipun
+mendekati
+menamatkan
+mengagumkan
+memancarkan
+menjalani
 In
 It
 If
@@ -8821,6 +8858,10 @@ local
 listrik
 lurus
 library
+lebaran
+lolos
+literasi
+light
 verb
 various
 vociferously
@@ -9347,6 +9388,7 @@ Growth
 Grafisnya
 GameDev
 Grinding
+Gen
 does
 div
 dalam
@@ -9747,6 +9789,7 @@ diberikan
 deret
 didukung
 dirahmati
+demi
 VERB
 Verb
 Valentine
@@ -10364,6 +10407,7 @@ javascript
 jelek
 janji
 jikalau
+justru
 Konsep
 Koleksi
 KKj
@@ -10580,6 +10624,7 @@ Kodee
 Keduanya
 Kabarkan
 Kelanjutan
+Kindle
 Utama
 Use
 UL
@@ -11082,6 +11127,9 @@ kwkwwkw
 keterhubungan
 keanehan
 kebersamaan
+keempat
+kalinya
+kertas
 Note
 November
 Nur
@@ -11555,6 +11603,9 @@ Master
 Mailing
 Mar
 March
+Mubarak
+Marhaban
+Maret
 October
 Object
 On
@@ -11878,6 +11929,7 @@ WKKWWK
 Way
 Walaupun
 Walau
+Wow
 Jika
 Jf
 Jl
