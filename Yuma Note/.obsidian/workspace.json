@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/March/10.03.26.69.md",
+                "file": "Daily/2026/March/24.03.26.83.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10.03.26.69"
+              "title": "24.03.26.83"
             }
           }
         ]
@@ -241,8 +241,9 @@
   },
   "active": "6622dc7d79e85f54",
   "lastOpenFiles": [
-    "Daily/2026/March/08.03.26.67.md",
     "Daily/2026/March/10.03.26.69.md",
+    "Daily/2026/March/24.03.26.83.md",
+    "Daily/2026/March/08.03.26.67.md",
     "Daily/2026/March/01.03.26.60.md",
     "Daily/2026/March/02.03.26.61.md",
     "Daily/2026/February/28.02.26.59.md",
@@ -273,7 +274,6 @@
     "Zettelkasten/C.md",
     "Daily/2026/February",
     "Zettelkasten/Pass By Value.md",
-    "Zettelkasten/Pointer.md",
     "Untitled.canvas",
     "private/Jadwal",
     "Daily/2026/January",
