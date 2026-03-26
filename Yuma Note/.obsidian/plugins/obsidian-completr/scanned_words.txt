@@ -414,6 +414,7 @@ terarah
 terukur
 terkejut
 tampilan
+totoro
 Longman
 Literature
 LB
@@ -632,6 +633,7 @@ Lagi
 Library
 Lettre
 Lebaran
+Loading
 TOEFL
 Test
 Tom
@@ -1739,6 +1741,7 @@ Pemilihan
 Pili
 Push
 Pray
+Pertama
 year
 you
 yesterday
@@ -2319,6 +2322,7 @@ BPJS
 Backend
 Break
 Basic
+Belakang
 created
 clause
 comes
@@ -2799,6 +2803,7 @@ ui
 uat
 using
 ummat
+unboxing
 Course
 Created
 Careful
@@ -4874,6 +4879,7 @@ pray
 pesan
 pencahayaan
 paparan
+pop
 noun
 notice
 no
@@ -5089,6 +5095,7 @@ nama
 nasi
 nostalgia
 naratif
+nampilin
 read
 recognize
 rather
@@ -5815,6 +5822,8 @@ selesaikan
 sebl
 sebulan
 segi
+sleepnya
+socket
 by
 behind
 boat
@@ -6263,6 +6272,7 @@ bundler
 bukber
 berharap
 blue
+bear
 form
 for
 first
@@ -8277,6 +8287,7 @@ menamatkan
 mengagumkan
 memancarkan
 menjalani
+matcha
 In
 It
 If
@@ -9044,6 +9055,7 @@ verbose
 vite
 vibing
 vibe
+varian
 You
 Yuma
 YO

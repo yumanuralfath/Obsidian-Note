@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/March/24.03.26.83.md",
+                "file": "Daily/2026/March/26.03.26.85.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "24.03.26.83"
+              "title": "26.03.26.85"
+            }
+          },
+          {
+            "id": "c00bf4473dbc5d11",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,12 +252,13 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "92dace96462849a2",
+  "active": "c00bf4473dbc5d11",
   "lastOpenFiles": [
+    "Daily/2026/March/24.03.26.83.md",
+    "Daily/2026/March/26.03.26.85.md",
     "FIles/Pasted image 20251022103537.png",
     "FIles/Pasted image 20251028135337.png",
     "FIles/screenshot_21082025_070016.jpg",
-    "Daily/2026/March/24.03.26.83.md",
     "FIles/IMG_20260324_091813_036.jpg",
     "FIles/IMG_20260324_082046_435.jpg",
     "FIles/IMG_20260324_082034_236.jpg",
@@ -286,7 +300,6 @@
     "Daily/2026/January",
     "Daily/2026",
     "FIles/Pasted image 20251019194600.png",
-    "FIles/Pasted image 20251019175255.png",
-    "FIles/Pasted image 20251019175219.png"
+    "FIles/Pasted image 20251019175255.png"
   ]
 }
