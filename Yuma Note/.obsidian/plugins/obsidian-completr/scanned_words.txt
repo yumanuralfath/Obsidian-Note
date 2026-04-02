@@ -415,6 +415,12 @@ terukur
 terkejut
 tampilan
 totoro
+terlewati
+tidaklah
+tanggung
+termaktub
+termanifestasi
+takkan
 Longman
 Literature
 LB
@@ -1213,6 +1219,8 @@ array
 angkanya
 allah
 amerika
+ampun
+ampunan
 Deborah
 Do
 Disini
@@ -2101,6 +2109,7 @@ gradle
 gepeng
 gitu
 geopolitik
+gratis
 Book
 Because
 Be
@@ -2323,6 +2332,7 @@ Backend
 Break
 Basic
 Belakang
+Bismil
 created
 clause
 comes
@@ -2616,6 +2626,7 @@ clean
 cors
 cik
 cover
+copot
 updated
 utama
 utamanya
@@ -2804,6 +2815,8 @@ uat
 using
 ummat
 unboxing
+ucapkan
+upayakan
 Course
 Created
 Careful
@@ -3010,6 +3023,7 @@ Collision
 Calendar
 Continue
 Connection
+CPNS
 For
 FF
 February
@@ -3691,6 +3705,7 @@ Statement
 Surat
 Sebelumnya
 Sains
+SAW
 An
 After
 Answers
@@ -3937,6 +3952,8 @@ Awalnya
 Add
 Aplikasi
 Axum
+Apr
+April
 object
 of
 or
@@ -4408,6 +4425,8 @@ iran
 israel
 interaktif
 ink
+itulah
+istiqomah
 pronoun
 preposition
 prepositional
@@ -4880,6 +4899,7 @@ pesan
 pencahayaan
 paparan
 pop
+panam
 noun
 notice
 no
@@ -5343,6 +5363,10 @@ ribet
 release
 railway
 ramadhan
+ridha
+rida
+ragu
+ring
 such
 so
 sentence
@@ -5824,6 +5848,13 @@ sebulan
 segi
 sleepnya
 socket
+syahadat
+syafaat
+segalanya
+sanubari
+selesainya
+skolastik
+sedah
 by
 behind
 boat
@@ -6273,6 +6304,11 @@ bukber
 berharap
 blue
 bear
+basmalah
+bertekad
+berikut
+bakat
+bacaan
 form
 for
 first
@@ -6541,6 +6577,7 @@ flame
 fetch
 frontend
 forum
+flexible
 his
 he
 has
@@ -6819,6 +6856,7 @@ html
 hosting
 hamba
 hemat
+harap
 exams
 example
 either
@@ -7289,6 +7327,7 @@ wak
 waktunya
 wildcard
 wkkww
+warna
 Exams
 Example
 Exercise
@@ -8288,6 +8327,19 @@ mengagumkan
 memancarkan
 menjalani
 matcha
+mengharap
+mengharapkan
+memohon
+motoran
+mengucap
+melangkah
+mengampuni
+membacanya
+muak
+menuliskan
+misi
+mendesak
+match
 In
 It
 If
@@ -9056,6 +9108,7 @@ vite
 vibing
 vibe
 varian
+visi
 You
 Yuma
 YO
@@ -9802,6 +9855,10 @@ deret
 didukung
 dirahmati
 demi
+dosa
+dilalui
+drama
+doa
 VERB
 Verb
 Valentine
@@ -10420,6 +10477,8 @@ jelek
 janji
 jikalau
 justru
+jawab
+jelaskan
 Konsep
 Koleksi
 KKj
@@ -11142,6 +11201,8 @@ kebersamaan
 keempat
 kalinya
 kertas
+kindle
+keamanannya
 Note
 November
 Nur
@@ -11618,6 +11679,8 @@ March
 Mubarak
 Marhaban
 Maret
+Mengucapkan
+Me
 October
 Object
 On
@@ -11777,6 +11840,7 @@ Open
 OnClickListener
 Old
 OpenGL
+Oleh
 With
 Waktu
 We
