@@ -3,14 +3,12 @@ title: <% tp.file.title %>
 author:
 year:
 tags:
+  - Book
 ---
 
 # 📘 <% tp.file.title %>
 
-## 🔍 Ringkasan
-- 
-
-## 💡 Konsep Penting
+## 🔖 Ulasan Buku
 - 
 
 ## 🗒️ Kutipan

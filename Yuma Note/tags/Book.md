@@ -1,4 +1,4 @@
 ---
 title: Book
-description: Koleksi Buku atau Literature lainnya yang sudah saya baca atau sedang saya baca 📚
+description: Review buku membantu saya dalam memahami suatu buku dan bentuk pertanggung jawaban kepada buku yang telah dibaca   📚
 ---

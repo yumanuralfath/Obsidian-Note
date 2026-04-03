@@ -4900,6 +4900,7 @@ pencahayaan
 paparan
 pop
 panam
+pertanggung
 noun
 notice
 no
@@ -10696,6 +10697,7 @@ Keduanya
 Kabarkan
 Kelanjutan
 Kindle
+Kutipan
 Utama
 Use
 UL
@@ -10866,6 +10868,7 @@ Updated
 UPDATE
 Umum
 Universitas
+Ulasan
 kalimat
 karena
 kata
