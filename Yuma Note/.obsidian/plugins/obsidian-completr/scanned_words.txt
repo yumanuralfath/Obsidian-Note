@@ -421,6 +421,7 @@ tanggung
 termaktub
 termanifestasi
 takkan
+tgl
 Longman
 Literature
 LB
@@ -2627,6 +2628,7 @@ cors
 cik
 cover
 copot
+clone
 updated
 utama
 utamanya
@@ -5368,6 +5370,7 @@ ridha
 rida
 ragu
 ring
+relaunch
 such
 so
 sentence
@@ -7329,6 +7332,7 @@ waktunya
 wildcard
 wkkww
 warna
+widget
 Exams
 Example
 Exercise
@@ -8341,6 +8345,7 @@ menuliskan
 misi
 mendesak
 match
+mereview
 In
 It
 If
@@ -9455,6 +9460,7 @@ Grafisnya
 GameDev
 Grinding
 Gen
+Growtopia
 does
 div
 dalam
