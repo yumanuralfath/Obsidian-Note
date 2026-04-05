@@ -2819,6 +2819,7 @@ ummat
 unboxing
 ucapkan
 upayakan
+umur
 Course
 Created
 Careful
@@ -3026,6 +3027,8 @@ Calendar
 Continue
 Connection
 CPNS
+Core
+Concept
 For
 FF
 February
@@ -3956,6 +3959,7 @@ Aplikasi
 Axum
 Apr
 April
+Arsitektur
 object
 of
 or
@@ -5119,6 +5123,7 @@ nasi
 nostalgia
 naratif
 nampilin
+ngoding
 read
 recognize
 rather
@@ -5859,6 +5864,7 @@ sanubari
 selesainya
 skolastik
 sedah
+setuju
 by
 behind
 boat
@@ -7104,6 +7110,8 @@ element
 email
 edition
 estimasi
+etc
+economy
 will
 with
 when
@@ -8346,6 +8354,7 @@ misi
 mendesak
 match
 mereview
+mengelola
 In
 It
 If
@@ -9115,6 +9124,7 @@ vibing
 vibe
 varian
 visi
+viewmodel
 You
 Yuma
 YO
@@ -9866,6 +9876,7 @@ dosa
 dilalui
 drama
 doa
+dinamis
 VERB
 Verb
 Valentine
@@ -10051,6 +10062,8 @@ Vehicle
 Vice
 VMC
 Vanilla
+View
+ViewModel
 However
 Hati
 Houston
@@ -10275,6 +10288,7 @@ Hex
 HEX
 Hasil
 HTML
+HTTP
 justify
 jika
 jadi
@@ -10486,6 +10500,7 @@ jikalau
 justru
 jawab
 jelaskan
+jembatan
 Konsep
 Koleksi
 KKj
@@ -11690,6 +11705,8 @@ Marhaban
 Maret
 Mengucapkan
 Me
+MVVM
+Model
 October
 Object
 On
