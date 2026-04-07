@@ -423,6 +423,7 @@ termanifestasi
 takkan
 tgl
 terpikir
+theming
 Longman
 Literature
 LB
@@ -2114,6 +2115,7 @@ gepeng
 gitu
 geopolitik
 gratis
+gini
 Book
 Because
 Be
@@ -4916,6 +4918,7 @@ panam
 pertanggung
 penasaran
 peristiwa
+potongan
 noun
 notice
 no
@@ -5133,6 +5136,7 @@ nostalgia
 naratif
 nampilin
 ngoding
+nyebutnya
 read
 recognize
 rather
@@ -5876,6 +5880,7 @@ sedah
 setuju
 strength
 sayap
+sqlite
 by
 behind
 boat
@@ -9896,6 +9901,7 @@ drama
 doa
 dinamis
 dart
+death
 VERB
 Verb
 Valentine
