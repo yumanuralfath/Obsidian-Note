@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/April/06.04.26.96.md",
+                "file": "Daily/2026/April/07.04.26.97.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "06.04.26.96"
+              "title": "07.04.26.97"
             }
           }
         ]
@@ -241,8 +241,9 @@
   },
   "active": "4563512389690256",
   "lastOpenFiles": [
-    "Daily/2026/April/05.04.26.95.md",
     "Daily/2026/April/06.04.26.96.md",
+    "Daily/2026/April/07.04.26.97.md",
+    "Daily/2026/April/05.04.26.95.md",
     "Daily/2026/April/04.04.26.94.md",
     "Daily/2026/April/03.04.26.93.md",
     "Daily/2026/April/01.04.26.91.md",
@@ -278,7 +279,6 @@
     "Daily/2026/February/07.02.26.38.md",
     "Daily/2026/February/23.02.26.54.md",
     "Daily/2026/February/06.02.26.37.md",
-    "Daily/2026/February/05.02.26.36.md",
     "private/daily_completion.py~",
     "private/generated_ics/08.02.26.39.ics",
     "private/generated_ics/07.02.26.38.ics",
