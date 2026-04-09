@@ -1226,6 +1226,8 @@ amerika
 ampun
 ampunan
 akun
+atasi
+archive
 Deborah
 Do
 Disini
@@ -2636,6 +2638,9 @@ copot
 clone
 core
 concept
+create
+compress
+comic
 updated
 utama
 utamanya
@@ -4183,6 +4188,7 @@ ownership
 oke
 optional
 overwrite
+offline
 is
 in
 it
@@ -4442,6 +4448,7 @@ ink
 itulah
 istiqomah
 item
+image
 pronoun
 preposition
 prepositional
@@ -4919,6 +4926,7 @@ pertanggung
 penasaran
 peristiwa
 potongan
+pdf
 noun
 notice
 no
@@ -5881,6 +5889,7 @@ setuju
 strength
 sayap
 sqlite
+sehinga
 by
 behind
 boat
@@ -6605,6 +6614,7 @@ fetch
 frontend
 forum
 flexible
+fotonya
 his
 he
 has
@@ -7130,6 +7140,8 @@ edition
 estimasi
 etc
 economy
+export
+extract
 will
 with
 when
@@ -7360,6 +7372,7 @@ wkkww
 warna
 widget
 wkwkwwkw
+workaround
 Exams
 Example
 Exercise
@@ -8376,6 +8389,10 @@ mereview
 mengelola
 mancing
 mendapat
+menggunaakan
+membengkak
+menyusut
+mager
 In
 It
 If
@@ -8612,6 +8629,7 @@ Inside
 Issue
 Implemetasi
 Implementation
+Implement
 look
 later
 lot
@@ -8963,6 +8981,7 @@ lolos
 literasi
 light
 langka
+layout
 verb
 various
 vociferously
@@ -9148,6 +9167,7 @@ vibe
 varian
 visi
 viewmodel
+volume
 You
 Yuma
 YO
@@ -9902,6 +9922,7 @@ doa
 dinamis
 dart
 death
+dikirim
 VERB
 Verb
 Valentine
@@ -10089,6 +10110,7 @@ VMC
 Vanilla
 View
 ViewModel
+Voila
 However
 Hati
 Houston
@@ -10745,6 +10767,8 @@ Kabarkan
 Kelanjutan
 Kindle
 Kutipan
+KPF
+KFX
 Utama
 Use
 UL
