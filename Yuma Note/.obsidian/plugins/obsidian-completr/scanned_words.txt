@@ -424,6 +424,7 @@ takkan
 tgl
 terpikir
 theming
+testing
 Longman
 Literature
 LB
@@ -2832,6 +2833,7 @@ unboxing
 ucapkan
 upayakan
 umur
+unit
 Course
 Created
 Careful
@@ -3205,6 +3207,7 @@ Flutter
 Flame
 Fix
 Finishing
+Finish
 Ringkasan
 Review
 Reach
@@ -4927,6 +4930,9 @@ penasaran
 peristiwa
 potongan
 pdf
+projectnya
+pengen
+prototyping
 noun
 notice
 no
@@ -5397,6 +5403,7 @@ rida
 ragu
 ring
 relaunch
+reducer
 such
 so
 sentence
@@ -6345,6 +6352,7 @@ berikut
 bakat
 bacaan
 btw
+baitul
 form
 for
 first
@@ -6615,6 +6623,7 @@ frontend
 forum
 flexible
 fotonya
+finish
 his
 he
 has
@@ -8393,6 +8402,7 @@ menggunaakan
 membengkak
 menyusut
 mager
+mal
 In
 It
 If
@@ -9923,6 +9933,7 @@ dinamis
 dart
 death
 dikirim
+dicoba
 VERB
 Verb
 Valentine
