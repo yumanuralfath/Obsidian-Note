@@ -428,6 +428,8 @@ testing
 terbentuk
 tegak
 takut
+tajam
+telemetry
 Longman
 Literature
 LB
@@ -2127,6 +2129,7 @@ geopolitik
 gratis
 gini
 gantinya
+gen
 Book
 Because
 Be
@@ -2650,6 +2653,7 @@ concept
 create
 compress
 comic
+converter
 updated
 utama
 utamanya
@@ -2842,6 +2846,7 @@ ucapkan
 upayakan
 umur
 unit
+upload
 Course
 Created
 Careful
@@ -4201,6 +4206,7 @@ oke
 optional
 overwrite
 offline
+overkill
 is
 in
 it
@@ -4945,6 +4951,8 @@ prototyping
 parenting
 parent
 pandangan
+penurunan
+parah
 noun
 notice
 no
@@ -5420,6 +5428,8 @@ ring
 relaunch
 reducer
 relate
+resize
+rusak
 such
 so
 sentence
@@ -5921,6 +5931,12 @@ suku
 seharsnya
 selaras
 sedih
+signifikan
+satunya
+ssetidak
+send
+share
+sekalian
 by
 behind
 boat
@@ -6383,6 +6399,10 @@ begini
 budha
 batak
 bersosialisasi
+bug
+battery
+bergiga
+bersihkan
 form
 for
 first
@@ -6654,6 +6674,8 @@ forum
 flexible
 fotonya
 finish
+fullscreen
+farming
 his
 he
 has
@@ -7616,6 +7638,7 @@ Esai
 ECS
 Email
 Eid
+EGUI
 questions
 quite
 qr
@@ -8447,6 +8470,8 @@ membuka
 menanggapi
 memandangnya
 menerapkannya
+mengeluarkan
+mencicipi
 In
 It
 If
@@ -9568,6 +9593,7 @@ GameDev
 Grinding
 Gen
 Growtopia
+GUI
 does
 div
 dalam
@@ -9981,6 +10007,8 @@ dicoba
 dikuasai
 dikotomi
 diatasi
+draining
+diindahkan
 VERB
 Verb
 Valentine
@@ -10610,6 +10638,7 @@ jembatan
 jual
 jabarkan
 jawa
+jailbreak
 Konsep
 Koleksi
 KKj
@@ -10830,6 +10859,7 @@ Kindle
 Kutipan
 KPF
 KFX
+KCC
 Utama
 Use
 UL
@@ -11347,6 +11377,10 @@ kendalinya
 kendali
 kutipan
 kristen
+kualitas
+komik
+kepakai
+ketahui
 Note
 November
 Nur
@@ -12321,6 +12355,7 @@ JVM
 Java
 Jawa
 Jurnal
+Jadi
 Zk
 ZC
 Zim
