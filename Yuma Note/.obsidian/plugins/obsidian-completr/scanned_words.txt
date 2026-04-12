@@ -425,6 +425,9 @@ tgl
 terpikir
 theming
 testing
+terbentuk
+tegak
+takut
 Longman
 Literature
 LB
@@ -888,6 +891,7 @@ Timeout
 Tera
 Teknologi
 Try
+Teras
 author
 after
 as
@@ -1229,6 +1233,9 @@ ampunan
 akun
 atasi
 archive
+async
+anggurkan
+agama
 Deborah
 Do
 Disini
@@ -2119,6 +2126,7 @@ gitu
 geopolitik
 gratis
 gini
+gantinya
 Book
 Because
 Be
@@ -3208,6 +3216,7 @@ Flame
 Fix
 Finishing
 Finish
+Filosofi
 Ringkasan
 Review
 Reach
@@ -4933,6 +4942,9 @@ pdf
 projectnya
 pengen
 prototyping
+parenting
+parent
+pandangan
 noun
 notice
 no
@@ -5151,6 +5163,9 @@ naratif
 nampilin
 ngoding
 nyebutnya
+nah
+ngapain
+nunggu
 read
 recognize
 rather
@@ -5404,6 +5419,7 @@ ragu
 ring
 relaunch
 reducer
+relate
 such
 so
 sentence
@@ -5897,6 +5913,14 @@ strength
 sayap
 sqlite
 sehinga
+stoa
+sejalan
+sejatinya
+sesama
+suku
+seharsnya
+selaras
+sedih
 by
 behind
 boat
@@ -6353,6 +6377,12 @@ bakat
 bacaan
 btw
 baitul
+berkesempatan
+beranggapan
+begini
+budha
+batak
+bersosialisasi
 form
 for
 first
@@ -6904,6 +6934,8 @@ hamba
 hemat
 harap
 http
+habit
+hindu
 exams
 example
 either
@@ -7382,6 +7414,10 @@ warna
 widget
 wkwkwwkw
 workaround
+weekdays
+weekend
+wajar
+warga
 Exams
 Example
 Exercise
@@ -8403,6 +8439,14 @@ membengkak
 menyusut
 mager
 mal
+mengontrol
+menyayangi
+musibah
+minang
+membuka
+menanggapi
+memandangnya
+menerapkannya
 In
 It
 If
@@ -9934,6 +9978,9 @@ dart
 death
 dikirim
 dicoba
+dikuasai
+dikotomi
+diatasi
 VERB
 Verb
 Valentine
@@ -10347,6 +10394,7 @@ HEX
 Hasil
 HTML
 HTTP
+Henry
 justify
 jika
 jadi
@@ -10560,6 +10608,8 @@ jawab
 jelaskan
 jembatan
 jual
+jabarkan
+jawa
 Konsep
 Koleksi
 KKj
@@ -11291,6 +11341,12 @@ keamanannya
 kurangnya
 kesenangan
 koreksi
+keinginan
+kosmopolitan
+kendalinya
+kendali
+kutipan
+kristen
 Note
 November
 Nur
@@ -11772,6 +11828,8 @@ Me
 MVVM
 Model
 Make
+Mungkin
+Manampiring
 October
 Object
 On
