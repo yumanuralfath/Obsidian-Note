@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2026/February/07.02.26.38.md",
+                "file": "Daily/2026/April/12.04.26.102.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 07.02.26.38"
+              "title": "Backlinks for 12.04.26.102"
             }
           },
           {
@@ -182,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026/February/07.02.26.38.md",
+                "file": "Daily/2026/April/12.04.26.102.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 07.02.26.38"
+              "title": "Outgoing links from 12.04.26.102"
             }
           },
           {
@@ -206,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026/February/15.02.26.46.md",
+                "file": "Daily/2026/April/12.04.26.102.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 15.02.26.46"
+              "title": "Outline of 12.04.26.102"
             }
           }
         ],
@@ -256,9 +256,9 @@
   "active": "9a6653faf7df9d0e",
   "lastOpenFiles": [
     "Daily/2026/April/11.04.26.101.md",
+    "Daily/2026/April/12.04.26.102.md",
     "Daily/2026/January/11.01.26.11.md",
     "Daily/2026/April/10.04.26.100.md",
-    "Daily/2026/April/12.04.26.102.md",
     "Daily/2026/April/09.04.26.99.md",
     "Daily/2026/January/10.01.26.10.md",
     "Daily/2026/April/08.04.26.98.md",
