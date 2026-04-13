@@ -4953,6 +4953,7 @@ parent
 pandangan
 penurunan
 parah
+practice
 noun
 notice
 no
@@ -5174,6 +5175,7 @@ nyebutnya
 nah
 ngapain
 nunggu
+nether
 read
 recognize
 rather
@@ -5937,6 +5939,9 @@ ssetidak
 send
 share
 sekalian
+seed
+sekita
+selajutnya
 by
 behind
 boat
@@ -6403,6 +6408,7 @@ bug
 battery
 bergiga
 bersihkan
+bytecoin
 form
 for
 first
@@ -6676,6 +6682,7 @@ fotonya
 finish
 fullscreen
 farming
+fishing
 his
 he
 has
@@ -7205,6 +7212,8 @@ etc
 economy
 export
 extract
+effektif
+emang
 will
 with
 when
@@ -8472,6 +8481,8 @@ memandangnya
 menerapkannya
 mengeluarkan
 mencicipi
+menjual
+mining
 In
 It
 If
@@ -10009,6 +10020,7 @@ dikotomi
 diatasi
 draining
 diindahkan
+ditanam
 VERB
 Verb
 Valentine
@@ -11381,6 +11393,7 @@ kualitas
 komik
 kepakai
 ketahui
+kesiangan
 Note
 November
 Nur

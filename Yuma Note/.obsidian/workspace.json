@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/April/12.04.26.102.md",
+                "file": "Daily/2026/April/13.04.26.103.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "12.04.26.102"
+              "title": "13.04.26.103"
             }
           }
         ],
@@ -255,8 +255,9 @@
   },
   "active": "9a6653faf7df9d0e",
   "lastOpenFiles": [
-    "Daily/2026/April/11.04.26.101.md",
     "Daily/2026/April/12.04.26.102.md",
+    "Daily/2026/April/13.04.26.103.md",
+    "Daily/2026/April/11.04.26.101.md",
     "Daily/2026/January/11.01.26.11.md",
     "Daily/2026/April/10.04.26.100.md",
     "Daily/2026/April/09.04.26.99.md",
@@ -291,7 +292,6 @@
     "FIles/IMG_20260314_141951_959.jpg",
     "Daily/2026/March/01.03.26.60.md",
     "Daily/2026/March/10.03.26.69.md",
-    "Daily/2026/March/08.03.26.67.md",
     "Daily/2026/March",
     "private/daily_completion.py~",
     "private/generated_ics/08.02.26.39.ics",
