@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4fdeb568fa8284ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026/April/11.04.26.101.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "11.04.26.101"
-            }
-          },
-          {
             "id": "9a6653faf7df9d0e",
             "type": "leaf",
             "state": {
@@ -53,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "13.04.26.103"
+            }
+          },
+          {
+            "id": "07ba02e9a4f5b93f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026/April/12.04.26.102.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "12.04.26.102"
             }
           }
         ],
@@ -253,10 +253,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "9a6653faf7df9d0e",
+  "active": "07ba02e9a4f5b93f",
   "lastOpenFiles": [
-    "Daily/2026/April/12.04.26.102.md",
     "Daily/2026/April/13.04.26.103.md",
+    "Daily/2026/April/12.04.26.102.md",
     "Daily/2026/April/11.04.26.101.md",
     "Daily/2026/January/11.01.26.11.md",
     "Daily/2026/April/10.04.26.100.md",

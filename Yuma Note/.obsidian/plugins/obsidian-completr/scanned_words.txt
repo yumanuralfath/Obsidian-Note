@@ -1238,6 +1238,7 @@ archive
 async
 anggurkan
 agama
+architecture
 Deborah
 Do
 Disini
@@ -8483,6 +8484,7 @@ mengeluarkan
 mencicipi
 menjual
 mining
+memudahkan
 In
 It
 If
@@ -10021,6 +10023,7 @@ diatasi
 draining
 diindahkan
 ditanam
+dev
 VERB
 Verb
 Valentine
