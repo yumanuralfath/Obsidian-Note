@@ -3991,6 +3991,7 @@ Apr
 April
 Arsitektur
 App
+Aktifitas
 object
 of
 or
@@ -5943,6 +5944,7 @@ sekalian
 seed
 sekita
 selajutnya
+speed
 by
 behind
 boat
@@ -6684,6 +6686,7 @@ finish
 fullscreen
 farming
 fishing
+feature
 his
 he
 has
