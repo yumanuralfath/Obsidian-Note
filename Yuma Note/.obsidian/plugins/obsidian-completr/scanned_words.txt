@@ -430,6 +430,9 @@ tegak
 takut
 tajam
 telemetry
+terpandang
+tuanya
+tokyo
 Longman
 Literature
 LB
@@ -649,6 +652,7 @@ Library
 Lettre
 Lebaran
 Loading
+Link
 TOEFL
 Test
 Tom
@@ -1239,6 +1243,11 @@ async
 anggurkan
 agama
 architecture
+abang
+asisten
+ayahnya
+abangnya
+akademis
 Deborah
 Do
 Disini
@@ -1485,6 +1494,9 @@ Dreadmyst
 Dennis
 Dapat
 Dart
+Detail
+Dipelajari
+Doren
 Phillips
 Preparation
 Past
@@ -1768,6 +1780,9 @@ Pili
 Push
 Pray
 Pertama
+Pandangan
+Pendidikan
+Published
 year
 you
 yesterday
@@ -2131,6 +2146,7 @@ gratis
 gini
 gantinya
 gen
+genre
 Book
 Because
 Be
@@ -2354,6 +2370,8 @@ Break
 Basic
 Belakang
 Bismil
+Botchan
+Books
 created
 clause
 comes
@@ -2849,6 +2867,7 @@ upayakan
 umur
 unit
 upload
+usil
 Course
 Created
 Careful
@@ -3058,6 +3077,7 @@ Connection
 CPNS
 Core
 Concept
+Charles
 For
 FF
 February
@@ -3224,6 +3244,8 @@ Fix
 Finishing
 Finish
 Filosofi
+Favorit
+Fiction
 Ringkasan
 Review
 Reach
@@ -3439,6 +3461,9 @@ ReLearn
 RCG
 Read
 Rewrite
+Reading
+Rating
+Referensi
 Skill
 Sumber
 Source
@@ -3742,6 +3767,9 @@ Surat
 Sebelumnya
 Sains
 SAW
+Soseki
+Sang
+Sepeninggal
 An
 After
 Answers
@@ -3993,6 +4021,9 @@ April
 Arsitektur
 App
 Aktifitas
+Adler
+Active
+Author
 object
 of
 or
@@ -4470,6 +4501,8 @@ itulah
 istiqomah
 item
 image
+ibunya
+intrik
 pronoun
 preposition
 prepositional
@@ -4957,6 +4990,9 @@ pandangan
 penurunan
 parah
 practice
+pergi
+pendidikan
+pedesaan
 noun
 notice
 no
@@ -5179,6 +5215,7 @@ nah
 ngapain
 nunggu
 nether
+nakal
 read
 recognize
 rather
@@ -5435,6 +5472,8 @@ reducer
 relate
 resize
 rusak
+ringkasan
+rating
 such
 so
 sentence
@@ -5946,6 +5985,9 @@ seed
 sekita
 selajutnya
 speed
+sarkasme
+sebut
+sendirian
 by
 behind
 boat
@@ -6413,6 +6455,11 @@ battery
 bergiga
 bersihkan
 bytecoin
+beratkan
+botchan
+berterima
+bermil
+bertanggung
 form
 for
 first
@@ -6689,6 +6736,7 @@ farming
 fishing
 feature
 features
+frontmatter
 his
 he
 has
@@ -6971,6 +7019,7 @@ harap
 http
 habit
 hindu
+humor
 exams
 example
 either
@@ -7455,6 +7504,7 @@ weekdays
 weekend
 wajar
 warga
+watak
 Exams
 Example
 Exercise
@@ -7654,6 +7704,7 @@ ECS
 Email
 Eid
 EGUI
+Education
 questions
 quite
 qr
@@ -8491,6 +8542,24 @@ menjual
 mining
 memudahkan
 manage
+menitik
+mengira
+manja
+makmur
+marah
+mendaftar
+menemui
+murid
+muridnya
+melawan
+menentang
+menakjubkan
+mulia
+mil
+menghargai
+memperoleh
+menanamkan
+menghapuskan
 In
 It
 If
@@ -8728,6 +8797,7 @@ Issue
 Implemetasi
 Implementation
 Implement
+Info
 look
 later
 lot
@@ -9080,6 +9150,8 @@ literasi
 light
 langka
 layout
+laki
+licik
 verb
 various
 vociferously
@@ -9445,6 +9517,7 @@ YcaeO
 Yyiq
 YSK
 Your
+Year
 George
 Garden
 Got
@@ -9613,6 +9686,8 @@ Grinding
 Gen
 Growtopia
 GUI
+Guru
+Genre
 does
 div
 dalam
@@ -10030,6 +10105,13 @@ draining
 diindahkan
 ditanam
 dev
+dimarahi
+dirumahnya
+disayangi
+dijual
+dibagi
+daerah
+disinilah
 VERB
 Verb
 Valentine
@@ -10444,6 +10526,7 @@ Hasil
 HTML
 HTTP
 Henry
+Help
 justify
 jika
 jadi
@@ -10660,6 +10743,9 @@ jual
 jabarkan
 jawa
 jailbreak
+jepang
+judul
+jauhnya
 Konsep
 Koleksi
 KKj
@@ -10881,6 +10967,11 @@ Kutipan
 KPF
 KFX
 KCC
+Karakter
+Kiyo
+Kelebihan
+Kekurangan
+Kesimpulan
 Utama
 Use
 UL
@@ -11403,6 +11494,12 @@ komik
 kepakai
 ketahui
 kesiangan
+kuliah
+keliatan
+ksatria
+kebaikan
+kejujuran
+keberanian
 Note
 November
 Nur
@@ -11586,6 +11683,8 @@ Nuansanya
 NPC
 Nggak
 Neovim
+Natsume
+Non
 Monday
 Museum
 My
@@ -11886,6 +11985,7 @@ Model
 Make
 Mungkin
 Manampiring
+Mortimer
 October
 Object
 On
@@ -12046,6 +12146,8 @@ OnClickListener
 Old
 OpenGL
 Oleh
+Overview
+Originally
 With
 Waktu
 We
@@ -12211,6 +12313,7 @@ Way
 Walaupun
 Walau
 Wow
+Wanita
 Jika
 Jf
 Jl
