@@ -2655,6 +2655,7 @@ create
 compress
 comic
 converter
+clipping
 updated
 utama
 utamanya
@@ -8489,6 +8490,7 @@ mencicipi
 menjual
 mining
 memudahkan
+manage
 In
 It
 If
