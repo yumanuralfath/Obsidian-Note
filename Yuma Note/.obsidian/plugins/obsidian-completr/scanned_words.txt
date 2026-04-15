@@ -1497,6 +1497,7 @@ Dart
 Detail
 Dipelajari
 Doren
+Dingin
 Phillips
 Preparation
 Past
@@ -1783,6 +1784,7 @@ Pertama
 Pandangan
 Pendidikan
 Published
+Perut
 year
 you
 yesterday
@@ -4993,6 +4995,9 @@ practice
 pergi
 pendidikan
 pedesaan
+perut
+practical
+praktikan
 noun
 notice
 no
@@ -5216,6 +5221,7 @@ ngapain
 nunggu
 nether
 nakal
+non
 read
 recognize
 rather
@@ -5988,6 +5994,8 @@ speed
 sarkasme
 sebut
 sendirian
+sejuk
+seporsi
 by
 behind
 boat
@@ -6460,6 +6468,8 @@ botchan
 berterima
 bermil
 bertanggung
+berkah
+berakhirnya
 form
 for
 first
@@ -6737,6 +6747,7 @@ fishing
 feature
 features
 frontmatter
+fiction
 his
 he
 has
@@ -8560,6 +8571,7 @@ menghargai
 memperoleh
 menanamkan
 menghapuskan
+melanjut
 In
 It
 If
@@ -10112,6 +10124,8 @@ dijual
 dibagi
 daerah
 disinilah
+disertai
+ditangan
 VERB
 Verb
 Valentine
@@ -10972,6 +10986,8 @@ Kiyo
 Kelebihan
 Kekurangan
 Kesimpulan
+Kam
+Knight
 Utama
 Use
 UL
@@ -11500,6 +11516,7 @@ ksatria
 kebaikan
 kejujuran
 keberanian
+kekenyangan
 Note
 November
 Nur
