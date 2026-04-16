@@ -434,6 +434,8 @@ terpandang
 tuanya
 tokyo
 terdahulu
+tampilkan
+txt
 Longman
 Literature
 LB
@@ -1249,6 +1251,7 @@ asisten
 ayahnya
 abangnya
 akademis
+alter
 Deborah
 Do
 Disini
@@ -1786,6 +1789,7 @@ Pandangan
 Pendidikan
 Published
 Perut
+Pendekatan
 year
 you
 yesterday
@@ -2679,6 +2683,8 @@ comic
 converter
 clipping
 chapter
+column
+cut
 updated
 utama
 utamanya
@@ -3469,6 +3475,7 @@ Rewrite
 Reading
 Rating
 Referensi
+Rich
 Skill
 Sumber
 Source
@@ -3775,6 +3782,7 @@ SAW
 Soseki
 Sang
 Sepeninggal
+Setengah
 An
 After
 Answers
@@ -5004,6 +5012,9 @@ praktikan
 per
 patin
 percuma
+penambahan
+postgresql
+parsing
 noun
 notice
 no
@@ -5487,6 +5498,8 @@ rusak
 ringkasan
 rating
 rinci
+rename
+resmi
 such
 so
 sentence
@@ -6005,6 +6018,9 @@ sejuk
 seporsi
 santapan
 sukses
+sql
+salin
+scheme
 by
 behind
 boat
@@ -6482,6 +6498,7 @@ berakhirnya
 betapa
 burik
 berakibat
+berfokus
 form
 for
 first
@@ -6760,6 +6777,8 @@ feature
 features
 frontmatter
 fiction
+fokusnya
+filebased
 his
 he
 has
@@ -8591,6 +8610,11 @@ menyadari
 merepotkan
 mendengar
 menyadarkan
+migrasi
+menyatu
+migrate
+manajemen
+mengalir
 In
 It
 If
@@ -10146,6 +10170,12 @@ disinilah
 disertai
 ditangan
 downloader
+ditetapkan
+dikarekan
+distribusikan
+drop
+diimplementasikan
+doc
 VERB
 Verb
 Valentine
@@ -10780,6 +10810,7 @@ jailbreak
 jepang
 judul
 jauhnya
+jalur
 Konsep
 Koleksi
 KKj
@@ -11538,6 +11569,7 @@ kejujuran
 keberanian
 kekenyangan
 kisah
+konflik
 Note
 November
 Nur
