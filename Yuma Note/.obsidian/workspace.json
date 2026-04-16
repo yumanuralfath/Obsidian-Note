@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Daily/2026/April/15.04.26.105.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "15.04.26.105"
+            }
+          },
+          {
+            "id": "dc9e4944d257252b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Daily/2026/April/16.04.26.106.md",
                 "mode": "source",
                 "source": false,
@@ -31,7 +55,8 @@
               "title": "16.04.26.106"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,12 +253,12 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "07ba02e9a4f5b93f",
+  "active": "dc9e4944d257252b",
   "lastOpenFiles": [
     "Daily/2026/April/15.04.26.105.md",
+    "Zettelkasten/How To Read A Book.md",
     "Daily/2026/April/16.04.26.106.md",
     "Daily/2026/April/14.04.26.104.md",
-    "Zettelkasten/How To Read A Book.md",
     "Templates/Book Template.md",
     "Zettelkasten/dsds.md",
     "Zettelkasten/Botchan.md",

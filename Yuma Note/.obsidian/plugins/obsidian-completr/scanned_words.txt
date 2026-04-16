@@ -433,6 +433,7 @@ telemetry
 terpandang
 tuanya
 tokyo
+terdahulu
 Longman
 Literature
 LB
@@ -2374,6 +2375,7 @@ Belakang
 Bismil
 Botchan
 Books
+Berkaca
 created
 clause
 comes
@@ -2676,6 +2678,7 @@ compress
 comic
 converter
 clipping
+chapter
 updated
 utama
 utamanya
@@ -4998,6 +5001,9 @@ pedesaan
 perut
 practical
 praktikan
+per
+patin
+percuma
 noun
 notice
 no
@@ -5480,6 +5486,7 @@ resize
 rusak
 ringkasan
 rating
+rinci
 such
 so
 sentence
@@ -5996,6 +6003,8 @@ sebut
 sendirian
 sejuk
 seporsi
+santapan
+sukses
 by
 behind
 boat
@@ -6470,6 +6479,9 @@ bermil
 bertanggung
 berkah
 berakhirnya
+betapa
+burik
+berakibat
 form
 for
 first
@@ -7031,6 +7043,7 @@ http
 habit
 hindu
 humor
+halangan
 exams
 example
 either
@@ -7280,6 +7293,7 @@ export
 extract
 effektif
 emang
+enaknya
 will
 with
 when
@@ -7516,6 +7530,7 @@ weekend
 wajar
 warga
 watak
+weebcentral
 Exams
 Example
 Exercise
@@ -8572,6 +8587,10 @@ memperoleh
 menanamkan
 menghapuskan
 melanjut
+menyadari
+merepotkan
+mendengar
+menyadarkan
 In
 It
 If
@@ -10126,6 +10145,7 @@ daerah
 disinilah
 disertai
 ditangan
+downloader
 VERB
 Verb
 Valentine
@@ -11517,6 +11537,7 @@ kebaikan
 kejujuran
 keberanian
 kekenyangan
+kisah
 Note
 November
 Nur
@@ -12003,6 +12024,7 @@ Make
 Mungkin
 Manampiring
 Mortimer
+Made
 October
 Object
 On
