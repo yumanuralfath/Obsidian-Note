@@ -436,6 +436,9 @@ tokyo
 terdahulu
 tampilkan
 txt
+technical
+teroris
+teluk
 Longman
 Literature
 LB
@@ -901,6 +904,7 @@ Tera
 Teknologi
 Try
 Teras
+TextEditingController
 author
 after
 as
@@ -1252,6 +1256,8 @@ ayahnya
 abangnya
 akademis
 alter
+arab
+adidayaan
 Deborah
 Do
 Disini
@@ -1790,6 +1796,7 @@ Pendidikan
 Published
 Perut
 Pendekatan
+Pulang
 year
 you
 yesterday
@@ -2380,6 +2387,7 @@ Bismil
 Botchan
 Books
 Berkaca
+Bug
 created
 clause
 comes
@@ -2685,6 +2693,9 @@ clipping
 chapter
 column
 cut
+controller
+compile
+callback
 updated
 utama
 utamanya
@@ -3783,6 +3794,7 @@ Soseki
 Sang
 Sepeninggal
 Setengah
+Semoga
 An
 After
 Answers
@@ -4516,6 +4528,7 @@ item
 image
 ibunya
 intrik
+implementasikan
 pronoun
 preposition
 prepositional
@@ -5015,6 +5028,7 @@ percuma
 penambahan
 postgresql
 parsing
+puas
 noun
 notice
 no
@@ -5239,6 +5253,7 @@ nunggu
 nether
 nakal
 non
+negeri
 read
 recognize
 rather
@@ -5500,6 +5515,7 @@ rating
 rinci
 rename
 resmi
+runtime
 such
 so
 sentence
@@ -6021,6 +6037,8 @@ sukses
 sql
 salin
 scheme
+stateless
+statefull
 by
 behind
 boat
@@ -6499,6 +6517,7 @@ betapa
 burik
 berakibat
 berfokus
+barat
 form
 for
 first
@@ -7063,6 +7082,7 @@ habit
 hindu
 humor
 halangan
+hegemoni
 exams
 example
 either
@@ -8615,6 +8635,9 @@ menyatu
 migrate
 manajemen
 mengalir
+menangkap
+menang
+mengusir
 In
 It
 If
@@ -10176,6 +10199,10 @@ distribusikan
 drop
 diimplementasikan
 doc
+diinisialisasikan
+dadn
+dipahami
+dimalam
 VERB
 Verb
 Valentine
@@ -10811,6 +10838,7 @@ jepang
 judul
 jauhnya
 jalur
+jenuh
 Konsep
 Koleksi
 KKj
@@ -11210,6 +11238,7 @@ UPDATE
 Umum
 Universitas
 Ulasan
+UTC
 kalimat
 karena
 kata
@@ -11570,6 +11599,9 @@ keberanian
 kekenyangan
 kisah
 konflik
+konstan
+keruntuhan
+ketik
 Note
 November
 Nur
