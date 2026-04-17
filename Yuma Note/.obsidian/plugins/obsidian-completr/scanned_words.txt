@@ -1258,6 +1258,7 @@ akademis
 alter
 arab
 adidayaan
+age
 Deborah
 Do
 Disini
@@ -2696,6 +2697,10 @@ cut
 controller
 compile
 callback
+casts
+cast
+casting
+critical
 updated
 utama
 utamanya
@@ -2890,6 +2895,7 @@ umur
 unit
 upload
 usil
+unpredictable
 Course
 Created
 Careful
@@ -3268,6 +3274,7 @@ Finish
 Filosofi
 Favorit
 Fiction
+Feature
 Ringkasan
 Review
 Reach
@@ -3795,6 +3802,8 @@ Sang
 Sepeninggal
 Setengah
 Semoga
+Safety
+Smart
 An
 After
 Answers
@@ -4266,6 +4275,7 @@ optional
 overwrite
 offline
 overkill
+operator
 is
 in
 it
@@ -5254,6 +5264,8 @@ nether
 nakal
 non
 negeri
+nullable
+null
 read
 recognize
 rather
@@ -5516,6 +5528,7 @@ rinci
 rename
 resmi
 runtime
+router
 such
 so
 sentence
@@ -6039,6 +6052,8 @@ salin
 scheme
 stateless
 statefull
+scope
+smart
 by
 behind
 boat
@@ -8638,6 +8653,7 @@ mengalir
 menangkap
 menang
 mengusir
+memperbolehkan
 In
 It
 If
@@ -11787,6 +11803,7 @@ Nggak
 Neovim
 Natsume
 Non
+Null
 Monday
 Museum
 My
