@@ -11804,6 +11804,7 @@ Neovim
 Natsume
 Non
 Null
+Navigator
 Monday
 Museum
 My
