@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/April/22.04.26.112.md",
+                "file": "Daily/2026/April/16.04.26.106.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "22.04.26.112"
+              "title": "16.04.26.106"
             }
           }
         ]
@@ -230,14 +230,14 @@
   },
   "active": "dc9e4944d257252b",
   "lastOpenFiles": [
-    "Daily/2026/April/21.04.26.111.md",
     "Daily/2026/April/22.04.26.112.md",
     "Daily/2026/April/16.04.26.106.md",
+    "Daily/2026/April/15.04.26.105.md",
+    "Daily/2026/April/21.04.26.111.md",
     "Daily/2026/April/17.04.26.107.md",
     "Zettelkasten/Kotlin OOP.md",
     "Zettelkasten/Flutter.md",
     "Zettelkasten/Rust.md",
-    "Daily/2026/April/15.04.26.105.md",
     "Zettelkasten/How To Read A Book.md",
     "Daily/2026/April/14.04.26.104.md",
     "Templates/Book Template.md",
