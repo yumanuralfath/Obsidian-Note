@@ -439,6 +439,10 @@ txt
 technical
 teroris
 teluk
+tier
+tangkap
+typesentric
+terminal
 Longman
 Literature
 LB
@@ -1259,6 +1263,9 @@ alter
 arab
 adidayaan
 age
+akali
+ahead
+alur
 Deborah
 Do
 Disini
@@ -1798,6 +1805,7 @@ Published
 Perut
 Pendekatan
 Pulang
+Plus
 year
 you
 yesterday
@@ -2389,6 +2397,7 @@ Botchan
 Books
 Berkaca
 Bug
+Baitul
 created
 clause
 comes
@@ -2701,6 +2710,8 @@ casts
 cast
 casting
 critical
+cupertino
+compiler
 updated
 utama
 utamanya
@@ -2896,6 +2907,7 @@ unit
 upload
 usil
 unpredictable
+ujian
 Course
 Created
 Careful
@@ -3275,6 +3287,7 @@ Filosofi
 Favorit
 Fiction
 Feature
+Finalisasi
 Ringkasan
 Review
 Reach
@@ -3804,6 +3817,7 @@ Setengah
 Semoga
 Safety
 Smart
+Seminggu
 An
 After
 Answers
@@ -4058,6 +4072,8 @@ Aktifitas
 Adler
 Active
 Author
+APK
+AOT
 object
 of
 or
@@ -4276,6 +4292,10 @@ overwrite
 offline
 overkill
 operator
+otomatis
+opinionated
+optimize
+overall
 is
 in
 it
@@ -4539,6 +4559,7 @@ image
 ibunya
 intrik
 implementasikan
+insert
 pronoun
 preposition
 prepositional
@@ -5039,6 +5060,11 @@ penambahan
 postgresql
 parsing
 puas
+panggil
+pengecekan
+pandai
+pertengahan
+pilih
 noun
 notice
 no
@@ -5529,6 +5555,11 @@ rename
 resmi
 runtime
 router
+resume
+route
+row
+reload
+rapi
 such
 so
 sentence
@@ -6054,6 +6085,10 @@ stateless
 statefull
 scope
 smart
+supabase
+styling
+static
+sukai
 by
 behind
 boat
@@ -6533,6 +6568,9 @@ burik
 berakibat
 berfokus
 barat
+berkutat
+berasa
+based
 form
 for
 first
@@ -6813,6 +6851,8 @@ frontmatter
 fiction
 fokusnya
 filebased
+finalisasi
+freestyle
 his
 he
 has
@@ -7098,6 +7138,8 @@ hindu
 humor
 halangan
 hegemoni
+hybrid
+hot
 exams
 example
 either
@@ -7348,6 +7390,7 @@ extract
 effektif
 emang
 enaknya
+editor
 will
 with
 when
@@ -8654,6 +8697,10 @@ menangkap
 menang
 mengusir
 memperbolehkan
+melebihi
+material
+menggunaka
+mengunakan
 In
 It
 If
@@ -8892,6 +8939,7 @@ Implemetasi
 Implementation
 Implement
 Info
+IOS
 look
 later
 lot
@@ -10219,6 +10267,8 @@ diinisialisasikan
 dadn
 dipahami
 dimalam
+design
+dynamic
 VERB
 Verb
 Valentine
@@ -12107,6 +12157,7 @@ Mungkin
 Manampiring
 Mortimer
 Made
+Mal
 October
 Object
 On
@@ -12602,6 +12653,7 @@ Java
 Jawa
 Jurnal
 Jadi
+JIT
 Zk
 ZC
 Zim
