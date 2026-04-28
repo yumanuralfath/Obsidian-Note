@@ -444,6 +444,9 @@ tangkap
 typesentric
 terminal
 terkecoh
+tim
+trait
+tumbuh
 Longman
 Literature
 LB
@@ -1267,6 +1270,7 @@ age
 akali
 ahead
 alur
+allocator
 Deborah
 Do
 Disini
@@ -2171,6 +2175,8 @@ gini
 gantinya
 gen
 genre
+generate
+galak
 Book
 Because
 Be
@@ -3289,6 +3295,7 @@ Favorit
 Fiction
 Feature
 Finalisasi
+FFI
 Ringkasan
 Review
 Reach
@@ -4563,6 +4570,7 @@ intrik
 implementasikan
 insert
 init
+integrasi
 pronoun
 preposition
 prepositional
@@ -5070,6 +5078,9 @@ pertengahan
 pilih
 persentase
 persen
+pembuat
+perpaduan
+procedural
 noun
 notice
 no
@@ -5297,6 +5308,7 @@ non
 negeri
 nullable
 null
+notabene
 read
 recognize
 rather
@@ -5565,6 +5577,9 @@ route
 row
 reload
 rapi
+rapat
+rahasia
+reusable
 such
 so
 sentence
@@ -6094,6 +6109,8 @@ supabase
 styling
 static
 sukai
+syntax
+stable
 by
 behind
 boat
@@ -6576,6 +6593,8 @@ barat
 berkutat
 berasa
 based
+begadang
+belajarNya
 form
 for
 first
@@ -6858,6 +6877,7 @@ fokusnya
 filebased
 finalisasi
 freestyle
+flow
 his
 he
 has
@@ -7397,6 +7417,8 @@ effektif
 emang
 enaknya
 editor
+eksplisitan
+elegan
 will
 with
 when
@@ -8707,6 +8729,8 @@ melebihi
 material
 menggunaka
 mengunakan
+macros
+menyebutkan
 In
 It
 If
@@ -10913,6 +10937,7 @@ judul
 jauhnya
 jalur
 jenuh
+jatuh
 Konsep
 Koleksi
 KKj
@@ -11676,6 +11701,7 @@ konflik
 konstan
 keruntuhan
 ketik
+kesederhanaan
 Note
 November
 Nur
@@ -12840,6 +12866,7 @@ ZChja
 ZCR
 Znw
 Zoho
+Zig
 QJA
 QJa
 Qk
@@ -13349,6 +13376,7 @@ zww
 zaman
 zoho
 zuhur
+zig
 üc
 ÄI
 ÄQq
