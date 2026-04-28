@@ -447,6 +447,7 @@ terkecoh
 tim
 trait
 tumbuh
+tertentu
 Longman
 Literature
 LB
@@ -1271,6 +1272,7 @@ akali
 ahead
 alur
 allocator
+awam
 Deborah
 Do
 Disini
@@ -2405,6 +2407,7 @@ Books
 Berkaca
 Bug
 Baitul
+Breaking
 created
 clause
 comes
@@ -2719,6 +2722,7 @@ casting
 critical
 cupertino
 compiler
+crud
 updated
 utama
 utamanya
@@ -5081,6 +5085,7 @@ persen
 pembuat
 perpaduan
 procedural
+prompt
 noun
 notice
 no
@@ -5309,6 +5314,8 @@ negeri
 nullable
 null
 notabene
+niche
+ngerjakan
 read
 recognize
 rather
@@ -6111,6 +6118,10 @@ static
 sukai
 syntax
 stable
+solving
+solver
+sebagainya
+saran
 by
 behind
 boat
@@ -6595,6 +6606,7 @@ berasa
 based
 begadang
 belajarNya
+berpindah
 form
 for
 first
@@ -7166,6 +7178,8 @@ hegemoni
 hybrid
 hot
 harganya
+hardware
+hobby
 exams
 example
 either
@@ -8731,6 +8745,13 @@ menggunaka
 mengunakan
 macros
 menyebutkan
+mendapati
+menyulitkan
+merasakan
+makin
+menguasainya
+mengerti
+mendalami
 In
 It
 If
@@ -9324,6 +9345,8 @@ langka
 layout
 laki
 licik
+latar
+labor
 verb
 various
 vociferously
@@ -10301,6 +10324,7 @@ dimalam
 design
 dynamic
 didiskon
+desain
 VERB
 Verb
 Valentine
@@ -11702,6 +11726,8 @@ konstan
 keruntuhan
 ketik
 kesederhanaan
+kuasai
+kering
 Note
 November
 Nur
