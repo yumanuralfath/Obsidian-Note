@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc9e4944d257252b",
+            "id": "929b25273bf6cbb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/April/28.04.26.118.md",
+                "file": "Daily/2026/April/26.04.26.116.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "28.04.26.118"
+              "title": "26.04.26.116"
             }
           }
         ]
@@ -228,11 +228,11 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "dc9e4944d257252b",
+  "active": "929b25273bf6cbb9",
   "lastOpenFiles": [
-    "Daily/2026/April/27.04.26.117.md",
-    "Daily/2026/April/28.04.26.118.md",
     "Daily/2026/April/25.04.26.115.md",
+    "Daily/2026/April/28.04.26.118.md",
+    "Daily/2026/April/27.04.26.117.md",
     "Daily/2026/April/26.04.26.116.md",
     "Daily/2026/April/24.04.26.114.md",
     "Daily/2026/April/16.04.26.106.md",
