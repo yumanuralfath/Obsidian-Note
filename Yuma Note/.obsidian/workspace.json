@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/April/28.04.26.118.md",
+                "file": "Daily/2026/April/29.04.26.119.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "28.04.26.118"
+              "title": "29.04.26.119"
             }
           }
         ]
@@ -230,8 +230,9 @@
   },
   "active": "6bf94010aa27a16a",
   "lastOpenFiles": [
-    "FIles/screenshot_28042026_111809.jpg",
     "Daily/2026/April/28.04.26.118.md",
+    "Daily/2026/April/29.04.26.119.md",
+    "FIles/screenshot_28042026_111809.jpg",
     "Daily/2026/April/26.04.26.116.md",
     "Daily/2026/April/27.04.26.117.md",
     "Daily/2026/April/25.04.26.115.md",
@@ -266,7 +267,6 @@
     "FIles/IMG_20260324_082046_435.jpg",
     "FIles/IMG_20260324_082034_236.jpg",
     "FIles/IMG_20260314_141954_415.jpg",
-    "FIles/IMG_20260314_141951_959.jpg",
     "Daily/2026/March",
     "private/daily_completion.py~",
     "private/generated_ics/08.02.26.39.ics",
