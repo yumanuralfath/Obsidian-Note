@@ -448,6 +448,7 @@ tim
 trait
 tumbuh
 tertentu
+tercantum
 Longman
 Literature
 LB
@@ -2723,6 +2724,7 @@ critical
 cupertino
 compiler
 crud
+comment
 updated
 utama
 utamanya
@@ -2919,6 +2921,7 @@ upload
 usil
 unpredictable
 ujian
+untung
 Course
 Created
 Careful
@@ -5086,6 +5089,9 @@ pembuat
 perpaduan
 procedural
 prompt
+portofolio
+penyakit
+publish
 noun
 notice
 no
@@ -5587,6 +5593,7 @@ rapi
 rapat
 rahasia
 reusable
+ranah
 such
 so
 sentence
@@ -6122,6 +6129,9 @@ solving
 solver
 sebagainya
 saran
+sains
+supermi
+sangka
 by
 behind
 boat
@@ -6607,6 +6617,7 @@ based
 begadang
 belajarNya
 berpindah
+blackout
 form
 for
 first
@@ -7180,6 +7191,8 @@ hot
 harganya
 hardware
 hobby
+hebat
+hambatan
 exams
 example
 either
@@ -7433,6 +7446,7 @@ enaknya
 editor
 eksplisitan
 elegan
+elsevier
 will
 with
 when
@@ -8753,6 +8767,10 @@ menguasainya
 mengerti
 mendalami
 masihi
+menganggu
+makefile
+menggelikannya
+mie
 In
 It
 If
@@ -9348,6 +9366,7 @@ laki
 licik
 latar
 labor
+lapar
 verb
 various
 vociferously
@@ -10326,6 +10345,7 @@ design
 dynamic
 didiskon
 desain
+dataset
 VERB
 Verb
 Valentine
@@ -11729,6 +11749,7 @@ ketik
 kesederhanaan
 kuasai
 kering
+kolom
 Note
 November
 Nur
