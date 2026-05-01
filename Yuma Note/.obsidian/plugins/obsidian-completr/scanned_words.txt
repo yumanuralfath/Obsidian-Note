@@ -449,6 +449,7 @@ trait
 tumbuh
 tertentu
 tercantum
+tertulis
 Longman
 Literature
 LB
@@ -669,6 +670,7 @@ Lettre
 Lebaran
 Loading
 Link
+LGTM
 TOEFL
 Test
 Tom
@@ -915,6 +917,7 @@ Teknologi
 Try
 Teras
 TextEditingController
+Tepat
 author
 after
 as
@@ -1274,6 +1277,7 @@ ahead
 alur
 allocator
 awam
+arc
 Deborah
 Do
 Disini
@@ -1524,6 +1528,7 @@ Detail
 Dipelajari
 Doren
 Dingin
+Daud
 Phillips
 Preparation
 Past
@@ -2725,6 +2730,8 @@ cupertino
 compiler
 crud
 comment
+chinese
+community
 updated
 utama
 utamanya
@@ -4090,6 +4097,7 @@ Active
 Author
 APK
 AOT
+Akhir
 object
 of
 or
@@ -4312,6 +4320,7 @@ otomatis
 opinionated
 optimize
 overall
+ost
 is
 in
 it
@@ -4578,6 +4587,7 @@ implementasikan
 insert
 init
 integrasi
+indah
 pronoun
 preposition
 prepositional
@@ -5092,6 +5102,9 @@ prompt
 portofolio
 penyakit
 publish
+playlist
+piece
+pull
 noun
 notice
 no
@@ -5594,6 +5607,8 @@ rapat
 rahasia
 reusable
 ranah
+relax
+rewatch
 such
 so
 sentence
@@ -6132,6 +6147,7 @@ saran
 sains
 supermi
 sangka
+std
 by
 behind
 boat
@@ -6618,6 +6634,7 @@ begadang
 belajarNya
 berpindah
 blackout
+barunya
 form
 for
 first
@@ -8771,6 +8788,10 @@ menganggu
 makefile
 menggelikannya
 mie
+mendengarkan
+musik
+mengalun
+menyarankan
 In
 It
 If
@@ -9367,6 +9388,9 @@ licik
 latar
 labor
 lapar
+luffy
+libcurl
+localization
 verb
 various
 vociferously
@@ -9734,6 +9758,7 @@ Yyiq
 YSK
 Your
 Year
+Yonkou
 George
 Garden
 Got
@@ -11750,6 +11775,8 @@ kesederhanaan
 kuasai
 kering
 kolom
+kangen
+kaido
 Note
 November
 Nur
