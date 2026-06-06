@@ -450,6 +450,7 @@ tumbuh
 tertentu
 tercantum
 tertulis
+terkontrol
 Longman
 Literature
 LB
@@ -2732,6 +2733,7 @@ crud
 comment
 chinese
 community
+cli
 updated
 utama
 utamanya
@@ -3139,6 +3141,7 @@ CPNS
 Core
 Concept
 Charles
+CLI
 For
 FF
 February
@@ -5106,6 +5109,7 @@ publish
 playlist
 piece
 pull
+penunjang
 noun
 notice
 no
@@ -9392,6 +9396,7 @@ lapar
 luffy
 libcurl
 localization
+lib
 verb
 various
 vociferously
@@ -10372,6 +10377,8 @@ dynamic
 didiskon
 desain
 dataset
+daud
+docs
 VERB
 Verb
 Valentine
