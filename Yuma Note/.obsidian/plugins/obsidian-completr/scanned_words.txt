@@ -1279,6 +1279,7 @@ alur
 allocator
 awam
 arc
+adha
 Deborah
 Do
 Disini
@@ -2415,6 +2416,7 @@ Berkaca
 Bug
 Baitul
 Breaking
+Bulan
 created
 clause
 comes
@@ -4592,6 +4594,7 @@ insert
 init
 integrasi
 indah
+idul
 pronoun
 preposition
 prepositional
@@ -5110,6 +5113,11 @@ playlist
 piece
 pull
 penunjang
+passing
+private
+playernya
+pekerja
+pengecoran
 noun
 notice
 no
@@ -5340,6 +5348,9 @@ null
 notabene
 niche
 ngerjakan
+namananya
+nongkrong
+ngerjain
 read
 recognize
 rather
@@ -5614,6 +5625,10 @@ reusable
 ranah
 relax
 rewatch
+roleplay
+ramai
+random
+raya
 such
 so
 sentence
@@ -6153,6 +6168,7 @@ sains
 supermi
 sangka
 std
+support
 by
 behind
 boat
@@ -6640,6 +6656,8 @@ belajarNya
 berpindah
 blackout
 barunya
+berbahasa
+bantut
 form
 for
 first
@@ -7706,6 +7724,7 @@ wajar
 warga
 watak
 weebcentral
+whiterun
 Exams
 Example
 Exercise
@@ -8797,6 +8816,11 @@ mendengarkan
 musik
 mengalun
 menyarankan
+major
+modder
+mic
+mengkuliti
+memotong
 In
 It
 If
@@ -9397,6 +9421,7 @@ luffy
 libcurl
 localization
 lib
+lag
 verb
 various
 vociferously
@@ -10379,6 +10404,8 @@ desain
 dataset
 daud
 docs
+didalam
+daging
 VERB
 Verb
 Valentine
@@ -11785,6 +11812,10 @@ kering
 kolom
 kangen
 kaido
+kesukaan
+kelakuan
+komunikasi
+kupon
 Note
 November
 Nur
@@ -12276,6 +12307,7 @@ Mortimer
 Made
 Mal
 May
+Mod
 October
 Object
 On
