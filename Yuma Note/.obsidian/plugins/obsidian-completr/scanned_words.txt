@@ -672,6 +672,7 @@ Lebaran
 Loading
 Link
 LGTM
+Line
 TOEFL
 Test
 Tom
@@ -919,6 +920,8 @@ Try
 Teras
 TextEditingController
 Tepat
+TUI
+Terminal
 author
 after
 as
@@ -3144,6 +3147,9 @@ Core
 Concept
 Charles
 CLI
+Changes
+Command
+Clap
 For
 FF
 February
@@ -3535,6 +3541,8 @@ Rating
 Referensi
 Rich
 Radio
+Redio
+Ratatui
 Skill
 Sumber
 Source
@@ -6169,6 +6177,7 @@ supermi
 sangka
 std
 support
+semudah
 by
 behind
 boat
@@ -8821,6 +8830,7 @@ modder
 mic
 mengkuliti
 memotong
+menyimpulkan
 In
 It
 If
@@ -11443,6 +11453,7 @@ Umum
 Universitas
 Ulasan
 UTC
+User
 kalimat
 karena
 kata
