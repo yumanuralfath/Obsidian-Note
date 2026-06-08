@@ -453,6 +453,9 @@ tertulis
 terkontrol
 terbaring
 terbiasa
+tahajud
+tiada
+toh
 Longman
 Literature
 LB
@@ -926,6 +929,8 @@ TextEditingController
 Tepat
 TUI
 Terminal
+Ter
+TKD
 author
 after
 as
@@ -1287,6 +1292,7 @@ allocator
 awam
 arc
 adha
+alarm
 Deborah
 Do
 Disini
@@ -1976,6 +1982,7 @@ ymM
 yakni
 yumana
 youtube
+yah
 grammar
 gerund
 giving
@@ -2746,6 +2753,9 @@ chinese
 community
 cli
 cargo
+creation
+construction
+cpns
 updated
 utama
 utamanya
@@ -4119,6 +4129,7 @@ Author
 APK
 AOT
 Akhir
+Artikel
 object
 of
 or
@@ -4344,6 +4355,7 @@ overall
 ost
 overweight
 oneshot
+oleng
 is
 in
 it
@@ -5136,6 +5148,7 @@ playernya
 pekerja
 pengecoran
 pembelajaran
+pemilihan
 noun
 notice
 no
@@ -5369,6 +5382,7 @@ ngerjakan
 namananya
 nongkrong
 ngerjain
+notebook
 read
 recognize
 rather
@@ -6681,6 +6695,10 @@ bantut
 belakangan
 berupaya
 berusaha
+batal
+berbaring
+bersyukur
+builder
 form
 for
 first
@@ -6965,6 +6983,7 @@ finalisasi
 freestyle
 flow
 formatnya
+formasi
 his
 he
 has
@@ -7257,6 +7276,8 @@ hardware
 hobby
 hebat
 hambatan
+hobi
+hardcore
 exams
 example
 either
@@ -8851,6 +8872,9 @@ menurun
 menonton
 menurunkan
 menyesal
+menanti
+mengecek
+mengahsilkan
 In
 It
 If
@@ -9639,6 +9663,7 @@ visi
 viewmodel
 volume
 valuenya
+video
 You
 Yuma
 YO
@@ -10439,6 +10464,10 @@ daging
 dibantu
 ditangani
 diinginkan
+dini
+ditemani
+dhuha
+didapatkan
 VERB
 Verb
 Valentine
@@ -11859,6 +11888,7 @@ kuah
 konsentrasi
 kasur
 kemudian
+khususnya
 Note
 November
 Nur
@@ -12046,6 +12076,7 @@ Natsume
 Non
 Null
 Navigator
+Ngoding
 Monday
 Museum
 My
@@ -12849,6 +12880,7 @@ Jurnal
 Jadi
 JIT
 Jun
+June
 Zk
 ZC
 Zim
