@@ -451,6 +451,8 @@ tertentu
 tercantum
 tertulis
 terkontrol
+terbaring
+terbiasa
 Longman
 Literature
 LB
@@ -673,6 +675,8 @@ Loading
 Link
 LGTM
 Line
+Language
+Lolos
 TOEFL
 Test
 Tom
@@ -1971,6 +1975,7 @@ yUYIQNV
 ymM
 yakni
 yumana
+youtube
 grammar
 gerund
 giving
@@ -2420,6 +2425,7 @@ Bug
 Baitul
 Breaking
 Bulan
+Berat
 created
 clause
 comes
@@ -2739,6 +2745,7 @@ comment
 chinese
 community
 cli
+cargo
 updated
 utama
 utamanya
@@ -4335,6 +4342,8 @@ opinionated
 optimize
 overall
 ost
+overweight
+oneshot
 is
 in
 it
@@ -5126,6 +5135,7 @@ private
 playernya
 pekerja
 pengecoran
+pembelajaran
 noun
 notice
 no
@@ -6178,6 +6188,7 @@ sangka
 std
 support
 semudah
+sejam
 by
 behind
 boat
@@ -6667,6 +6678,9 @@ blackout
 barunya
 berbahasa
 bantut
+belakangan
+berupaya
+berusaha
 form
 for
 first
@@ -6950,6 +6964,7 @@ filebased
 finalisasi
 freestyle
 flow
+formatnya
 his
 he
 has
@@ -8831,6 +8846,11 @@ mic
 mengkuliti
 memotong
 menyimpulkan
+modularity
+menurun
+menonton
+menurunkan
+menyesal
 In
 It
 If
@@ -10416,6 +10436,9 @@ daud
 docs
 didalam
 daging
+dibantu
+ditangani
+diinginkan
 VERB
 Verb
 Valentine
@@ -10831,6 +10854,7 @@ HTML
 HTTP
 Henry
 Help
+Habit
 justify
 jika
 jadi
@@ -11827,6 +11851,14 @@ kesukaan
 kelakuan
 komunikasi
 kupon
+kedinginan
+kipas
+kesulitan
+kelembapan
+kuah
+konsentrasi
+kasur
+kemudian
 Note
 November
 Nur
@@ -12319,6 +12351,7 @@ Made
 Mal
 May
 Mod
+Melakukan
 October
 Object
 On
