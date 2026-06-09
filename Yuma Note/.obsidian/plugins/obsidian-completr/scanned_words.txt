@@ -456,6 +456,9 @@ terbiasa
 tahajud
 tiada
 toh
+teradaftar
+tangan
+terpencil
 Longman
 Literature
 LB
@@ -680,6 +683,7 @@ LGTM
 Line
 Language
 Lolos
+Lamaran
 TOEFL
 Test
 Tom
@@ -931,6 +935,8 @@ TUI
 Terminal
 Ter
 TKD
+Transkrip
+Timur
 author
 after
 as
@@ -1544,6 +1550,8 @@ Dipelajari
 Doren
 Dingin
 Daud
+Dokumen
+Daerah
 Phillips
 Preparation
 Past
@@ -1834,6 +1842,10 @@ Perut
 Pendekatan
 Pulang
 Plus
+Pas
+Pernyataan
+Perhatikan
+Pertimbangkan
 year
 you
 yesterday
@@ -2202,6 +2214,8 @@ gen
 genre
 generate
 galak
+ganjil
+genap
 Book
 Because
 Be
@@ -2756,6 +2770,7 @@ cargo
 creation
 construction
 cpns
+cek
 updated
 utama
 utamanya
@@ -3338,6 +3353,7 @@ Fiction
 Feature
 Finalisasi
 FFI
+Formasi
 Ringkasan
 Review
 Reach
@@ -3872,6 +3888,10 @@ Safety
 Smart
 Seminggu
 SBS
+Siapkan
+SKCK
+Sehat
+Sertifikat
 An
 After
 Answers
@@ -4130,6 +4150,7 @@ APK
 AOT
 Akhir
 Artikel
+Akreditasi
 object
 of
 or
@@ -4624,6 +4645,7 @@ init
 integrasi
 indah
 idul
+instansi
 pronoun
 preposition
 prepositional
@@ -5149,6 +5171,13 @@ pekerja
 pengecoran
 pembelajaran
 pemilihan
+persyaratan
+pengecualian
+pendukung
+persiapkan
+pelamar
+peminat
+penempatan
 noun
 notice
 no
@@ -5661,6 +5690,7 @@ roleplay
 ramai
 random
 raya
+rasio
 such
 so
 sentence
@@ -6203,6 +6233,7 @@ std
 support
 semudah
 sejam
+seksama
 by
 behind
 boat
@@ -6699,6 +6730,7 @@ batal
 berbaring
 bersyukur
 builder
+biru
 form
 for
 first
@@ -7278,6 +7310,7 @@ hebat
 hambatan
 hobi
 hardcore
+hindari
 exams
 example
 either
@@ -8875,6 +8908,9 @@ menyesal
 menanti
 mengecek
 mengahsilkan
+merah
+materai
+melamar
 In
 It
 If
@@ -9114,6 +9150,8 @@ Implementation
 Implement
 Info
 IOS
+Iqra
+Ijazah
 look
 later
 lot
@@ -9476,6 +9514,8 @@ libcurl
 localization
 lib
 lag
+latest
+legalisir
 verb
 various
 vociferously
@@ -10468,6 +10508,8 @@ dini
 ditemani
 dhuha
 didapatkan
+dukcapil
+direkomendasikan
 VERB
 Verb
 Valentine
@@ -11106,6 +11148,7 @@ jauhnya
 jalur
 jenuh
 jatuh
+jurusan
 Konsep
 Koleksi
 KKj
@@ -11334,6 +11377,11 @@ Kekurangan
 Kesimpulan
 Kam
 Knight
+KTP
+Kompetensi
+Kemenkeu
+Kabupatan
+Kecil
 Utama
 Use
 UL
@@ -11507,6 +11555,8 @@ Universitas
 Ulasan
 UTC
 User
+Umur
+Usahakan
 kalimat
 karena
 kata
@@ -11889,6 +11939,9 @@ konsentrasi
 kasur
 kemudian
 khususnya
+kampus
+kuota
+kejaksaan
 Note
 November
 Nur
@@ -12711,6 +12764,7 @@ Walaupun
 Walau
 Wow
 Wanita
+Wilayah
 Jika
 Jf
 Jl
