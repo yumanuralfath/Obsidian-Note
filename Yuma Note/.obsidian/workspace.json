@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "40a9295e2958591b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026/June/08.06.26.159.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "08.06.26.159"
-            }
-          },
-          {
             "id": "08c72578241f336e",
             "type": "leaf",
             "state": {
@@ -55,8 +31,7 @@
               "title": "09.06.26.160"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,9 +230,9 @@
   },
   "active": "08c72578241f336e",
   "lastOpenFiles": [
-    "Zettelkasten/Strategi memilih Formasi CPNS.md",
-    "Daily/2026/June/09.06.26.160.md",
     "Daily/2026/June/08.06.26.159.md",
+    "Daily/2026/June/09.06.26.160.md",
+    "Zettelkasten/Strategi memilih Formasi CPNS.md",
     "Zettelkasten/Ab initio calculation.md",
     "Zettelkasten/Design Pattern Rust.md",
     "Daily/2026/June/07.06.26.158.md",

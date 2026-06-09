@@ -937,6 +937,7 @@ Ter
 TKD
 Transkrip
 Timur
+TIU
 author
 after
 as
@@ -4151,6 +4152,7 @@ AOT
 Akhir
 Artikel
 Akreditasi
+Article
 object
 of
 or
@@ -12935,6 +12937,7 @@ Jadi
 JIT
 Jun
 June
+Jogging
 Zk
 ZC
 Zim
