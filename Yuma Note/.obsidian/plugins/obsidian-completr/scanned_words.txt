@@ -459,6 +459,11 @@ toh
 teradaftar
 tangan
 terpencil
+tando
+tempuh
+terkenal
+terbentur
+terpakai
 Longman
 Literature
 LB
@@ -684,6 +689,7 @@ Line
 Language
 Lolos
 Lamaran
+LSP
 TOEFL
 Test
 Tom
@@ -938,6 +944,8 @@ TKD
 Transkrip
 Timur
 TIU
+Tando
+TWK
 author
 after
 as
@@ -1300,6 +1308,10 @@ awam
 arc
 adha
 alarm
+ampuh
+active
+akarnya
+ayocpns
 Deborah
 Do
 Disini
@@ -1847,6 +1859,8 @@ Pas
 Pernyataan
 Perhatikan
 Pertimbangkan
+Panggilan
+Potter
 year
 you
 yesterday
@@ -2772,6 +2786,7 @@ creation
 construction
 cpns
 cek
+command
 updated
 utama
 utamanya
@@ -3893,6 +3908,7 @@ Siapkan
 SKCK
 Sehat
 Sertifikat
+SKD
 An
 After
 Answers
@@ -4648,6 +4664,8 @@ integrasi
 indah
 idul
 instansi
+intelegensia
+implemenasi
 pronoun
 preposition
 prepositional
@@ -5180,6 +5198,14 @@ persiapkan
 pelamar
 peminat
 penempatan
+peliharaan
+papa
+pelakunya
+pintu
+pengingat
+pembaca
+pembagian
+penghujung
 noun
 notice
 no
@@ -5414,6 +5440,8 @@ namananya
 nongkrong
 ngerjain
 notebook
+ngetok
+nandain
 read
 recognize
 rather
@@ -5693,6 +5721,7 @@ ramai
 random
 raya
 rasio
+refreshing
 such
 so
 sentence
@@ -6236,6 +6265,9 @@ support
 semudah
 sejam
 seksama
+subuhan
+sub
+sepotong
 by
 behind
 boat
@@ -6733,6 +6765,9 @@ berbaring
 bersyukur
 builder
 biru
+bayaran
+biaya
+berikhtiar
 form
 for
 first
@@ -7018,6 +7053,7 @@ freestyle
 flow
 formatnya
 formasi
+flag
 his
 he
 has
@@ -7805,6 +7841,8 @@ warga
 watak
 weebcentral
 whiterun
+wwkkwwk
+wkwkwkw
 Exams
 Example
 Exercise
@@ -8913,6 +8951,11 @@ mengahsilkan
 merah
 materai
 melamar
+memanggilnya
+manggilnya
+mendobrak
+memukul
+membayar
 In
 It
 If
@@ -9154,6 +9197,7 @@ Info
 IOS
 Iqra
 Ijazah
+Ishoma
 look
 later
 lot
@@ -9518,6 +9562,8 @@ lib
 lag
 latest
 legalisir
+leak
+linux
 verb
 various
 vociferously
@@ -10057,6 +10103,7 @@ Growtopia
 GUI
 Guru
 Genre
+Gemini
 does
 div
 dalam
@@ -10512,6 +10559,10 @@ dhuha
 didapatkan
 dukcapil
 direkomendasikan
+dibangunkan
+durasi
+dipotong
+dalami
 VERB
 Verb
 Valentine
@@ -10928,6 +10979,7 @@ HTTP
 Henry
 Help
 Habit
+Harry
 justify
 jika
 jadi
@@ -11151,6 +11203,7 @@ jalur
 jenuh
 jatuh
 jurusan
+jidat
 Konsep
 Koleksi
 KKj
@@ -11944,6 +11997,15 @@ khususnya
 kampus
 kuota
 kejaksaan
+ketukan
+kening
+kelaparan
+kwwk
+kotor
+kebingungan
+kuadratkan
+kodingan
+keluar
 Note
 November
 Nur
