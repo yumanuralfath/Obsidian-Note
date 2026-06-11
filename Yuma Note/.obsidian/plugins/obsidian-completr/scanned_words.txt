@@ -464,6 +464,7 @@ tempuh
 terkenal
 terbentur
 terpakai
+tara
 Longman
 Literature
 LB
@@ -3910,6 +3911,7 @@ SKCK
 Sehat
 Sertifikat
 SKD
+Seusai
 An
 After
 Answers
@@ -12007,6 +12009,7 @@ kebingungan
 kuadratkan
 kodingan
 keluar
+kesegaran
 Note
 November
 Nur
