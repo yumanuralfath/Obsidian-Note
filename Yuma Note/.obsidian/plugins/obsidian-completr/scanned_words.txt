@@ -465,6 +465,7 @@ terkenal
 terbentur
 terpakai
 tara
+timeline
 Longman
 Literature
 LB
@@ -6271,6 +6272,7 @@ seksama
 subuhan
 sub
 sepotong
+sejarah
 by
 behind
 boat
@@ -12010,6 +12012,7 @@ kuadratkan
 kodingan
 keluar
 kesegaran
+kemerdekaan
 Note
 November
 Nur
