@@ -692,6 +692,7 @@ Language
 Lolos
 Lamaran
 LSP
+LICENSE
 TOEFL
 Test
 Tom
@@ -949,6 +950,7 @@ TIU
 Tando
 TWK
 TIME
+TestDb
 author
 after
 as
@@ -1315,6 +1317,10 @@ ampuh
 active
 akarnya
 ayocpns
+automate
+automatic
+anyhow
+auth
 Deborah
 Do
 Disini
@@ -2790,6 +2796,9 @@ construction
 cpns
 cek
 command
+chore
+cleanup
+coverage
 updated
 utama
 utamanya
@@ -2987,6 +2996,8 @@ usil
 unpredictable
 ujian
 untung
+utilities
+unused
 Course
 Created
 Careful
@@ -3595,6 +3606,7 @@ Rich
 Radio
 Redio
 Ratatui
+README
 Skill
 Sumber
 Source
@@ -4173,6 +4185,7 @@ Akhir
 Artikel
 Akreditasi
 Article
+Askama
 object
 of
 or
@@ -4670,6 +4683,7 @@ idul
 instansi
 intelegensia
 implemenasi
+integration
 pronoun
 preposition
 prepositional
@@ -5210,6 +5224,10 @@ pengingat
 pembaca
 pembagian
 penghujung
+production
+prepare
+pre
+push
 noun
 notice
 no
@@ -5726,6 +5744,14 @@ random
 raya
 rasio
 refreshing
+repo
+refresh
+remove
+rand
+rustls
+reqwest
+replace
+result
 such
 so
 sentence
@@ -6273,6 +6299,8 @@ subuhan
 sub
 sepotong
 sejarah
+sqlx
+submodule
 by
 behind
 boat
@@ -7059,6 +7087,7 @@ flow
 formatnya
 formasi
 flag
+feat
 his
 he
 has
@@ -7354,6 +7383,8 @@ hambatan
 hobi
 hardcore
 hindari
+hook
+handlers
 exams
 example
 either
@@ -7608,6 +7639,10 @@ editor
 eksplisitan
 elegan
 elsevier
+enhance
+ensure
+env
+expand
 will
 with
 when
@@ -7848,6 +7883,7 @@ weebcentral
 whiterun
 wwkkwwk
 wkwkwkw
+without
 Exams
 Example
 Exercise
@@ -8961,6 +8997,9 @@ manggilnya
 mendobrak
 memukul
 membayar
+move
+mod
+middleware
 In
 It
 If
@@ -9569,6 +9608,8 @@ latest
 legalisir
 leak
 linux
+loading
+lettre
 verb
 various
 vociferously
@@ -9757,6 +9798,9 @@ viewmodel
 volume
 valuenya
 video
+validation
+validator
+verification
 You
 Yuma
 YO
@@ -10568,6 +10612,8 @@ dibangunkan
 durasi
 dipotong
 dalami
+dependencies
+deps
 VERB
 Verb
 Valentine
@@ -12508,6 +12554,7 @@ Mal
 May
 Mod
 Melakukan
+Maintenance
 October
 Object
 On
