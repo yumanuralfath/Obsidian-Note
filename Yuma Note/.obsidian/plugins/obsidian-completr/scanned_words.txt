@@ -5467,6 +5467,7 @@ ngerjain
 notebook
 ngetok
 nandain
+nampaknya
 read
 recognize
 rather
@@ -6304,6 +6305,7 @@ sepotong
 sejarah
 sqlx
 submodule
+sampingnya
 by
 behind
 boat
@@ -9005,6 +9007,10 @@ membayar
 move
 mod
 middleware
+membukakan
+muntah
+mengarah
+membaik
 In
 It
 If
@@ -9615,6 +9621,8 @@ leak
 linux
 loading
 lettre
+liat
+lekas
 verb
 various
 vociferously
@@ -10619,6 +10627,7 @@ dipotong
 dalami
 dependencies
 deps
+diare
 VERB
 Verb
 Valentine
@@ -12064,6 +12073,8 @@ kodingan
 keluar
 kesegaran
 kemerdekaan
+kelelahan
+kepalanya
 Note
 November
 Nur
