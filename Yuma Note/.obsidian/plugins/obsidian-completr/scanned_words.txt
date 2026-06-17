@@ -1321,6 +1321,7 @@ automate
 automatic
 anyhow
 auth
+astro
 Deborah
 Do
 Disini
@@ -6801,6 +6802,7 @@ biru
 bayaran
 biaya
 berikhtiar
+bun
 form
 for
 first
@@ -12248,6 +12250,7 @@ Null
 Navigator
 Ngoding
 NGODING
+NextJs
 Monday
 Museum
 My
@@ -12555,6 +12558,7 @@ May
 Mod
 Melakukan
 Maintenance
+Migrasi
 October
 Object
 On
