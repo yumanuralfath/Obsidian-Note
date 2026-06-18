@@ -466,6 +466,10 @@ terbentur
 terpakai
 tara
 timeline
+terbujur
+ternyaman
+terengah
+terima
 Longman
 Literature
 LB
@@ -1578,6 +1582,7 @@ Dingin
 Daud
 Dokumen
 Daerah
+Dirumah
 Phillips
 Preparation
 Past
@@ -2245,6 +2250,7 @@ generate
 galak
 ganjil
 genap
+gerimis
 Book
 Because
 Be
@@ -3931,6 +3937,7 @@ Sehat
 Sertifikat
 SKD
 Seusai
+Sehabis
 An
 After
 Answers
@@ -5237,6 +5244,8 @@ prepare
 pre
 push
 portfolio
+perutnya
+pelan
 noun
 notice
 no
@@ -5475,6 +5484,8 @@ ngetok
 nandain
 nampaknya
 npy
+ngeselin
+nangis
 read
 recognize
 rather
@@ -6315,6 +6326,10 @@ sejarah
 sqlx
 submodule
 sampingnya
+sembuh
+simpan
+sekeluarga
+sakitnya
 by
 behind
 boat
@@ -6817,6 +6832,13 @@ biaya
 berikhtiar
 bun
 bump
+baikan
+berangin
+beridiri
+berdoa
+beranda
+bermimpi
+bercanda
 form
 for
 first
@@ -7660,6 +7682,7 @@ enhance
 ensure
 env
 expand
+engah
 will
 with
 when
@@ -9022,6 +9045,11 @@ membukakan
 muntah
 mengarah
 membaik
+melankolis
+minum
+magrib
+mengejan
+mama
 In
 It
 If
@@ -9634,6 +9662,7 @@ loading
 lettre
 liat
 lekas
+lucu
 verb
 various
 vociferously
@@ -10639,6 +10668,7 @@ dalami
 dependencies
 deps
 diare
+dedikasi
 VERB
 Verb
 Valentine
@@ -11513,6 +11543,8 @@ Kompetensi
 Kemenkeu
 Kabupatan
 Kecil
+Kamis
+Kami
 Utama
 Use
 UL
@@ -12086,6 +12118,12 @@ kesegaran
 kemerdekaan
 kelelahan
 kepalanya
+kelabu
+kemaren
+kehausan
+kesakitan
+kuliat
+kenang
 Note
 November
 Nur
@@ -12585,6 +12623,7 @@ Mod
 Melakukan
 Maintenance
 Migrasi
+Memoriam
 October
 Object
 On
