@@ -694,6 +694,7 @@ Lamaran
 LSP
 LICENSE
 Letter
+License
 TOEFL
 Test
 Tom
@@ -1323,6 +1324,7 @@ automatic
 anyhow
 auth
 astro
+alfathsave
 Deborah
 Do
 Disini
@@ -2802,6 +2804,7 @@ command
 chore
 cleanup
 coverage
+contact
 updated
 utama
 utamanya
@@ -4189,6 +4192,7 @@ Artikel
 Akreditasi
 Article
 Askama
+AUR
 object
 of
 or
@@ -4687,6 +4691,7 @@ instansi
 intelegensia
 implemenasi
 integration
+improve
 pronoun
 preposition
 prepositional
@@ -5231,6 +5236,7 @@ production
 prepare
 pre
 push
+portfolio
 noun
 notice
 no
@@ -5468,6 +5474,7 @@ notebook
 ngetok
 nandain
 nampaknya
+npy
 read
 recognize
 rather
@@ -5756,6 +5763,8 @@ rustls
 reqwest
 replace
 result
+resolve
+reflect
 such
 so
 sentence
@@ -6807,6 +6816,7 @@ bayaran
 biaya
 berikhtiar
 bun
+bump
 form
 for
 first
@@ -7391,6 +7401,7 @@ hardcore
 hindari
 hook
 handlers
+hover
 exams
 example
 either
@@ -12265,6 +12276,7 @@ Navigator
 Ngoding
 NGODING
 NextJs
+NPY
 Monday
 Museum
 My
