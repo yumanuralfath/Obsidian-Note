@@ -957,6 +957,8 @@ Tando
 TWK
 TIME
 TestDb
+Taufiq
+Tunngal
 author
 after
 as
@@ -1329,6 +1331,7 @@ anyhow
 auth
 astro
 alfathsave
+asas
 Deborah
 Do
 Disini
@@ -1880,6 +1883,8 @@ Pertimbangkan
 Panggilan
 Potter
 Portfolio
+Pilar
+Pancasila
 year
 you
 yesterday
@@ -2482,6 +2487,7 @@ Baitul
 Breaking
 Bulan
 Berat
+Bhineka
 created
 clause
 comes
@@ -5246,6 +5252,10 @@ push
 portfolio
 perutnya
 pelan
+pilar
+pujian
+prapanca
+pancasila
 noun
 notice
 no
@@ -5486,6 +5496,8 @@ nampaknya
 npy
 ngeselin
 nangis
+ntang
+ntaim
 read
 recognize
 rather
@@ -6330,6 +6342,8 @@ sembuh
 simpan
 sekeluarga
 sakitnya
+sansakerta
+syair
 by
 behind
 boat
@@ -7683,6 +7697,7 @@ ensure
 env
 expand
 engah
+empu
 will
 with
 when
@@ -8125,6 +8140,7 @@ Eid
 EGUI
 Education
 Enhance
+Empat
 questions
 quite
 qr
@@ -9292,6 +9308,8 @@ IOS
 Iqra
 Ijazah
 Ishoma
+Istilah
+Ika
 look
 later
 lot
@@ -9663,6 +9681,7 @@ lettre
 liat
 lekas
 lucu
+lambang
 verb
 various
 vociferously
@@ -10669,6 +10688,7 @@ dependencies
 deps
 diare
 dedikasi
+digagas
 VERB
 Verb
 Valentine
@@ -11545,6 +11565,7 @@ Kabupatan
 Kecil
 Kamis
 Kami
+Kiemas
 Utama
 Use
 UL
@@ -11720,6 +11741,8 @@ UTC
 User
 Umur
 Usahakan
+Urutan
+UUD
 kalimat
 karena
 kata
@@ -12124,6 +12147,7 @@ kehausan
 kesakitan
 kuliat
 kenang
+ketua
 Note
 November
 Nur
@@ -12315,6 +12339,8 @@ Ngoding
 NGODING
 NextJs
 NPY
+Negara
+NKRI
 Monday
 Museum
 My
@@ -12624,6 +12650,7 @@ Melakukan
 Maintenance
 Migrasi
 Memoriam
+MPR
 October
 Object
 On
