@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4d7e9035b4d41ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026/June/19.06.26.170.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "19.06.26.170"
-            }
-          },
-          {
             "id": "e63c60470e124695",
             "type": "leaf",
             "state": {
@@ -245,11 +221,11 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "a4d7e9035b4d41ff",
+  "active": "e63c60470e124695",
   "lastOpenFiles": [
+    "Daily/2026/June/19.06.26.170.md",
     "Daily/2026/June/20.06.26.171.md",
     "Zettelkasten/Tips mengerjakan TWK.md",
-    "Daily/2026/June/19.06.26.170.md",
     "Zettelkasten/Pilar negara.md",
     "Zettelkasten/Untitled.md",
     "Daily/2026/June/18.06.26.169.md",
