@@ -475,6 +475,7 @@ tinya
 tta
 timur
 terkandung
+terkini
 Longman
 Literature
 LB
@@ -1604,6 +1605,7 @@ Dokuritsu
 Dibentuk
 Demokrasi
 Ditolak
+Dunia
 Phillips
 Preparation
 Past
@@ -4502,6 +4504,7 @@ ost
 overweight
 oneshot
 oleng
+outdoor
 is
 in
 it
@@ -4776,6 +4779,7 @@ implemenasi
 integration
 improve
 inisiatif
+isu
 pronoun
 preposition
 prepositional
@@ -5339,6 +5343,10 @@ pembangunan
 persatuan
 pokok
 pasal
+pasca
+penguasaan
+perbanyak
+penalaran
 noun
 notice
 no
@@ -6446,6 +6454,7 @@ soekarno
 sila
 syariat
 sumber
+seringkali
 by
 behind
 boat
@@ -6957,6 +6966,8 @@ bermimpi
 bercanda
 bangsa
 batin
+begitupun
+bercukur
 form
 for
 first
@@ -8048,6 +8059,7 @@ without
 wakilnya
 wilayah
 weltanschauung
+wawasan
 Exams
 Example
 Exercise
@@ -9184,6 +9196,9 @@ musyawarah
 menjalankan
 maha
 minahasa
+menetapkan
+merapikan
+mengimplementasikan
 In
 It
 If
@@ -10818,6 +10833,7 @@ digagas
 disejajarkan
 demokrasi
 disetujuai
+diujikan
 VERB
 Verb
 Valentine
@@ -11712,6 +11728,7 @@ Ketut
 Kedudukan
 Kepribadian
 Kemanusiaan
+Kisi
 Utama
 Use
 UL
@@ -12300,6 +12317,9 @@ kewarganegaraan
 kyatan
 kebangsaan
 keadilan
+kumis
+kelapa
+kemampuan
 Note
 November
 Nur
@@ -12975,6 +12995,7 @@ OpenGL
 Oleh
 Overview
 Originally
+Outdoor
 With
 Waktu
 We
