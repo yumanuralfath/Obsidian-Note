@@ -6455,6 +6455,7 @@ sila
 syariat
 sumber
 seringkali
+sabtu
 by
 behind
 boat
@@ -8060,6 +8061,7 @@ wakilnya
 wilayah
 weltanschauung
 wawasan
+wkwwk
 Exams
 Example
 Exercise
