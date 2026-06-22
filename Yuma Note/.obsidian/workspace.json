@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "5caad2bdce0df543",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Tips mengerjakan TWK.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tips mengerjakan TWK"
-            }
-          },
-          {
             "id": "756726e1bedbb75e",
             "type": "leaf",
             "state": {
@@ -79,8 +55,7 @@
               "title": "22.06.26.173"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,12 +245,12 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "756726e1bedbb75e",
+  "active": "e63c60470e124695",
   "lastOpenFiles": [
-    "Zettelkasten/Pilar negara.md",
     "Daily/2026/June/22.06.26.173.md",
     "Zettelkasten/Tips mengerjakan TWK.md",
     "Daily/2026/June/21.06.26.172.md",
+    "Zettelkasten/Pilar negara.md",
     "Daily/2026/June/20.06.26.171.md",
     "Daily/2026/June/19.06.26.170.md",
     "Zettelkasten/Untitled.md",
