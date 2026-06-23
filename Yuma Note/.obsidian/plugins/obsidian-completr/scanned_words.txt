@@ -4278,6 +4278,7 @@ Ahmad
 Abd
 Abikoesno
 Agama
+Auth
 object
 of
 or
@@ -5889,6 +5890,7 @@ ringin
 rumusan
 royong
 ratulangi
+rebahan
 such
 so
 sentence
