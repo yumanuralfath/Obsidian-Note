@@ -1349,6 +1349,7 @@ adil
 agus
 ambon
 angin
+antigravity
 Deborah
 Do
 Disini
@@ -2293,6 +2294,7 @@ galak
 ganjil
 genap
 gerimis
+guna
 Book
 Because
 Be
@@ -2864,6 +2866,7 @@ cleanup
 coverage
 contact
 cosakai
+context
 updated
 utama
 utamanya
@@ -3679,6 +3682,7 @@ Radjiman
 Reses
 RUUD
 Rakyat
+RAG
 Skill
 Sumber
 Source
@@ -4785,6 +4789,7 @@ integration
 improve
 inisiatif
 isu
+inconsistent
 pronoun
 preposition
 prepositional
@@ -6463,6 +6468,8 @@ syariat
 sumber
 seringkali
 sabtu
+santap
+sangan
 by
 behind
 boat
@@ -9210,6 +9217,10 @@ menetapkan
 merapikan
 mengimplementasikan
 muharram
+memandang
+makanya
+mengarahkan
+mengembalikan
 In
 It
 If
@@ -10845,6 +10856,8 @@ disejajarkan
 demokrasi
 disetujuai
 diujikan
+diberkahi
+dilancarkan
 VERB
 Verb
 Valentine
