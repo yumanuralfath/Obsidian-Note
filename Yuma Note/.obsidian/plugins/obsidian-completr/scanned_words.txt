@@ -969,6 +969,7 @@ Tunngal
 Tuhan
 Trisila
 Tjokrosoeroso
+Tasu
 author
 after
 as
@@ -2532,6 +2533,7 @@ Badan
 Berkebudayaan
 Bali
 Butir
+Bism
 created
 clause
 comes
@@ -4280,6 +4282,7 @@ Abd
 Abikoesno
 Agama
 Auth
+Asyura
 object
 of
 or
@@ -5892,6 +5895,7 @@ rumusan
 royong
 ratulangi
 rebahan
+rabu
 such
 so
 sentence
@@ -6972,6 +6976,7 @@ bangsa
 batin
 begitupun
 bercukur
+bertepatan
 form
 for
 first
@@ -9204,6 +9209,7 @@ minahasa
 menetapkan
 merapikan
 mengimplementasikan
+muharram
 In
 It
 If
