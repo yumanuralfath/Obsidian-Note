@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "24.06.26.175"
             }
+          },
+          {
+            "id": "8dc5854ef6750ced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026/June/23.06.26.174.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "23.06.26.174"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,10 +246,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "756726e1bedbb75e",
+  "active": "8dc5854ef6750ced",
   "lastOpenFiles": [
-    "Daily/2026/June/23.06.26.174.md",
     "Daily/2026/June/24.06.26.175.md",
+    "Daily/2026/June/23.06.26.174.md",
     "Daily/2026/June/22.06.26.173.md",
     "Daily/2026/June/21.06.26.172.md",
     "Zettelkasten/Tips mengerjakan TWK.md",
