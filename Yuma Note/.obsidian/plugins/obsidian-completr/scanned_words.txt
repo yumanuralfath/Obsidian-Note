@@ -476,6 +476,8 @@ tta
 timur
 terkandung
 terkini
+terbentang
+tunda
 Longman
 Literature
 LB
@@ -4015,6 +4017,7 @@ Soebarjo
 Salim
 Subjektif
 Sila
+Sejak
 An
 After
 Answers
@@ -5357,6 +5360,7 @@ pasca
 penguasaan
 perbanyak
 penalaran
+petir
 noun
 notice
 no
@@ -6984,6 +6988,7 @@ batin
 begitupun
 bercukur
 bertepatan
+bersahutan
 form
 for
 first
@@ -7570,6 +7575,7 @@ hook
 handlers
 hover
 hanan
+hebatnya
 exams
 example
 either
@@ -9221,6 +9227,7 @@ memandang
 makanya
 mengarahkan
 mengembalikan
+menjatuhkan
 In
 It
 If
