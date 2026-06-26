@@ -708,6 +708,7 @@ LICENSE
 Letter
 License
 Lahirnya
+LETTER
 TOEFL
 Test
 Tom
@@ -1352,6 +1353,7 @@ agus
 ambon
 angin
 antigravity
+asyura
 Deborah
 Do
 Disini
@@ -4517,6 +4519,7 @@ overweight
 oneshot
 oleng
 outdoor
+observasi
 is
 in
 it
@@ -6474,6 +6477,7 @@ seringkali
 sabtu
 santap
 sangan
+sehabis
 by
 behind
 boat
@@ -10865,6 +10869,7 @@ disetujuai
 diujikan
 diberkahi
 dilancarkan
+dianjurkan
 VERB
 Verb
 Valentine
@@ -12864,6 +12869,7 @@ Mukhadimah
 Moh
 Maramis
 Mudzakir
+Muslim
 October
 Object
 On
