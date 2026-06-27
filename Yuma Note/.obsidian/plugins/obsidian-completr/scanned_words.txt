@@ -6478,6 +6478,7 @@ sabtu
 santap
 sangan
 sehabis
+segini
 by
 behind
 boat
@@ -9232,6 +9233,7 @@ makanya
 mengarahkan
 mengembalikan
 menjatuhkan
+menjadwal
 In
 It
 If
