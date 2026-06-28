@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/June/27.06.26.178.md",
+                "file": "Daily/2026/June/28.06.26.179.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "27.06.26.178"
+              "title": "28.06.26.179"
             }
           }
         ]
@@ -223,8 +223,9 @@
   },
   "active": "756726e1bedbb75e",
   "lastOpenFiles": [
-    "Daily/2026/June/26.06.26.177.md",
     "Daily/2026/June/27.06.26.178.md",
+    "Daily/2026/June/28.06.26.179.md",
+    "Daily/2026/June/26.06.26.177.md",
     "Daily/2026/June/25.06.26.176.md",
     "Daily/2026/June/24.06.26.175.md",
     "Daily/2026/June/23.06.26.174.md",
@@ -248,7 +249,6 @@
     "Daily/2026/June/08.06.26.159.md",
     "Zettelkasten/Strategi memilih Formasi CPNS.md",
     "Zettelkasten/Ab initio calculation.md",
-    "Zettelkasten/Design Pattern Rust.md",
     "Daily/2026/June",
     "Daily/2026/May",
     "FIles/screenshot_28042026_111809.jpg",
