@@ -1354,6 +1354,7 @@ ambon
 angin
 antigravity
 asyura
+awali
 Deborah
 Do
 Disini
@@ -2540,6 +2541,8 @@ Berkebudayaan
 Bali
 Butir
 Bism
+BAHASA
+Bismillahirrahmanirrahim
 created
 clause
 comes
@@ -9481,6 +9484,7 @@ Istilah
 Ika
 Internasionalisme
 Ideologi
+INDONESIA
 look
 later
 lot
@@ -13385,6 +13389,7 @@ Jakarta
 Juli
 Jiwa
 Jul
+July
 Zk
 ZC
 Zim
