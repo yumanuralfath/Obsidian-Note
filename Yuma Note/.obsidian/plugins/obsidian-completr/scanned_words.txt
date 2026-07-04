@@ -2543,6 +2543,7 @@ Butir
 Bism
 BAHASA
 Bismillahirrahmanirrahim
+BENKYOU
 created
 clause
 comes
@@ -3289,6 +3290,7 @@ Changes
 Command
 Clap
 Cita
+CEPAT
 For
 FF
 February
@@ -11297,6 +11299,7 @@ Harry
 Hatta
 Hasyim
 Hidup
+HITUNG
 justify
 jika
 jadi
@@ -12558,6 +12561,7 @@ Negara
 NKRI
 Nas
 Nasionalisme
+NIHONGO
 Monday
 Museum
 My
