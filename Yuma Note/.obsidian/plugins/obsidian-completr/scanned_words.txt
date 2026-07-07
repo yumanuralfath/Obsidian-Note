@@ -4026,6 +4026,7 @@ Salim
 Subjektif
 Sila
 Sejak
+SKIP
 An
 After
 Answers
@@ -8297,6 +8298,7 @@ Education
 Enhance
 Empat
 Ekasila
+EVENT
 questions
 quite
 qr
@@ -12562,6 +12564,7 @@ NKRI
 Nas
 Nasionalisme
 NIHONGO
+NIKAHAN
 Monday
 Museum
 My
