@@ -5916,6 +5916,7 @@ royong
 ratulangi
 rebahan
 rabu
+reda
 such
 so
 sentence
@@ -6487,6 +6488,7 @@ santap
 sangan
 sehabis
 segini
+sesaat
 by
 behind
 boat
@@ -9243,6 +9245,7 @@ mengarahkan
 mengembalikan
 menjatuhkan
 menjadwal
+mengisi
 In
 It
 If
