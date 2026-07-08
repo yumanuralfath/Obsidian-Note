@@ -478,6 +478,9 @@ terkandung
 terkini
 terbentang
 tunda
+trivia
+terlupa
+teks
 Longman
 Literature
 LB
@@ -709,6 +712,7 @@ Letter
 License
 Lahirnya
 LETTER
+Lambang
 TOEFL
 Test
 Tom
@@ -1355,6 +1359,9 @@ angin
 antigravity
 asyura
 awali
+akar
+aplikatif
+agnostic
 Deborah
 Do
 Disini
@@ -4028,6 +4035,7 @@ Subjektif
 Sila
 Sejak
 SKIP
+SDL
 An
 After
 Answers
@@ -5372,6 +5380,9 @@ penguasaan
 perbanyak
 penalaran
 petir
+pangkat
+petak
+pepatah
 noun
 notice
 no
@@ -5917,6 +5928,9 @@ ratulangi
 rebahan
 rabu
 reda
+rutinitas
+radix
+rendering
 such
 so
 sentence
@@ -6489,6 +6503,7 @@ sangan
 sehabis
 segini
 sesaat
+sifatnya
 by
 behind
 boat
@@ -7004,6 +7019,7 @@ begitupun
 bercukur
 bertepatan
 bersahutan
+bereksplorasi
 form
 for
 first
@@ -7591,6 +7607,9 @@ handlers
 hover
 hanan
 hebatnya
+harinya
+hiragana
+hime
 exams
 example
 either
@@ -9246,6 +9265,12 @@ mengembalikan
 menjatuhkan
 menjadwal
 mengisi
+menyerang
+mengusirnya
+mengalihkan
+memasangkannya
+mendedikasikan
+menembus
 In
 It
 If
@@ -9868,6 +9893,7 @@ lambang
 lagu
 laturhary
 luhur
+lahan
 verb
 various
 vociferously
@@ -10885,6 +10911,8 @@ diujikan
 diberkahi
 dilancarkan
 dianjurkan
+diasah
+diulang
 VERB
 Verb
 Valentine
@@ -11306,6 +11334,7 @@ Hatta
 Hasyim
 Hidup
 HITUNG
+Hiragana
 justify
 jika
 jadi
@@ -11781,6 +11810,8 @@ Kedudukan
 Kepribadian
 Kemanusiaan
 Kisi
+Kana
+Katakana
 Utama
 Use
 UL
@@ -12372,6 +12403,8 @@ keadilan
 kumis
 kelapa
 kemampuan
+kaji
+kaguya
 Note
 November
 Nur
@@ -12888,6 +12921,8 @@ Moh
 Maramis
 Mudzakir
 Muslim
+Menariknya
+Microui
 October
 Object
 On
@@ -13401,6 +13436,7 @@ Juli
 Jiwa
 Jul
 July
+JLPT
 Zk
 ZC
 Zim
