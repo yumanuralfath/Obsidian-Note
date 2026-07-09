@@ -3299,6 +3299,7 @@ Command
 Clap
 Cita
 CEPAT
+CODE
 For
 FF
 February
@@ -12602,6 +12603,7 @@ Nas
 Nasionalisme
 NIHONGO
 NIKAHAN
+NIHON
 Monday
 Museum
 My
