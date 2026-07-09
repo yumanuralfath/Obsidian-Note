@@ -55,8 +55,7 @@
               "title": "08.07.26.189"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,17 +156,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d077707b7a0eab5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "867144e8c0e5e69c",
+            "id": "caf9ecd3ddcd5731",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -177,12 +166,12 @@
             }
           },
           {
-            "id": "fbaa17c98d143d09",
+            "id": "de51e7b7fe9d5b11",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2026/June/13.06.26.164.md",
+                "file": "Daily/2026/July/09.07.26.190.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,44 +181,59 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 13.06.26.164"
+              "title": "Backlinks for 09.07.26.190"
             }
           },
           {
-            "id": "8f32423df831dd22",
+            "id": "76f3828ebe941bf0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026/June/13.06.26.164.md",
+                "file": "Daily/2026/July/09.07.26.190.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 13.06.26.164"
+              "title": "Outgoing links from 09.07.26.190"
             }
           },
           {
-            "id": "fe7828334906414e",
+            "id": "7621e98cd78d0ea7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026/June/13.06.26.164.md",
+                "file": "Daily/2026/July/09.07.26.190.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 13.06.26.164"
+              "title": "Outline of 09.07.26.190"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "7aff4742615837c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d077707b7a0eab5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,10 +249,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "bbe337a6d3014c2f",
+  "active": "561b432a2ab64034",
   "lastOpenFiles": [
-    "Daily/2026/July/09.07.26.190.md",
     "Daily/2026/July/08.07.26.189.md",
+    "Daily/2026/July/09.07.26.190.md",
     "Daily/2026/July/07.07.26.188.md",
     "Daily/2026/July/06.07.26.187.md",
     "Daily/2026/July/05.07.26.186.md",

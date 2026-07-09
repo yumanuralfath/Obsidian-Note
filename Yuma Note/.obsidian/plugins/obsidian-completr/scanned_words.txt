@@ -481,6 +481,8 @@ tunda
 trivia
 terlupa
 teks
+terbuka
+terhambat
 Longman
 Literature
 LB
@@ -1362,6 +1364,7 @@ awali
 akar
 aplikatif
 agnostic
+alunan
 Deborah
 Do
 Disini
@@ -2552,6 +2555,7 @@ Bism
 BAHASA
 Bismillahirrahmanirrahim
 BENKYOU
+Beliau
 created
 clause
 comes
@@ -2883,6 +2887,7 @@ coverage
 contact
 cosakai
 context
+cakwe
 updated
 utama
 utamanya
@@ -4309,6 +4314,7 @@ Abikoesno
 Agama
 Auth
 Asyura
+Adi
 object
 of
 or
@@ -4537,6 +4543,7 @@ oneshot
 oleng
 outdoor
 observasi
+odading
 is
 in
 it
@@ -5384,6 +5391,8 @@ petir
 pangkat
 petak
 pepatah
+prototipe
+petunjuk
 noun
 notice
 no
@@ -6505,6 +6514,7 @@ sehabis
 segini
 sesaat
 sifatnya
+senter
 by
 behind
 boat
@@ -7021,6 +7031,8 @@ bercukur
 bertepatan
 bersahutan
 bereksplorasi
+baterai
+berolahraga
 form
 for
 first
@@ -7872,6 +7884,7 @@ expand
 engah
 empu
 esa
+esensi
 will
 with
 when
@@ -9272,6 +9285,10 @@ mengalihkan
 memasangkannya
 mendedikasikan
 menembus
+mengharuskan
+manfaatkan
+menyimak
+menekankan
 In
 It
 If
@@ -11336,6 +11353,7 @@ Hasyim
 Hidup
 HITUNG
 Hiragana
+Hidayat
 justify
 jika
 jadi
@@ -11813,6 +11831,7 @@ Kemanusiaan
 Kisi
 Kana
 Katakana
+Kesempatan
 Utama
 Use
 UL
@@ -11991,6 +12010,7 @@ Usahakan
 Urutan
 UUD
 Usulan
+Ustaz
 kalimat
 karena
 kata
@@ -12406,6 +12426,8 @@ kelapa
 kemampuan
 kaji
 kaguya
+kajian
+keimanan
 Note
 November
 Nur
@@ -12925,6 +12947,7 @@ Mudzakir
 Muslim
 Menariknya
 Microui
+Mathurat
 October
 Object
 On
@@ -14128,6 +14151,7 @@ zaman
 zoho
 zuhur
 zig
+zikir
 üc
 ÄI
 ÄQq
