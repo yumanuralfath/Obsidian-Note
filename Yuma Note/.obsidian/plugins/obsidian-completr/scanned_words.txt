@@ -483,6 +483,8 @@ terlupa
 teks
 terbuka
 terhambat
+terhapus
+tata
 Longman
 Literature
 LB
@@ -1939,6 +1941,7 @@ Paradigma
 Pengamalan
 Pokok
 PROJECT
+Pre
 year
 you
 yesterday
@@ -2556,6 +2559,7 @@ BAHASA
 Bismillahirrahmanirrahim
 BENKYOU
 Beliau
+Basics
 created
 clause
 comes
@@ -3479,6 +3483,7 @@ FFI
 Formasi
 Falsafah
 FULL
+FVM
 Ringkasan
 Review
 Reach
@@ -3707,6 +3712,7 @@ Reses
 RUUD
 Rakyat
 RAG
+Rencananya
 Skill
 Sumber
 Source
@@ -4315,6 +4321,7 @@ Agama
 Auth
 Asyura
 Adi
+Art
 object
 of
 or
@@ -5393,6 +5400,8 @@ petak
 pepatah
 prototipe
 petunjuk
+pendalaman
+peruntungan
 noun
 notice
 no
@@ -5941,6 +5950,7 @@ reda
 rutinitas
 radix
 rendering
+referensi
 such
 so
 sentence
@@ -6515,6 +6525,8 @@ segini
 sesaat
 sifatnya
 senter
+sunah
+seri
 by
 behind
 boat
@@ -7885,6 +7897,8 @@ engah
 empu
 esa
 esensi
+environment
+eksplorasi
 will
 with
 when
@@ -9289,6 +9303,11 @@ mengharuskan
 manfaatkan
 menyimak
 menekankan
+memperluas
+menggali
+menginstal
+mengonfigurasi
+mematangkan
 In
 It
 If
@@ -10931,6 +10950,7 @@ dilancarkan
 dianjurkan
 diasah
 diulang
+difokuskan
 VERB
 Verb
 Valentine
@@ -11832,6 +11852,7 @@ Kisi
 Kana
 Katakana
 Kesempatan
+Kanji
 Utama
 Use
 UL
@@ -12948,6 +12969,7 @@ Muslim
 Menariknya
 Microui
 Mathurat
+MEXT
 October
 Object
 On
