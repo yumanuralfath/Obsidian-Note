@@ -485,6 +485,7 @@ terbuka
 terhambat
 terhapus
 tata
+tesis
 Longman
 Literature
 LB
@@ -4322,6 +4323,8 @@ Auth
 Asyura
 Adi
 Art
+Asar
+Agar
 object
 of
 or
@@ -5402,6 +5405,9 @@ prototipe
 petunjuk
 pendalaman
 peruntungan
+proposal
+partner
+percakapan
 noun
 notice
 no
@@ -5650,6 +5656,7 @@ ngebantuin
 ngsaan
 nusiaan
 nasionalisme
+nikmatnya
 read
 recognize
 rather
@@ -7045,6 +7052,9 @@ bersahutan
 bereksplorasi
 baterai
 berolahraga
+bungkus
+bakwan
+berpedoman
 form
 for
 first
@@ -7899,6 +7909,7 @@ esa
 esensi
 environment
 eksplorasi
+esensial
 will
 with
 when
@@ -9309,6 +9320,9 @@ menggali
 menginstal
 mengonfigurasi
 mematangkan
+melewatkan
+membidik
+menghafalkan
 In
 It
 If
@@ -9932,6 +9946,7 @@ lagu
 laturhary
 luhur
 lahan
+luang
 verb
 various
 vociferously
@@ -10952,6 +10967,7 @@ dianjurkan
 diasah
 diulang
 difokuskan
+draf
 VERB
 Verb
 Valentine
@@ -12450,6 +12466,8 @@ kaji
 kaguya
 kajian
 keimanan
+kombinasikan
+kosakata
 Note
 November
 Nur
@@ -12648,6 +12666,7 @@ Nasionalisme
 NIHONGO
 NIKAHAN
 NIHON
+Nihongo
 Monday
 Museum
 My
@@ -12971,6 +12990,7 @@ Menariknya
 Microui
 Mathurat
 MEXT
+Minna
 October
 Object
 On
