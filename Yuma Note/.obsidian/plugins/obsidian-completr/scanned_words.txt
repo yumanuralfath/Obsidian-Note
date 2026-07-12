@@ -486,6 +486,9 @@ terhambat
 terhapus
 tata
 tesis
+terdistraksi
+tausiyah
+tongue
 Longman
 Literature
 LB
@@ -718,6 +721,7 @@ License
 Lahirnya
 LETTER
 Lambang
+Laravel
 TOEFL
 Test
 Tom
@@ -982,6 +986,7 @@ Tuhan
 Trisila
 Tjokrosoeroso
 Tasu
+Trump
 author
 after
 as
@@ -1627,6 +1632,7 @@ Dibentuk
 Demokrasi
 Ditolak
 Dunia
+Donald
 Phillips
 Preparation
 Past
@@ -1943,6 +1949,8 @@ Pengamalan
 Pokok
 PROJECT
 Pre
+PHP
+Presiden
 year
 you
 yesterday
@@ -2315,6 +2323,7 @@ ganjil
 genap
 gerimis
 guna
+gelap
 Book
 Because
 Be
@@ -2561,6 +2570,7 @@ Bismillahirrahmanirrahim
 BENKYOU
 Beliau
 Basics
+Beralih
 created
 clause
 comes
@@ -3310,6 +3320,7 @@ Clap
 Cita
 CEPAT
 CODE
+Ceritanya
 For
 FF
 February
@@ -3714,6 +3725,7 @@ RUUD
 Rakyat
 RAG
 Rencananya
+Republic
 Skill
 Sumber
 Source
@@ -4049,6 +4061,8 @@ Sila
 Sejak
 SKIP
 SDL
+Sekitar
+Sitora
 An
 After
 Answers
@@ -4325,6 +4339,7 @@ Adi
 Art
 Asar
 Agar
+Anime
 object
 of
 or
@@ -4830,6 +4845,7 @@ improve
 inisiatif
 isu
 inconsistent
+imigran
 pronoun
 preposition
 prepositional
@@ -5408,6 +5424,11 @@ peruntungan
 proposal
 partner
 percakapan
+penyederhanaan
+prima
+pengetahuannya
+peradaban
+podcast
 noun
 notice
 no
@@ -5958,6 +5979,8 @@ rutinitas
 radix
 rendering
 referensi
+radical
+redup
 such
 so
 sentence
@@ -6534,6 +6557,10 @@ sifatnya
 senter
 sunah
 seri
+simplifying
+sosok
+slip
+stuck
 by
 behind
 boat
@@ -7055,6 +7082,7 @@ berolahraga
 bungkus
 bakwan
 berpedoman
+budak
 form
 for
 first
@@ -7342,6 +7370,8 @@ formatnya
 formasi
 flag
 feat
+faktorisasi
+fase
 his
 he
 has
@@ -7910,6 +7940,7 @@ esensi
 environment
 eksplorasi
 esensial
+expression
 will
 with
 when
@@ -8361,6 +8392,7 @@ Empat
 Ekasila
 EVENT
 EIGO
+Eigo
 questions
 quite
 qr
@@ -9323,6 +9355,12 @@ mematangkan
 melewatkan
 membidik
 menghafalkan
+memejamkan
+musim
+mengisahkan
+menjunjung
+mengkhayalkan
+menata
 In
 It
 If
@@ -9570,6 +9608,9 @@ Ika
 Internasionalisme
 Ideologi
 INDONESIA
+Islam
+Istana
+Islamic
 look
 later
 lot
@@ -9947,6 +9988,7 @@ laturhary
 luhur
 lahan
 luang
+larut
 verb
 various
 vociferously
@@ -12049,6 +12091,7 @@ Urutan
 UUD
 Usulan
 Ustaz
+USA
 kalimat
 karena
 kata
@@ -12468,6 +12511,10 @@ kajian
 keimanan
 kombinasikan
 kosakata
+keemasan
+kekuatan
+kejayaan
+katakana
 Note
 November
 Nur
@@ -12991,6 +13038,7 @@ Microui
 Mathurat
 MEXT
 Minna
+Mongol
 October
 Object
 On
@@ -13505,6 +13553,7 @@ Jiwa
 Jul
 July
 JLPT
+Japan
 Zk
 ZC
 Zim
