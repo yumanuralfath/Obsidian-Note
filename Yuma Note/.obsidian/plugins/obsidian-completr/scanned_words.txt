@@ -723,6 +723,7 @@ LETTER
 Lambang
 Laravel
 LARAVEL
+LEBIH
 TOEFL
 Test
 Tom
@@ -1634,6 +1635,11 @@ Demokrasi
 Ditolak
 Dunia
 Donald
+DISINI
+DENGAN
+DAN
+DOSA
+DAPAT
 Phillips
 Preparation
 Past
@@ -2572,6 +2578,7 @@ BENKYOU
 Beliau
 Basics
 Beralih
+BAIK
 created
 clause
 comes
@@ -4064,6 +4071,8 @@ SKIP
 SDL
 Sekitar
 Sitora
+SEMOGA
+SEMUA
 An
 After
 Answers
@@ -4341,6 +4350,7 @@ Art
 Asar
 Agar
 Anime
+AAMIIN
 object
 of
 or
@@ -10363,6 +10373,7 @@ Your
 Year
 Yonkou
 Yamin
+YANG
 George
 Garden
 Got
@@ -11913,6 +11924,7 @@ Kana
 Katakana
 Kesempatan
 Kanji
+KEDEPANNYA
 Utama
 Use
 UL
@@ -13040,6 +13052,9 @@ Mathurat
 MEXT
 Minna
 Mongol
+MASIH
+MANUSIA
+MENJADI
 October
 Object
 On
