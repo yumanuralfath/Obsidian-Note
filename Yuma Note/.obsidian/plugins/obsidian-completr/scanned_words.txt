@@ -3505,6 +3505,7 @@ Formasi
 Falsafah
 FULL
 FVM
+FOR
 Ringkasan
 Review
 Reach
@@ -3736,6 +3737,7 @@ RAG
 Rencananya
 Republic
 RESEARCH
+RESUME
 Skill
 Sumber
 Source
@@ -13058,6 +13060,7 @@ Mongol
 MASIH
 MANUSIA
 MENJADI
+MEDITATION
 October
 Object
 On
