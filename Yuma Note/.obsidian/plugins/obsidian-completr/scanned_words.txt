@@ -5997,6 +5997,7 @@ rendering
 referensi
 radical
 redup
+renungan
 such
 so
 sentence
@@ -12534,6 +12535,7 @@ keemasan
 kekuatan
 kejayaan
 katakana
+kebelakang
 Note
 November
 Nur
