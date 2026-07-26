@@ -1376,6 +1376,7 @@ akar
 aplikatif
 agnostic
 alunan
+asing
 Deborah
 Do
 Disini
@@ -2580,6 +2581,7 @@ Beliau
 Basics
 Beralih
 BAIK
+Berupaya
 created
 clause
 comes
@@ -2912,6 +2914,7 @@ contact
 cosakai
 context
 cakwe
+capai
 updated
 utama
 utamanya
@@ -3112,6 +3115,7 @@ untung
 utilities
 unused
 usulan
+upaya
 Course
 Created
 Careful
@@ -5445,6 +5449,7 @@ prima
 pengetahuannya
 peradaban
 podcast
+penyemangat
 noun
 notice
 no
@@ -5694,6 +5699,7 @@ ngsaan
 nusiaan
 nasionalisme
 nikmatnya
+nantinya
 read
 recognize
 rather
@@ -5998,6 +6004,10 @@ referensi
 radical
 redup
 renungan
+ridhai
+ridhoi
+rahmati
+riya
 such
 so
 sentence
@@ -6578,6 +6588,11 @@ simplifying
 sosok
 slip
 stuck
+sampaikan
+siapapun
+semata
+software
+sekiranya
 by
 behind
 boat
@@ -7100,6 +7115,7 @@ bungkus
 bakwan
 berpedoman
 budak
+beribadah
 form
 for
 first
@@ -7389,6 +7405,7 @@ flag
 feat
 faktorisasi
 fase
+futur
 his
 he
 has
@@ -9378,6 +9395,16 @@ mengisahkan
 menjunjung
 mengkhayalkan
 menata
+manfaat
+milad
+meminta
+mencapainya
+menyakiti
+mewujudkan
+mohon
+menjaga
+maaf
+menjauhkan
 In
 It
 If
@@ -9628,6 +9655,7 @@ INDONESIA
 Islam
 Istana
 Islamic
+Ilmu
 look
 later
 lot
@@ -10380,6 +10408,7 @@ Year
 Yonkou
 Yamin
 YANG
+Yaumul
 George
 Garden
 Got
@@ -11029,6 +11058,14 @@ diulang
 difokuskan
 draf
 drilling
+dilahirkan
+dijalan
+dimudahkan
+dituliskan
+diatas
+disukai
+dipikirkan
+dijauhi
 VERB
 Verb
 Valentine
@@ -11217,6 +11254,7 @@ Vanilla
 View
 ViewModel
 Voila
+Visi
 However
 Hati
 Houston
@@ -11932,6 +11970,7 @@ Katakana
 Kesempatan
 Kanji
 KEDEPANNYA
+Komunikasi
 Utama
 Use
 UL
@@ -12536,6 +12575,8 @@ kekuatan
 kejayaan
 katakana
 kebelakang
+kembalikan
+keluarkan
 Note
 November
 Nur
@@ -12735,6 +12776,7 @@ NIHONGO
 NIKAHAN
 NIHON
 Nihongo
+Nya
 Monday
 Museum
 My
@@ -13064,6 +13106,7 @@ MASIH
 MANUSIA
 MENJADI
 MEDITATION
+Mandarin
 October
 Object
 On
@@ -13580,6 +13623,7 @@ Jul
 July
 JLPT
 Japan
+Jikalau
 Zk
 ZC
 Zim
