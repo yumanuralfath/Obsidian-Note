@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/July/26.07.26.207.md",
+                "file": "Daily/2026/August/01.08.26.213.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "26.07.26.207"
+              "title": "01.08.26.213"
             }
           }
         ]
@@ -228,8 +228,10 @@
   },
   "active": "f9be479cda456068",
   "lastOpenFiles": [
-    "Daily/2026/July/20.07.26.201.md",
     "Daily/2026/July/26.07.26.207.md",
+    "Daily/2026/August/01.08.26.213.md",
+    "Daily/2026/August",
+    "Daily/2026/July/20.07.26.201.md",
     "Zettelkasten/25.07.26.206.md",
     "Daily/2026/July/24.07.26.205.md",
     "Daily/2026/July/21.07.26.202.md",
@@ -254,7 +256,6 @@
     "Daily/2026/June/28.06.26.179.md",
     "Daily/2026/June/27.06.26.178.md",
     "Daily/2026/June/26.06.26.177.md",
-    "Daily/2026/June/25.06.26.176.md",
     "Daily/2026/June",
     "Daily/2026/May",
     "FIles/screenshot_28042026_111809.jpg",
@@ -273,7 +274,6 @@
     "private/generated_ics/08.02.26.39.ics",
     "private/generated_ics/07.02.26.38.ics",
     "private/generated_ics",
-    "private/4913",
     "Untitled.canvas"
   ]
 }
