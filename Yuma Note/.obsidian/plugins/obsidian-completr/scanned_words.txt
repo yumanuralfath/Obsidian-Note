@@ -4361,6 +4361,8 @@ Asar
 Agar
 Anime
 AAMIIN
+Aug
+August
 object
 of
 or
@@ -7117,6 +7119,7 @@ bakwan
 berpedoman
 budak
 beribadah
+batch
 form
 for
 first
