@@ -10040,6 +10040,7 @@ luhur
 lahan
 luang
 larut
+laravel
 verb
 various
 vociferously

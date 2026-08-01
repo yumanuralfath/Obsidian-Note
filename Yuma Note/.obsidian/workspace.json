@@ -30,21 +30,8 @@
               "icon": "lucide-file",
               "title": "01.08.26.213"
             }
-          },
-          {
-            "id": "0bdcc3cb51d70515",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,42 +195,27 @@
         "currentTab": 3
       },
       {
-        "id": "7aff4742615837c5",
+        "id": "e65b96069413e129",
         "type": "tabs",
         "children": [
           {
-            "id": "3d077707b7a0eab5",
+            "id": "ebe4b683b08a0907",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026/August/01.08.26.213.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "01.08.26.213"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 219.3358154296875
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
       "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
@@ -252,12 +224,15 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "0bdcc3cb51d70515",
+  "active": "cf3b2cc68deac372",
   "lastOpenFiles": [
     "Daily/2026/August/01.08.26.213.md",
+    "Zettelkasten/Exercise Skill 1.md",
+    "Daily/2026/July/13.07.26.194.md",
     "Zettelkasten/Linear Algebra (Gilbert  Strang).md",
     "Literature/Longman - TOEFL Test.md",
     "Zettelkasten/Mindset - Updated Edition Changing The Way You Think To Fulfil Your Potential.md",
@@ -273,17 +248,15 @@
     "Daily/2026/July/21.07.26.202.md",
     "Daily/2026/July/15.07.26.196.md",
     "Daily/2026/July/14.07.26.195.md",
-    "Daily/2026/July/13.07.26.194.md",
     "Daily/2026/July/12.07.26.193.md",
     "Daily/2026/July/11.07.26.192.md",
     "Daily/2026/July/10.07.26.191.md",
     "Daily/2026/July/09.07.26.190.md",
     "Daily/2026/July/08.07.26.189.md",
     "Daily/2026/July/07.07.26.188.md",
-    "Daily/2026/July/06.07.26.187.md",
+    "Daily/2026/February/06.07.26.187.md",
     "Daily/2026/July/05.07.26.186.md",
     "Daily/2026/July/04.07.26.185.md",
-    "Daily/2026/July/03.07.26.184.md",
     "Daily/2026/July",
     "Daily/2026/June",
     "Daily/2026/May",
