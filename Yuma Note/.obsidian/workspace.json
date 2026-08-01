@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de2618ea66f73717",
+        "id": "b7a39ee816b381af",
         "type": "tabs",
         "children": [
           {
-            "id": "9db1f814df5f0848",
+            "id": "cf3b2cc68deac372",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "01.08.26.213"
             }
+          },
+          {
+            "id": "0bdcc3cb51d70515",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +65,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -79,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Book",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -200,10 +215,24 @@
             "id": "3d077707b7a0eab5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026/August/01.08.26.213.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "01.08.26.213"
             }
           }
         ]
@@ -226,10 +255,17 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "9db1f814df5f0848",
+  "active": "0bdcc3cb51d70515",
   "lastOpenFiles": [
-    "Daily/2026/July/20.07.26.201.md",
     "Daily/2026/August/01.08.26.213.md",
+    "Zettelkasten/Linear Algebra (Gilbert  Strang).md",
+    "Literature/Longman - TOEFL Test.md",
+    "Zettelkasten/Mindset - Updated Edition Changing The Way You Think To Fulfil Your Potential.md",
+    "Zettelkasten/Botchan.md",
+    "index.md",
+    "Zettelkasten/How To Read A Book.md",
+    "Templates/Book Template.md",
+    "Daily/2026/July/20.07.26.201.md",
     "Daily/2026/July/26.07.26.207.md",
     "Daily/2026/August",
     "Zettelkasten/25.07.26.206.md",
@@ -248,14 +284,7 @@
     "Daily/2026/July/05.07.26.186.md",
     "Daily/2026/July/04.07.26.185.md",
     "Daily/2026/July/03.07.26.184.md",
-    "Daily/2026/July/02.07.26.183.md",
-    "Daily/2026/July/01.07.26.182.md",
-    "Daily/2026/June/30.06.26.181.md",
-    "Daily/2026/June/29.06.26.180.md",
     "Daily/2026/July",
-    "Daily/2026/June/28.06.26.179.md",
-    "Daily/2026/June/27.06.26.178.md",
-    "Daily/2026/June/26.06.26.177.md",
     "Daily/2026/June",
     "Daily/2026/May",
     "FIles/screenshot_28042026_111809.jpg",
