@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Daily/2026/August/02.08.26.214.md",
-                "mode": "preview",
-                "source": true,
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
