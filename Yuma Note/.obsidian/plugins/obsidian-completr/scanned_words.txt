@@ -492,6 +492,7 @@ tongue
 tombol
 terabaikan
 terisi
+terjadilah
 Longman
 Literature
 LB
@@ -5484,6 +5485,7 @@ perspektif
 prolog
 penggunanya
 pupuk
+pula
 noun
 notice
 no
@@ -7168,6 +7170,7 @@ benua
 bebas
 buyut
 butir
+berantakan
 form
 for
 first
@@ -12683,6 +12686,7 @@ kebahagiaan
 kemajuanmu
 kacamata
 kakek
+kacau
 Note
 November
 Nur
