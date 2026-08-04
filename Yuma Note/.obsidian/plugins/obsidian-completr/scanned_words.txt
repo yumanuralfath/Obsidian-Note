@@ -493,6 +493,8 @@ tombol
 terabaikan
 terisi
 terjadilah
+teratur
+tertahankan
 Longman
 Literature
 LB
@@ -995,6 +997,7 @@ Tasu
 Trump
 TBS
 Tuhanmu
+Terulang
 author
 after
 as
@@ -1383,6 +1386,8 @@ agnostic
 alunan
 asing
 administrasi
+aluculum
+alpha
 Deborah
 Do
 Disini
@@ -4384,6 +4389,7 @@ August
 Alaq
 Ali
 Abidin
+AoSP
 object
 of
 or
@@ -4893,6 +4899,7 @@ imigran
 ikhtiar
 insecure
 ilustrasi
+itself
 pronoun
 preposition
 prepositional
@@ -5739,6 +5746,8 @@ nantinya
 nggak
 ngobrolmu
 nenek
+nyobain
+nyerah
 read
 recognize
 rather
@@ -6047,6 +6056,7 @@ ridhai
 ridhoi
 rahmati
 riya
+repeat
 such
 so
 sentence
@@ -9484,6 +9494,9 @@ misalkan
 masyarakat
 mengobarkan
 minyak
+matematka
+memainkan
+masi
 In
 It
 If
@@ -10117,6 +10130,7 @@ larut
 laravel
 luput
 lintas
+lobi
 verb
 various
 vociferously
@@ -11581,6 +11595,7 @@ HITUNG
 Hiragana
 Hidayat
 Hlm
+History
 justify
 jika
 jadi
@@ -12687,6 +12702,7 @@ kemajuanmu
 kacamata
 kakek
 kacau
+kalah
 Note
 November
 Nur
