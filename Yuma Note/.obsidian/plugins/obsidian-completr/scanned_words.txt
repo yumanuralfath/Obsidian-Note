@@ -495,6 +495,7 @@ terisi
 terjadilah
 teratur
 tertahankan
+terlalui
 Longman
 Literature
 LB
@@ -730,6 +731,7 @@ Lambang
 Laravel
 LARAVEL
 LEBIH
+LOL
 TOEFL
 Test
 Tom
@@ -1388,6 +1390,8 @@ asing
 administrasi
 aluculum
 alpha
+adi
+abu
 Deborah
 Do
 Disini
@@ -2601,6 +2605,8 @@ Bakat
 Bertahun
 Baik
 Bagi
+BASIC
+BOOK
 created
 clause
 comes
@@ -2934,6 +2940,7 @@ cosakai
 context
 cakwe
 capai
+classic
 updated
 utama
 utamanya
@@ -3136,6 +3143,8 @@ unused
 usulan
 upaya
 usia
+ust
+umamah
 Course
 Created
 Careful
@@ -3355,6 +3364,7 @@ CEPAT
 CODE
 Ceritanya
 Collection
+CHEM
 For
 FF
 February
@@ -3764,6 +3774,7 @@ Republic
 RESEARCH
 RESUME
 RECOMMENDATION
+REVIEW
 Skill
 Sumber
 Source
@@ -4900,6 +4911,7 @@ ikhtiar
 insecure
 ilustrasi
 itself
+insyirah
 pronoun
 preposition
 prepositional
@@ -5493,6 +5505,7 @@ prolog
 penggunanya
 pupuk
 pula
+penenang
 noun
 notice
 no
@@ -6057,6 +6070,7 @@ ridhoi
 rahmati
 riya
 repeat
+rift
 such
 so
 sentence
@@ -6644,6 +6658,7 @@ software
 sekiranya
 sekitarnya
 sebanyak
+summoner
 by
 behind
 boat
@@ -7777,6 +7792,8 @@ hime
 hlm
 harapan
 handphone
+hidayat
+hutang
 exams
 example
 either
@@ -9497,6 +9514,7 @@ minyak
 matematka
 memainkan
 masi
+merinci
 In
 It
 If
@@ -11170,6 +11188,8 @@ disampaikan
 disadari
 diridai
 diciptakannya
+dihadapi
+diajarkan
 VERB
 Verb
 Valentine
@@ -13239,6 +13259,7 @@ Menghadapi
 Menciptakan
 Menghilangkan
 Melihat
+MATH
 October
 Object
 On
