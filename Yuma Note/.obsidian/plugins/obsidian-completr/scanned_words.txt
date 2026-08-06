@@ -496,6 +496,7 @@ terjadilah
 teratur
 tertahankan
 terlalui
+tenang
 Longman
 Literature
 LB
@@ -4401,6 +4402,7 @@ Alaq
 Ali
 Abidin
 AoSP
+Awali
 object
 of
 or
@@ -4912,6 +4914,7 @@ insecure
 ilustrasi
 itself
 insyirah
+imran
 pronoun
 preposition
 prepositional
@@ -7196,6 +7199,7 @@ bebas
 buyut
 butir
 berantakan
+buktikan
 form
 for
 first
@@ -9515,6 +9519,8 @@ matematka
 memainkan
 masi
 merinci
+mengawali
+melewati
 In
 It
 If
