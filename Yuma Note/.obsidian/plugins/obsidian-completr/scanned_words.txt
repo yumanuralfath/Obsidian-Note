@@ -8518,6 +8518,7 @@ Ekasila
 EVENT
 EIGO
 Eigo
+ENG
 questions
 quite
 qr
@@ -13788,6 +13789,7 @@ JLPT
 Japan
 Jikalau
 Juga
+JOURNAL
 Zk
 ZC
 Zim
