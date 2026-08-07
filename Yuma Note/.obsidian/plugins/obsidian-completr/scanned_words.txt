@@ -6074,6 +6074,7 @@ rahmati
 riya
 repeat
 rift
+romantisasi
 such
 so
 sentence
@@ -7200,6 +7201,7 @@ buyut
 butir
 berantakan
 buktikan
+berulang
 form
 for
 first
@@ -10155,6 +10157,7 @@ laravel
 luput
 lintas
 lobi
+learner
 verb
 various
 vociferously
@@ -11196,6 +11199,7 @@ diridai
 diciptakannya
 dihadapi
 diajarkan
+diperbuat
 VERB
 Verb
 Valentine
