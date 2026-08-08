@@ -499,6 +499,10 @@ terlalui
 tenang
 tunggal
 tercatat
+terpaku
+tonggak
+tirah
+terpikirkan
 Longman
 Literature
 LB
@@ -736,6 +740,7 @@ LARAVEL
 LEBIH
 LOL
 League
+Lanin
 TOEFL
 Test
 Tom
@@ -1004,6 +1009,7 @@ Trump
 TBS
 Tuhanmu
 Terulang
+Tak
 author
 after
 as
@@ -1397,6 +1403,9 @@ alpha
 adi
 abu
 aritmatika
+antarmanusia
+alay
+ambyar
 Deborah
 Do
 Disini
@@ -1984,6 +1993,7 @@ PHP
 Presiden
 Pemikiran
 Pages
+Pengingat
 year
 you
 yesterday
@@ -2359,6 +2369,8 @@ guna
 gelap
 grup
 gaming
+gaban
+generasi
 Book
 Because
 Be
@@ -2615,6 +2627,7 @@ Baik
 Bagi
 BASIC
 BOOK
+Baku
 created
 clause
 comes
@@ -2950,6 +2963,9 @@ cakwe
 capai
 classic
 comeback
+crisis
+citra
+cita
 updated
 utama
 utamanya
@@ -3785,6 +3801,7 @@ RESEARCH
 RESUME
 RECOMMENDATION
 REVIEW
+Recehan
 Skill
 Sumber
 Source
@@ -4128,6 +4145,7 @@ SICK
 Skolastik
 Sinopsis
 SONA
+Sambil
 An
 After
 Answers
@@ -5521,6 +5539,9 @@ pupuk
 pula
 penenang
 pianist
+peduli
+penambah
+paddda
 noun
 notice
 no
@@ -5776,6 +5797,7 @@ ngobrolmu
 nenek
 nyobain
 nyerah
+nikmati
 read
 recognize
 rather
@@ -6087,6 +6109,9 @@ riya
 repeat
 rift
 romantisasi
+recehan
+rekomendasi
+rekomendasinya
 such
 so
 sentence
@@ -6682,6 +6707,9 @@ sebabkan
 slow
 swift
 sona
+sepelekan
+segede
+selebih
 by
 behind
 boat
@@ -7224,6 +7252,9 @@ berulang
 bergantian
 bertingkat
 beriringan
+berasama
+berserakan
+baring
 form
 for
 first
@@ -7824,6 +7855,8 @@ harapan
 handphone
 hidayat
 hutang
+hiburan
+halamannya
 exams
 example
 either
@@ -8090,6 +8123,7 @@ environment
 eksplorasi
 esensial
 expression
+emas
 will
 with
 when
@@ -8697,6 +8731,7 @@ qww
 quotes
 qunut
 quest
+quarter
 mistaken
 my
 man
@@ -9552,6 +9587,11 @@ minat
 mouse
 mba
 makai
+midlife
+memunculkan
+malu
+maca
+mencintai
 In
 It
 If
@@ -9805,6 +9845,8 @@ Islamic
 Ilmu
 Ilustrasinya
 Identifikasi
+Inilah
+Ivan
 look
 later
 lot
@@ -10190,6 +10232,7 @@ lobi
 learner
 larik
 legends
+lini
 verb
 various
 vociferously
@@ -11233,6 +11276,10 @@ dihadapi
 diajarkan
 diperbuat
 ddadri
+dialami
+disepakati
+dilarang
+dangkal
 VERB
 Verb
 Valentine
@@ -11659,6 +11706,7 @@ Hiragana
 Hidayat
 Hlm
 History
+Highlight
 justify
 jika
 jadi
@@ -12146,6 +12194,7 @@ Kepintaran
 Kedunguan
 Kuasailah
 Klien
+Kaku
 Utama
 Use
 UL
@@ -12768,6 +12817,8 @@ kakek
 kacau
 kalah
 keua
+krisis
+ketiadaan
 Note
 November
 Nur
@@ -13306,6 +13357,9 @@ Menghilangkan
 Melihat
 MATH
 Minggu
+Misalnya
+Mesti
+Mak
 October
 Object
 On
