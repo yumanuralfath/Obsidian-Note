@@ -498,6 +498,7 @@ tertahankan
 terlalui
 tenang
 tunggal
+tercatat
 Longman
 Literature
 LB
@@ -734,6 +735,7 @@ Laravel
 LARAVEL
 LEBIH
 LOL
+League
 TOEFL
 Test
 Tom
@@ -2356,6 +2358,7 @@ gerimis
 guna
 gelap
 grup
+gaming
 Book
 Because
 Be
@@ -2946,6 +2949,7 @@ context
 cakwe
 capai
 classic
+comeback
 updated
 utama
 utamanya
@@ -4123,6 +4127,7 @@ SEMUA
 SICK
 Skolastik
 Sinopsis
+SONA
 An
 After
 Answers
@@ -5515,6 +5520,7 @@ penggunanya
 pupuk
 pula
 penenang
+pianist
 noun
 notice
 no
@@ -6671,6 +6677,11 @@ sebanyak
 summoner
 selang
 seling
+sabilillah
+sebabkan
+slow
+swift
+sona
 by
 behind
 boat
@@ -7212,6 +7223,7 @@ buktikan
 berulang
 bergantian
 bertingkat
+beriringan
 form
 for
 first
@@ -7503,6 +7515,7 @@ faktorisasi
 fase
 futur
 fibonacci
+fii
 his
 he
 has
@@ -9535,6 +9548,10 @@ masi
 merinci
 mengawali
 melewati
+minat
+mouse
+mba
+makai
 In
 It
 If
@@ -10172,6 +10189,7 @@ lintas
 lobi
 learner
 larik
+legends
 verb
 various
 vociferously
@@ -13287,6 +13305,7 @@ Menciptakan
 Menghilangkan
 Melihat
 MATH
+Minggu
 October
 Object
 On

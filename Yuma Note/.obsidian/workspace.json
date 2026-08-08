@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "08.08.26.220"
             }
-          },
-          {
-            "id": "c6b626d2e816c8f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026/August/07.08.26.219.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "07.08.26.219"
-            }
           }
         ]
       }
@@ -255,8 +231,8 @@
   "active": "cf3b2cc68deac372",
   "lastOpenFiles": [
     "Daily/2026/August/07.08.26.219.md",
-    "Zettelkasten/Tips dalam pengerjaan soal deret angka.md",
     "Daily/2026/August/08.08.26.220.md",
+    "Zettelkasten/Tips dalam pengerjaan soal deret angka.md",
     "Daily/2026/August/06.08.26.218.md",
     "Daily/2026/August/05.08.26.217.md",
     "Daily/2026/August/04.08.26.216.md",
