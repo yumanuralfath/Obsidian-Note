@@ -497,6 +497,7 @@ teratur
 tertahankan
 terlalui
 tenang
+tunggal
 Longman
 Literature
 LB
@@ -1393,6 +1394,7 @@ aluculum
 alpha
 adi
 abu
+aritmatika
 Deborah
 Do
 Disini
@@ -1659,6 +1661,7 @@ DAN
 DOSA
 DAPAT
 Diambil
+Deret
 Phillips
 Preparation
 Past
@@ -2352,6 +2355,7 @@ genap
 gerimis
 guna
 gelap
+grup
 Book
 Because
 Be
@@ -4403,6 +4407,7 @@ Ali
 Abidin
 AoSP
 Awali
+Amati
 object
 of
 or
@@ -6663,6 +6668,8 @@ sekiranya
 sekitarnya
 sebanyak
 summoner
+selang
+seling
 by
 behind
 boat
@@ -7202,6 +7209,8 @@ butir
 berantakan
 buktikan
 berulang
+bergantian
+bertingkat
 form
 for
 first
@@ -7492,6 +7501,7 @@ feat
 faktorisasi
 fase
 futur
+fibonacci
 his
 he
 has
@@ -9776,6 +9786,7 @@ Istana
 Islamic
 Ilmu
 Ilustrasinya
+Identifikasi
 look
 later
 lot
@@ -10159,6 +10170,7 @@ luput
 lintas
 lobi
 learner
+larik
 verb
 various
 vociferously
@@ -11201,6 +11213,7 @@ diciptakannya
 dihadapi
 diajarkan
 diperbuat
+ddadri
 VERB
 Verb
 Valentine
@@ -11857,6 +11870,7 @@ jahteraan
 juni
 jakarta
 johanes
+jumlah
 Konsep
 Koleksi
 KKj
@@ -12734,6 +12748,7 @@ kacamata
 kakek
 kacau
 kalah
+keua
 Note
 November
 Nur
