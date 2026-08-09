@@ -741,6 +741,7 @@ LEBIH
 LOL
 League
 Lanin
+Lahaplah
 TOEFL
 Test
 Tom
@@ -2966,6 +2967,7 @@ comeback
 crisis
 citra
 cita
+cemilan
 updated
 utama
 utamanya
@@ -3391,6 +3393,7 @@ Ceritanya
 Collection
 CHEM
 CLEAN
+Cemilan
 For
 FF
 February
@@ -4944,6 +4947,7 @@ ilustrasi
 itself
 insyirah
 imran
+imajinasi
 pronoun
 preposition
 prepositional
@@ -5798,6 +5802,7 @@ nenek
 nyobain
 nyerah
 nikmati
+nutrisi
 read
 recognize
 rather
@@ -6710,6 +6715,7 @@ sona
 sepelekan
 segede
 selebih
+suapkan
 by
 behind
 boat
@@ -7255,6 +7261,7 @@ beriringan
 berasama
 berserakan
 baring
+bergizi
 form
 for
 first
@@ -9592,6 +9599,8 @@ memunculkan
 malu
 maca
 mencintai
+mengaktifkan
+mengunyah
 In
 It
 If
@@ -11280,6 +11289,7 @@ dialami
 disepakati
 dilarang
 dangkal
+diserap
 VERB
 Verb
 Valentine
@@ -13360,6 +13370,7 @@ Minggu
 Misalnya
 Mesti
 Mak
+Makanan
 October
 Object
 On
