@@ -54,54 +54,6 @@
               "icon": "lucide-file",
               "title": "09.08.26.221"
             }
-          },
-          {
-            "id": "1c7726bda2c33b69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Books Of 2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Books Of 2026"
-            }
-          },
-          {
-            "id": "812858f858d5b66f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Hidup Mau Ngapain.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hidup Mau Ngapain"
-            }
           }
         ],
         "currentTab": 1
@@ -303,13 +255,13 @@
   },
   "active": "3b1ee04f355e8091",
   "lastOpenFiles": [
-    "Zettelkasten/Recehan Bahasa.md",
+    "Daily/2026/August/08.08.26.220.md",
     "Daily/2026/August/09.08.26.221.md",
     "Zettelkasten/Hidup Mau Ngapain.md",
     "Zettelkasten/Books Of 2026.md",
+    "Zettelkasten/Recehan Bahasa.md",
     "Zettelkasten/How To Read A Book.md",
     "Zettelkasten/Recehan B.md",
-    "Daily/2026/August/08.08.26.220.md",
     "Daily/2026/August/07.08.26.219.md",
     "Zettelkasten/Tips dalam pengerjaan soal deret angka.md",
     "Daily/2026/August/06.08.26.218.md",
