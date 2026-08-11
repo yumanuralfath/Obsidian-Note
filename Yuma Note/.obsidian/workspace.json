@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf3b2cc68deac372",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026/August/08.08.26.220.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "08.08.26.220"
-            }
-          },
-          {
             "id": "3b1ee04f355e8091",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/August/11.08.26.223.md",
+                "file": "Daily/2026/August/10.08.26.222.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "11.08.26.223"
-            }
-          },
-          {
-            "id": "e98352cb6cadfc39",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.6"
+              "title": "10.08.26.222"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,11 +228,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e98352cb6cadfc39",
+  "active": "3b1ee04f355e8091",
   "lastOpenFiles": [
-    "Daily/2026/August/09.08.26.221.md",
     "Daily/2026/August/11.08.26.223.md",
+    "Daily/2026/August/10.08.26.222.md",
     "Daily/2026/August/08.08.26.220.md",
+    "Daily/2026/August/09.08.26.221.md",
     "Zettelkasten/Hidup Mau Ngapain.md",
     "Zettelkasten/Books Of 2026.md",
     "Zettelkasten/Recehan Bahasa.md",
@@ -292,7 +256,6 @@
     "Zettelkasten/Botchan.md",
     "index.md",
     "Templates/Book Template.md",
-    "Daily/2026/July/20.07.26.201.md",
     "Daily/2026/August",
     "Daily/2026/July",
     "Daily/2026/June",
