@@ -1011,6 +1011,7 @@ TBS
 Tuhanmu
 Terulang
 Tak
+Tanggal
 author
 after
 as
@@ -5547,6 +5548,8 @@ pianist
 peduli
 penambah
 paddda
+peringati
+pembebasan
 noun
 notice
 no
@@ -7865,6 +7868,7 @@ hidayat
 hutang
 hiburan
 halamannya
+hijarah
 exams
 example
 either
@@ -10434,6 +10438,7 @@ video
 validation
 validator
 verification
+vacum
 You
 Yuma
 YO
@@ -12830,6 +12835,8 @@ kalah
 keua
 krisis
 ketiadaan
+kelebihan
+kecewa
 Note
 November
 Nur

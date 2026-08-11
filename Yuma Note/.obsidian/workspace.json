@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/August/09.08.26.221.md",
+                "file": "Daily/2026/August/11.08.26.223.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "09.08.26.221"
+              "title": "11.08.26.223"
+            }
+          },
+          {
+            "id": "e98352cb6cadfc39",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.6"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,10 +265,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3b1ee04f355e8091",
+  "active": "e98352cb6cadfc39",
   "lastOpenFiles": [
-    "Daily/2026/August/08.08.26.220.md",
     "Daily/2026/August/09.08.26.221.md",
+    "Daily/2026/August/11.08.26.223.md",
+    "Daily/2026/August/08.08.26.220.md",
     "Zettelkasten/Hidup Mau Ngapain.md",
     "Zettelkasten/Books Of 2026.md",
     "Zettelkasten/Recehan Bahasa.md",
@@ -280,7 +293,6 @@
     "index.md",
     "Templates/Book Template.md",
     "Daily/2026/July/20.07.26.201.md",
-    "Daily/2026/July/26.07.26.207.md",
     "Daily/2026/August",
     "Daily/2026/July",
     "Daily/2026/June",
