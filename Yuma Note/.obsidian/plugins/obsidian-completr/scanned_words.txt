@@ -7558,6 +7558,7 @@ fase
 futur
 fibonacci
 fii
+fasting
 his
 he
 has
@@ -8589,6 +8590,7 @@ EVENT
 EIGO
 Eigo
 ENG
+ENGLISH
 questions
 quite
 qr
@@ -11723,6 +11725,7 @@ Hidayat
 Hlm
 History
 Highlight
+Holiday
 justify
 jika
 jadi

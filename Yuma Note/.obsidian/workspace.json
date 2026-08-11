@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b1ee04f355e8091",
+            "id": "f71bd4538c7f05cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/August/10.08.26.222.md",
+                "file": "Daily/2026/August/11.08.26.223.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10.08.26.222"
+              "title": "11.08.26.223"
             }
           }
         ]
@@ -228,10 +228,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3b1ee04f355e8091",
+  "active": "f71bd4538c7f05cb",
   "lastOpenFiles": [
-    "Daily/2026/August/11.08.26.223.md",
     "Daily/2026/August/10.08.26.222.md",
+    "Daily/2026/August/11.08.26.223.md",
     "Daily/2026/August/08.08.26.220.md",
     "Daily/2026/August/09.08.26.221.md",
     "Zettelkasten/Hidup Mau Ngapain.md",
