@@ -503,6 +503,8 @@ terpaku
 tonggak
 tirah
 terpikirkan
+tersulit
+tandingan
 Longman
 Literature
 LB
@@ -1675,6 +1677,7 @@ DOSA
 DAPAT
 Diambil
 Deret
+Diliat
 Phillips
 Preparation
 Past
@@ -2969,6 +2972,7 @@ crisis
 citra
 cita
 cemilan
+codingan
 updated
 utama
 utamanya
@@ -6121,6 +6125,7 @@ romantisasi
 recehan
 rekomendasi
 rekomendasinya
+respons
 such
 so
 sentence
@@ -6720,6 +6725,7 @@ sepelekan
 segede
 selebih
 suapkan
+sebaik
 by
 behind
 boat
@@ -7266,6 +7272,9 @@ berasama
 berserakan
 baring
 bergizi
+baiknya
+bisikan
+berdampingan
 form
 for
 first
@@ -7559,6 +7568,7 @@ futur
 fibonacci
 fii
 fasting
+feedback
 his
 he
 has
@@ -9608,6 +9618,8 @@ maca
 mencintai
 mengaktifkan
 mengunyah
+memulainya
+mengerjakannya
 In
 It
 If
@@ -12840,6 +12852,8 @@ krisis
 ketiadaan
 kelebihan
 kecewa
+ketiga
+kemanusiawian
 Note
 November
 Nur
@@ -13382,6 +13396,7 @@ Misalnya
 Mesti
 Mak
 Makanan
+Menjaga
 October
 Object
 On

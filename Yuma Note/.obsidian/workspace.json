@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/August/11.08.26.223.md",
+                "file": "Daily/2026/August/12.08.26.224.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "11.08.26.223"
+              "title": "12.08.26.224"
             }
           }
         ]
@@ -228,10 +228,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b378e45f063dd61e",
+  "active": "f71bd4538c7f05cb",
   "lastOpenFiles": [
-    "Daily/2026/August/10.08.26.222.md",
     "Daily/2026/August/11.08.26.223.md",
+    "Daily/2026/August/12.08.26.224.md",
+    "Daily/2026/August/10.08.26.222.md",
     "Daily/2026/August/08.08.26.220.md",
     "Daily/2026/August/09.08.26.221.md",
     "Zettelkasten/Hidup Mau Ngapain.md",
@@ -255,7 +256,6 @@
     "Zettelkasten/Mindset - Updated Edition Changing The Way You Think To Fulfil Your Potential.md",
     "Zettelkasten/Botchan.md",
     "index.md",
-    "Templates/Book Template.md",
     "Daily/2026/August",
     "Daily/2026/July",
     "Daily/2026/June",
