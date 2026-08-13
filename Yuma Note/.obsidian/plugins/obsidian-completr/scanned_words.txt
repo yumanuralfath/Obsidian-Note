@@ -1014,6 +1014,7 @@ Tuhanmu
 Terulang
 Tak
 Tanggal
+Tired
 author
 after
 as
