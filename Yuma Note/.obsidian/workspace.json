@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Tips Menulis Fiksi.md",
+                "file": "Daily/2026/August/14.08.26.226.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tips Menulis Fiksi"
+              "title": "14.08.26.226"
+            }
+          },
+          {
+            "id": "e13b3d7cc320d804",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2026/August/13.08.26.225.md",
+                "file": "Zettelkasten/Tips Menulis Fiksi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026/August/13.08.26.225.md",
+                "file": "Zettelkasten/Tips Menulis Fiksi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -196,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026/August/13.08.26.225.md",
+                "file": "Zettelkasten/Tips Menulis Fiksi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -252,9 +265,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f71bd4538c7f05cb",
+  "active": "e13b3d7cc320d804",
   "lastOpenFiles": [
     "Zettelkasten/Tips Menulis Fiksi.md",
+    "Daily/2026/August/14.08.26.226.md",
     "Daily/2026/August/13.08.26.225.md",
     "Daily/2026/August/12.08.26.224.md",
     "Daily/2026/August/11.08.26.223.md",
@@ -279,7 +293,6 @@
     "Daily/2026/July/13.07.26.194.md",
     "Zettelkasten/Linear Algebra (Gilbert  Strang).md",
     "Literature/Longman - TOEFL Test.md",
-    "Zettelkasten/Mindset - Updated Edition Changing The Way You Think To Fulfil Your Potential.md",
     "Daily/2026/August",
     "Daily/2026/July",
     "Daily/2026/June",

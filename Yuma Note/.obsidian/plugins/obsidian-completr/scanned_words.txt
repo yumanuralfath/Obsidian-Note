@@ -506,6 +506,10 @@ terpikirkan
 tersulit
 tandingan
 terasah
+tulislah
+terdekat
+tuangkan
+terngah
 Longman
 Literature
 LB
@@ -1412,6 +1416,8 @@ aritmatika
 antarmanusia
 alay
 ambyar
+anyir
+asam
 Deborah
 Do
 Disini
@@ -2635,6 +2641,8 @@ Bagi
 BASIC
 BOOK
 Baku
+Buatlah
+BACA
 created
 clause
 comes
@@ -4446,6 +4454,7 @@ Abidin
 AoSP
 Awali
 Amati
+ATM
 object
 of
 or
@@ -4676,6 +4685,7 @@ outdoor
 observasi
 odading
 opening
+otang
 is
 in
 it
@@ -4961,6 +4971,8 @@ insyirah
 imran
 imajinasi
 inshaallah
+inang
+ikan
 pronoun
 preposition
 prepositional
@@ -5562,6 +5574,7 @@ paddda
 peringati
 pembebasan
 punch
+pasar
 noun
 notice
 no
@@ -6736,6 +6749,7 @@ segede
 selebih
 suapkan
 sebaik
+sayauran
 by
 behind
 boat
@@ -7285,6 +7299,9 @@ bergizi
 baiknya
 bisikan
 berdampingan
+bau
+bercampur
+busuk
 form
 for
 first
@@ -7580,6 +7597,7 @@ fii
 fasting
 feedback
 fiksi
+fenomena
 his
 he
 has
@@ -7891,6 +7909,7 @@ hutang
 hiburan
 halamannya
 hijarah
+hentikan
 exams
 example
 either
@@ -9634,6 +9653,7 @@ mengerjakannya
 mengasah
 membanttu
 meniatkan
+mimpi
 In
 It
 If
@@ -9889,6 +9909,7 @@ Ilustrasinya
 Identifikasi
 Inilah
 Ivan
+Inspirasi
 look
 later
 lot
@@ -10468,6 +10489,7 @@ validation
 validator
 verification
 vacum
+visual
 You
 Yuma
 YO
@@ -11326,6 +11348,10 @@ dilarang
 dangkal
 diserap
 dana
+disebelah
+didkutuk
+dahului
+disimpulkan
 VERB
 Verb
 Valentine
@@ -11754,6 +11780,7 @@ Hlm
 History
 Highlight
 Holiday
+HOOK
 justify
 jika
 jadi
@@ -11985,6 +12012,7 @@ juni
 jakarta
 johanes
 jumlah
+jai
 Konsep
 Koleksi
 KKj
@@ -12243,6 +12271,7 @@ Kuasailah
 Klien
 Kaku
 Khairen
+Kadang
 Utama
 Use
 UL
@@ -13418,6 +13447,7 @@ Makanan
 Menjaga
 MEMBACA
 MENULIS
+MULAI
 October
 Object
 On
