@@ -55,8 +55,7 @@
               "title": "Tips Menulis Fiksi"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2026/July/21.07.26.202.md",
+                "file": "Daily/2026/August/13.08.26.225.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 21.07.26.202"
+              "title": "Backlinks"
             }
           },
           {
@@ -183,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026/July/09.07.26.190.md",
+                "file": "Daily/2026/August/13.08.26.225.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 09.07.26.190"
+              "title": "Outgoing links"
             }
           },
           {
@@ -197,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026/July/09.07.26.190.md",
+                "file": "Daily/2026/August/13.08.26.225.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 09.07.26.190"
+              "title": "Outline"
             }
           },
           {
@@ -253,10 +252,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "80292c87dec9657a",
+  "active": "f71bd4538c7f05cb",
   "lastOpenFiles": [
-    "Daily/2026/August/13.08.26.225.md",
     "Zettelkasten/Tips Menulis Fiksi.md",
+    "Daily/2026/August/13.08.26.225.md",
     "Daily/2026/August/12.08.26.224.md",
     "Daily/2026/August/11.08.26.223.md",
     "Daily/2026/August/10.08.26.222.md",

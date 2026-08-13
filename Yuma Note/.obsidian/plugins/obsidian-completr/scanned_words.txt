@@ -4960,6 +4960,7 @@ itself
 insyirah
 imran
 imajinasi
+inshaallah
 pronoun
 preposition
 prepositional
@@ -9631,6 +9632,8 @@ mengunyah
 memulainya
 mengerjakannya
 mengasah
+membanttu
+meniatkan
 In
 It
 If
