@@ -505,6 +505,7 @@ tirah
 terpikirkan
 tersulit
 tandingan
+terasah
 Longman
 Literature
 LB
@@ -3576,6 +3577,7 @@ Falsafah
 FULL
 FVM
 FOR
+Fiksi
 Ringkasan
 Review
 Reach
@@ -3812,6 +3814,7 @@ RECOMMENDATION
 REVIEW
 Recehan
 REFILL
+RAJIN
 Skill
 Sumber
 Source
@@ -4156,6 +4159,7 @@ Skolastik
 Sinopsis
 SONA
 Sambil
+SEGERA
 An
 After
 Answers
@@ -4671,6 +4675,7 @@ oleng
 outdoor
 observasi
 odading
+opening
 is
 in
 it
@@ -5555,6 +5560,7 @@ penambah
 paddda
 peringati
 pembebasan
+punch
 noun
 notice
 no
@@ -6127,6 +6133,8 @@ recehan
 rekomendasi
 rekomendasinya
 respons
+rendah
+rangkum
 such
 so
 sentence
@@ -7570,6 +7578,7 @@ fibonacci
 fii
 fasting
 feedback
+fiksi
 his
 he
 has
@@ -9621,6 +9630,7 @@ mengaktifkan
 mengunyah
 memulainya
 mengerjakannya
+mengasah
 In
 It
 If
@@ -10262,6 +10272,7 @@ learner
 larik
 legends
 lini
+linea
 verb
 various
 vociferously
@@ -11311,6 +11322,7 @@ disepakati
 dilarang
 dangkal
 diserap
+dana
 VERB
 Verb
 Valentine
@@ -12227,6 +12239,7 @@ Kedunguan
 Kuasailah
 Klien
 Kaku
+Khairen
 Utama
 Use
 UL
@@ -12407,6 +12420,7 @@ UUD
 Usulan
 Ustaz
 USA
+Uda
 kalimat
 karena
 kata
@@ -12855,6 +12869,7 @@ kelebihan
 kecewa
 ketiga
 kemanusiawian
+kreativitas
 Note
 November
 Nur
@@ -13398,6 +13413,8 @@ Mesti
 Mak
 Makanan
 Menjaga
+MEMBACA
+MENULIS
 October
 Object
 On
@@ -13917,6 +13934,7 @@ Japan
 Jikalau
 Juga
 JOURNAL
+Jelek
 Zk
 ZC
 Zim
