@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f71bd4538c7f05cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026/August/13.08.26.225.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "13.08.26.225"
-            }
-          },
-          {
             "id": "80292c87dec9657a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026/August/14.08.26.226.md",
+                "file": "Daily/2026/August/15.08.26.227.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "14.08.26.226"
-            }
-          },
-          {
-            "id": "e13b3d7cc320d804",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "title": "15.08.26.227"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,11 +228,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e13b3d7cc320d804",
+  "active": "80292c87dec9657a",
   "lastOpenFiles": [
-    "Zettelkasten/Tips Menulis Fiksi.md",
     "Daily/2026/August/14.08.26.226.md",
+    "Daily/2026/August/15.08.26.227.md",
     "Daily/2026/August/13.08.26.225.md",
+    "Zettelkasten/Tips Menulis Fiksi.md",
     "Daily/2026/August/12.08.26.224.md",
     "Daily/2026/August/11.08.26.223.md",
     "Daily/2026/August/10.08.26.222.md",
@@ -292,7 +256,6 @@
     "Zettelkasten/Exercise Skill 1.md",
     "Daily/2026/July/13.07.26.194.md",
     "Zettelkasten/Linear Algebra (Gilbert  Strang).md",
-    "Literature/Longman - TOEFL Test.md",
     "Daily/2026/August",
     "Daily/2026/July",
     "Daily/2026/June",
