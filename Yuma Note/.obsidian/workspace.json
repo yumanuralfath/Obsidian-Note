@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "18.08.26.230"
             }
-          },
-          {
-            "id": "eca367b38a8df0a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026/August/17.08.26.229.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "17.08.26.229"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,7 +228,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "eca367b38a8df0a6",
+  "active": "80292c87dec9657a",
   "lastOpenFiles": [
     "Daily/2026/August/18.08.26.230.md",
     "Daily/2026/August/16.08.26.228.md",
