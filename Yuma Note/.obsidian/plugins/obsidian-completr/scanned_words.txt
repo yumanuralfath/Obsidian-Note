@@ -2983,6 +2983,8 @@ citra
 cita
 cemilan
 codingan
+clap
+consume
 updated
 utama
 utamanya
@@ -3409,6 +3411,7 @@ Collection
 CHEM
 CLEAN
 Cemilan
+CORS
 For
 FF
 February
@@ -5577,6 +5580,7 @@ peringati
 pembebasan
 punch
 pasar
+policy
 noun
 notice
 no
@@ -10300,6 +10304,7 @@ larik
 legends
 lini
 linea
+llibrary
 verb
 various
 vociferously
@@ -11355,6 +11360,7 @@ disebelah
 didkutuk
 dahului
 disimpulkan
+direct
 VERB
 Verb
 Valentine
