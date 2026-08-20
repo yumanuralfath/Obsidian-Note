@@ -5838,6 +5838,7 @@ nyobain
 nyerah
 nikmati
 nutrisi
+nyoba
 read
 recognize
 rather
