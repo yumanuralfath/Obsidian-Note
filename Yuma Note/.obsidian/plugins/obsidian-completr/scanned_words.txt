@@ -5581,6 +5581,8 @@ pembebasan
 punch
 pasar
 policy
+plugin
+patch
 noun
 notice
 no
@@ -5839,6 +5841,7 @@ nyerah
 nikmati
 nutrisi
 nyoba
+ngerasa
 read
 recognize
 rather
@@ -8185,6 +8188,9 @@ eksplorasi
 esensial
 expression
 emas
+excited
+ereader
+explore
 will
 with
 when
@@ -12912,6 +12918,7 @@ kecewa
 ketiga
 kemanusiawian
 kreativitas
+koinsight
 Note
 November
 Nur
