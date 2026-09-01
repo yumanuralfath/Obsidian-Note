@@ -4173,6 +4173,7 @@ Sambil
 SEGERA
 SINS
 Skip
+Sep
 An
 After
 Answers
@@ -10312,6 +10313,7 @@ legends
 lini
 linea
 llibrary
+langit
 verb
 various
 vociferously
