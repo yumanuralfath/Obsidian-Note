@@ -510,6 +510,8 @@ tulislah
 terdekat
 tuangkan
 terngah
+tanaman
+terusik
 Longman
 Literature
 LB
@@ -1418,6 +1420,7 @@ alay
 ambyar
 anyir
 asam
+apatis
 Deborah
 Do
 Disini
@@ -2384,6 +2387,8 @@ grup
 gaming
 gaban
 generasi
+gambut
+guineensis
 Book
 Because
 Be
@@ -3189,6 +3194,7 @@ upaya
 usia
 ust
 umamah
+untutk
 Course
 Created
 Careful
@@ -5584,6 +5590,9 @@ pasar
 policy
 plugin
 patch
+presiden
+pemberitaan
+plenger
 noun
 notice
 no
@@ -6160,6 +6169,8 @@ rekomendasinya
 respons
 rendah
 rangkum
+rancang
+rakyat
 such
 so
 sentence
@@ -7314,6 +7325,7 @@ berdampingan
 bau
 bercampur
 busuk
+benih
 form
 for
 first
@@ -7922,6 +7934,7 @@ hiburan
 halamannya
 hijarah
 hentikan
+hutan
 exams
 example
 either
@@ -8646,6 +8659,7 @@ EIGO
 Eigo
 ENG
 ENGLISH
+Elaeis
 questions
 quite
 qr
@@ -9669,6 +9683,11 @@ mengasah
 membanttu
 meniatkan
 mimpi
+memicu
+mengherankan
+macam
+menormalisasikan
+menguatkan
 In
 It
 If
@@ -11370,6 +11389,7 @@ didkutuk
 dahului
 disimpulkan
 direct
+dititik
 VERB
 Verb
 Valentine
@@ -12290,6 +12310,7 @@ Klien
 Kaku
 Khairen
 Kadang
+Kebakaran
 Utama
 Use
 UL
@@ -12921,6 +12942,10 @@ ketiga
 kemanusiawian
 kreativitas
 koinsight
+kebakaran
+kemarau
+katanya
+kawasan
 Note
 November
 Nur
