@@ -512,6 +512,7 @@ tuangkan
 terngah
 tanaman
 terusik
+trend
 Longman
 Literature
 LB
@@ -1421,6 +1422,7 @@ ambyar
 anyir
 asam
 apatis
+automasi
 Deborah
 Do
 Disini
@@ -2159,6 +2161,7 @@ yakni
 yumana
 youtube
 yah
+yag
 grammar
 gerund
 giving
@@ -2389,6 +2392,7 @@ gaban
 generasi
 gambut
 guineensis
+galakkan
 Book
 Because
 Be
@@ -3195,6 +3199,9 @@ usia
 ust
 umamah
 untutk
+uda
+ulah
+uncensored
 Course
 Created
 Careful
@@ -3832,6 +3839,7 @@ REVIEW
 Recehan
 REFILL
 RAJIN
+Rutinittas
 Skill
 Sumber
 Source
@@ -4698,6 +4706,7 @@ observasi
 odading
 opening
 otang
+organic
 is
 in
 it
@@ -4985,6 +4994,8 @@ imajinasi
 inshaallah
 inang
 ikan
+influence
+industri
 pronoun
 preposition
 prepositional
@@ -5593,6 +5604,14 @@ patch
 presiden
 pemberitaan
 plenger
+penghapusan
+penumpahan
+pekat
+proletar
+pesat
+paksa
+penyampaian
+peninggalan
 noun
 notice
 no
@@ -5852,6 +5871,7 @@ nikmati
 nutrisi
 nyoba
 ngerasa
+nonfiction
 read
 recognize
 rather
@@ -6171,6 +6191,8 @@ rendah
 rangkum
 rancang
 rakyat
+raw
+rentan
 such
 so
 sentence
@@ -6773,6 +6795,9 @@ suapkan
 sebaik
 sayauran
 sin
+seller
+saing
+setidaknya
 by
 behind
 boat
@@ -7326,6 +7351,16 @@ bau
 bercampur
 busuk
 benih
+bajakan
+berteman
+benarnya
+beban
+beraktivas
+berkeadilan
+bututh
+bertahan
+bahan
+bernilai
 form
 for
 first
@@ -7622,6 +7657,8 @@ fasting
 feedback
 fiksi
 fenomena
+fantasi
+finansial
 his
 he
 has
@@ -7935,6 +7972,7 @@ halamannya
 hijarah
 hentikan
 hutan
+hidupnya
 exams
 example
 either
@@ -8205,6 +8243,8 @@ emas
 excited
 ereader
 explore
+editan
+elite
 will
 with
 when
@@ -8451,6 +8491,7 @@ wilayah
 weltanschauung
 wawasan
 wkwwk
+wkkwwk
 Exams
 Example
 Exercise
@@ -9688,6 +9729,18 @@ mengherankan
 macam
 menormalisasikan
 menguatkan
+merilis
+meng
+mulailah
+marjinal
+mempunya
+mempertahankan
+membela
+menengah
+miskin
+menumbalkan
+melihatnya
+merutinkan
 In
 It
 If
@@ -10333,6 +10386,8 @@ lini
 linea
 llibrary
 langit
+lagian
+lelucon
 verb
 various
 vociferously
@@ -11390,6 +11445,12 @@ dahului
 disimpulkan
 direct
 dititik
+delete
+dipertanyakan
+dimengerti
+ditumbalkan
+dirinya
+dibuktikan
 VERB
 Verb
 Valentine
@@ -12311,6 +12372,7 @@ Kaku
 Khairen
 Kadang
 Kebakaran
+Kelompok
 Utama
 Use
 UL
@@ -12946,6 +13008,14 @@ kebakaran
 kemarau
 katanya
 kawasan
+keluarganya
+karyanya
+khairen
+keluh
+kesah
+kaum
+ketat
+ketimpangan
 Note
 November
 Nur
