@@ -4188,6 +4188,7 @@ SEGERA
 SINS
 Skip
 Sep
+Salam
 An
 After
 Answers
@@ -6798,6 +6799,8 @@ sin
 seller
 saing
 setidaknya
+secepatnya
+segitu
 by
 behind
 boat
@@ -7361,6 +7364,7 @@ bututh
 bertahan
 bahan
 bernilai
+briefing
 form
 for
 first
@@ -10939,6 +10943,7 @@ Gemini
 Gotong
 Gentleman
 Goodreads
+Gas
 does
 div
 dalam
@@ -11451,6 +11456,7 @@ dimengerti
 ditumbalkan
 dirinya
 dibuktikan
+diceritakn
 VERB
 Verb
 Valentine
@@ -13016,6 +13022,7 @@ kesah
 kaum
 ketat
 ketimpangan
+keterlambatan
 Note
 November
 Nur
